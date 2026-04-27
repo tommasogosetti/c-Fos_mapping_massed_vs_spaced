@@ -1,0 +1,44 @@
+“Heatmap” folder: Contains all heatmap images for both raw and standardized c-Fos density values. It also includes the R script and the CSV files containing the complete datasets (raw and standardized).
+
+“PCA” folder: Contains all PCA analyses performed on both raw and standardized c-Fos density values, including the PCA used to compare stainings. It includes the CSV files used for PCA (raw, standardized, and staining-comparison PCA), the corresponding output images, and the R script used for the analysis.
+
+“Fig.1-behavioral data” folder: Contains a CSV file with all raw behavioral data, a Prism file with graphs and statistical analyses, and Figure 1 (TIFF).
+
+“Fig.2-PLS(groups_vs_HC)” folder: Contains the PLS analyses for each group compared with the HC control group. The folder includes four subfolders (MC–HC, SC–HC, SS–HC, MS–HC) and Figure 2 (TIFF), as well as a Prism file for graphical representation. Each subfolder contains: CSV files with output contrasts and saliences, the corresponding PNG images, and the Python scripts (PLS_x_HC and utils). The main folder also contains Figure 2 (TIFF) and the Prism file.
+
+“Fig.3-PLS(all groups)” folder: Contains the same file types as the previous folder, but for the PLS analysis including all groups together. It includes the Python scripts, original PNG output images, Figure 3 (TIFF), and a Prism file for graphical representation.
+
+“Fig.4-Networks” folder: Contains all files required to generate the networks. It includes four subfolders (one per group), each containing: the correlation matrix image (PNG), CSV files for p-value matrices and correlation strength (cormatrix_ci_x_net_r), and the original correlation matrix (x_net, CSV). Each group folder also includes three R scripts corresponding to the selected thresholds (0.65, 0.62, and 0.71). The main folder also includes a Cytoscape file (0.65 threshold), the original Figure 4 (TIFF), an R script to compute network small-worldness, and a Prism file for graphical representation of this metric.
+
+“Fig.5-SS and MS Coarse networks” folder: Contains a Cytoscape file with the coarse network representations and Figure 5 (TIFF).
+
+“Fig.6-disruptions” folder: Contains the data required to generate network disruption metrics. It includes two subfolders:
+
+“disruption” (CSV files for betweenness centrality, Katz centrality, degree, and CI disruption values, plus the corresponding relative GC dimension values),
+
+“ranking” (CSV files for ranking values of betweenness centrality, Katz centrality, degree, and CI).
+The folder also contains five Prism files for graphical representation and the original Figure 6 (TIFF).
+
+“Fig.7-SS and MS disruption and networks” folder: Contains a Cytoscape file with the SS and MS network representations, two CSV files with betweenness centrality disruption ranking values (MS and SS), two Prism files for graphical representation, and the original Figure 7 (TIFF).
+
+“Fig.S1-behavioral data” folder: Contains a CSV file with all raw behavioral data, a Prism file with graphs and statistical analyses, and Figure S1 (TIFF).
+
+“Fig.S2-Correlation matrices” folder: Contains all correlation matrix CSV files generated in R, the correlation matrix image for all groups (PNG), and the original Figure S2 (TIFF).
+
+“Fig.S3-HC_group” folder: Contains all files necessary to build the HC group network. It includes the same file types as Figure 4.
+
+“Fig.S4-Network stability” folder: Contains the R script used to generate the r² vs c-Fos signal scatterplot, a TXT file with c-Fos and r² values for each group, and the original Figure S4 (TIFF).
+
+“Fig.S5-Negative networks” folder: Contains the same file types as Figure 4, except that the correlation threshold is set to < −0.65 (instead of > 0.65, as used for positive networks).
+
+“Fig.S6-Integration and segregation metrics” folder: Contains an R script that computes integration and segregation metrics and their confidence intervals (0.025 and 0.975) for all groups, a Prism file for graphical representation, and the original Figure S6 (TIFF).
+
+“Fig.S7-MeanR” folder: Contains a subfolder named “images used for Fig.S7” with all PNGs used in the final figure. It also includes the standardized matrices used for network generation (x_net), four R scripts (one per group) to extract regions of interest (e.g., HPC–BG), a CSV file named “MEAN_R_0.65” with mean_R metrics, a Prism file for graphical representation of correlation strength values, and the original Figure S7 (TIFF).
+
+“Fig.S8”, “Fig.S10”, and “Fig.S11-MeanR” folders: Contain only the PNG images used to compose Figures S8, S10, and S11, as well as the final TIFF figures.
+
+“Fig.S9 SC and MC Coarse networks” folder: Contains a Cytoscape file with the coarse network representations and Figure S9 (TIFF).
+
+“Fig.S12-Degree and Katz disruption ranking” folder: Contains eight Prism files showing disruption ranking for degree and Katz centrality for each group (SS, MS, SC, MC), two CSV files (one per metric: degree and Katz), and the original Figure S12 (TIFF).
+
+“Fig.S13-SC and MC disruption and networks” folder: Contains a Cytoscape file with SC and MC network representations, two CSV files with betweenness centrality disruption ranking values (MC and SC), two Prism files for graphical representation, and the original Figure S13 (TIFF).
