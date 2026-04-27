@@ -1,0 +1,1329 @@
+Region ID;Region Name;Region pixels;Region area;Area unit;Object count;Object pixels;Object area;Area unit;Load;Scale(micron/pixel);Area(micron2);Density(cells/micron2)
+0;Clear Label;0;0;um2;185;6387;6387;um2;0
+997;root;229116;229116.250000;um2;78;1509;1509;um2;0.006586;1.22469;343643.2059160477;0.0002269796075032994
+8;Basic cell groups and regions;0;0;um2;0;0;0;um2;0
+567;Cerebrum;0;0;um2;0;0;0;um2;0
+688;Cerebral cortex;0;0;um2;0;0;0;um2;0
+695;Cortical plate;0;0;um2;0;0;0;um2;0
+315;Isocortex;0;0;um2;0;0;0;um2;0
+184;Frontal pole, cerebral cortex;0;0;um2;0;0;0;um2;0
+68;Frontal pole, layer 1;0;0;um2;0;0;0;um2;0
+667;Frontal pole, layer 2/3;0;0;um2;0;0;0;um2;0
+526157192;Frontal pole, layer 5;0;0;um2;0;0;0;um2;0
+526157196;Frontal pole, layer 6a;0;0;um2;0;0;0;um2;0
+526322264;Frontal pole, layer 6b;0;0;um2;0;0;0;um2;0
+500;Somatomotor areas;0;0;um2;0;0;0;um2;0
+107;Somatomotor areas, Layer 1;0;0;um2;0;0;0;um2;0
+219;Somatomotor areas, Layer 2/3;0;0;um2;0;0;0;um2;0
+299;Somatomotor areas, Layer 5;0;0;um2;0;0;0;um2;0
+644;Somatomotor areas, Layer 6a;0;0;um2;0;0;0;um2;0
+947;Somatomotor areas, Layer 6b;0;0;um2;0;0;0;um2;0
+985;Primary motor area;0;0;um2;0;0;0;um2;0
+320;Primary motor area, Layer 1;0;0;um2;0;0;0;um2;0
+943;Primary motor area, Layer 2/3;30918;30917.675781;um2;95;1903;1903;um2;0.061551;1.22469;46372.844500219806;0.002048612739284296
+648;Primary motor area, Layer 5;147103;147103.046875;um2;314;7062;7062;um2;0.048007;1.22469;220634.72878309834;0.0014231667051322968
+844;Primary motor area, Layer 6a;139618;139617.714844;um2;288;6399;6399;um2;0.045832;1.22469;209408.23479628982;0.0013753040814281417
+882;Primary motor area, Layer 6b;11391;11390.722656;um2;17;354;354;um2;0.031078;1.22469;17084.969005175102;0.0009950266807537452
+993;Secondary motor area;0;0;um2;0;0;0;um2;0
+656;Secondary motor area, layer 1;0;0;um2;0;0;0;um2;0
+962;Secondary motor area, layer 2/3;21805;21805.097656;um2;67;1275;1275;um2;0.058473;1.22469;32704.569322960502;0.002048643397146408
+767;Secondary motor area, layer 5;151008;151008.437500;um2;275;6043;6043;um2;0.040018;1.22469;226491.7039358688;0.0012141725070771968
+1021;Secondary motor area, layer 6a;129203;129203.339844;um2;248;5851;5851;um2;0.045285;1.22469;193787.13461290832;0.0012797547189878338
+1085;Secondary motor area, layer 6b;5533;5532.636719;um2;10;253;253;um2;0.045729;1.22469;8298.756343221301;0.0012049998320734325
+453;Somatosensory areas;0;0;um2;0;0;0;um2;0
+12993;Somatosensory areas, layer 1;0;0;um2;0;0;0;um2;0
+12994;Somatosensory areas, layer 2/3;0;0;um2;0;0;0;um2;0
+12995;Somatosensory areas, layer 4;0;0;um2;0;0;0;um2;0
+12996;Somatosensory areas, layer 5;0;0;um2;0;0;0;um2;0
+12997;Somatosensory areas, layer 6a;0;0;um2;0;0;0;um2;0
+12998;Somatosensory areas, layer 6b;0;0;um2;0;0;0;um2;0
+322;Primary somatosensory area;0;0;um2;0;0;0;um2;0
+793;Primary somatosensory area, layer 1;0;0;um2;0;0;0;um2;0
+346;Primary somatosensory area, layer 2/3;0;0;um2;0;0;0;um2;0
+865;Primary somatosensory area, layer 4;0;0;um2;0;0;0;um2;0
+921;Primary somatosensory area, layer 5;0;0;um2;0;0;0;um2;0
+686;Primary somatosensory area, layer 6a;0;0;um2;0;0;0;um2;0
+719;Primary somatosensory area, layer 6b;0;0;um2;0;0;0;um2;0
+353;Primary somatosensory area, nose;0;0;um2;0;0;0;um2;0
+558;Primary somatosensory area, nose, layer 1;17249;17248.808594;um2;26;915;915;um2;0.053047;1.22469;25871.1816671289;0.001004979221070322
+838;Primary somatosensory area, nose, layer 2/3;55326;55326.367188;um2;185;4346;4346;um2;0.078552;1.22469;82981.56396982861;0.002229410861275939
+654;Primary somatosensory area, nose, layer 4;88848;88847.636719;um2;459;11494;11494;um2;0.129368;1.22469;133260.0584822928;0.003444392905327972
+702;Primary somatosensory area, nose, layer 5;170861;170860.839844;um2;407;9257;9257;um2;0.054179;1.22469;256268.53561524214;0.0015881778035016514
+889;Primary somatosensory area, nose, layer 6a;356041;356041.445313;um2;1270;25846;25846;um2;0.072593;1.22469;534013.6467010401;0.0023782163767642277
+929;Primary somatosensory area, nose, layer 6b;32219;32219.472656;um2;27;479;479;um2;0.014867;1.22469;48324.16964074591;0.0005587266206688045
+329;Primary somatosensory area, barrel field;0;0;um2;0;0;0;um2;0
+981;Primary somatosensory area, barrel field, layer 1;297786;297786.035156;um2;438;6513;6513;um2;0.021871;1.22469;446638.9764002346;0.00098065780897614
+201;Primary somatosensory area, barrel field, layer 2/3;457256;457256.152344;um2;1849;38442;38442;um2;0.084071;1.22469;685822.5430103018;0.0026960326965691853
+1047;Primary somatosensory area, barrel field, layer 4;345302;345301.621094;um2;2020;36788;36788;um2;0.106539;1.22469;517906.5900645222;0.0039003172362574935
+1070;Primary somatosensory area, barrel field, layer 5;263288;263288.417969;um2;730;15094;15094;um2;0.057329;1.22469;394896.6130659768;0.0018485851127774454
+1038;Primary somatosensory area, barrel field, layer 6a;189411;189411.445313;um2;697;13393;13393;um2;0.070709;1.22469;284091.0424228971;0.002453438848530985
+1062;Primary somatosensory area, barrel field, layer 6b;6834;6834.433594;um2;5;69;69;um2;0.010096;1.22469;10250.0814837474;0.0004878010002094163
+480149202;Rostrolateral lateral visual area;0;0;um2;0;0;0;um2;0
+480149206;Rostrolateral lateral visual area, layer 1;0;0;um2;0;0;0;um2;0
+480149210;Rostrolateral lateral visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+480149214;Rostrolateral lateral visual area, layer 4;0;0;um2;0;0;0;um2;0
+480149218;Rostrolateral lateral visual area,layer 5;0;0;um2;0;0;0;um2;0
+480149222;Rostrolateral lateral visual area, layer 6a;0;0;um2;0;0;0;um2;0
+480149226;Rostrolateral lateral visual area, layer 6b;0;0;um2;0;0;0;um2;0
+337;Primary somatosensory area, lower limb;0;0;um2;0;0;0;um2;0
+1030;Primary somatosensory area, lower limb, layer 1;140920;140919.511719;um2;34;488;488;um2;0.003463;1.22469;211361.05980241203;0.00016086217599298769
+113;Primary somatosensory area, lower limb, layer 2/3;348882;348881.562500;um2;890;16344;16344;um2;0.046847;1.22469;523276.1088985602;0.0017008229209496187
+1094;Primary somatosensory area, lower limb, layer 4;139618;139617.714844;um2;636;10948;10948;um2;0.078414;1.22469;209408.23479628982;0.0030371298464871464
+1128;Primary somatosensory area, lower limb, layer 5;378823;378822.890625;um2;945;20307;20307;um2;0.053606;1.22469;568183.5847113904;0.0016631948289741844
+478;Primary somatosensory area, lower limb, layer 6a;338467;338467.187500;um2;831;16673;16673;um2;0.049260;1.22469;507655.00871517876;0.0016369384438915974
+510;Primary somatosensory area, lower limb, layer 6b;23432;23432.343750;um2;6;178;178;um2;0.007596;1.22469;35144.850647815205;0.00017072202298213472
+345;Primary somatosensory area, mouth;0;0;um2;0;0;0;um2;0
+878;Primary somatosensory area, mouth, layer 1;0;0;um2;0;0;0;um2;0
+657;Primary somatosensory area, mouth, layer 2/3;0;0;um2;0;0;0;um2;0
+950;Primary somatosensory area, mouth, layer 4;0;0;um2;0;0;0;um2;0
+974;Primary somatosensory area, mouth, layer 5;0;0;um2;0;0;0;um2;0
+1102;Primary somatosensory area, mouth, layer 6a;0;0;um2;0;0;0;um2;0
+2;Primary somatosensory area, mouth, layer 6b;0;0;um2;0;0;0;um2;0
+369;Primary somatosensory area, upper limb;0;0;um2;0;0;0;um2;0
+450;Primary somatosensory area, upper limb, layer 1;55326;55326.367188;um2;86;1736;1736;um2;0.031377;1.22469;82981.56396982861;0.0010363747787553012
+854;Primary somatosensory area, upper limb, layer 2/3;128878;128877.890625;um2;519;9969;9969;um2;0.077352;1.22469;193299.6782941758;0.0026849501488054868
+577;Primary somatosensory area, upper limb, layer 4;63463;63462.597656;um2;354;5696;5696;um2;0.089754;1.22469;95185.97032529431;0.0037190354711962165
+625;Primary somatosensory area, upper limb, layer 5;123020;123019.804688;um2;348;7478;7478;um2;0.060787;1.22469;184513.46563222204;0.001886041210095985
+945;Primary somatosensory area, upper limb, layer 6a;173790;173789.882813;um2;496;9469;9469;um2;0.054485;1.22469;260661.64194621902;0.001902849979370333
+1026;Primary somatosensory area, upper limb, layer 6b;17574;17574.257813;um2;13;256;256;um2;0.014567;1.22469;26358.637985861402;0.0004931969552817225
+361;Primary somatosensory area, trunk;0;0;um2;0;0;0;um2;0
+1006;Primary somatosensory area, trunk, layer 1;48166;48166.484375;um2;6;69;69;um2;0.001433;1.22469;72242.52630175262;8.305357394256075e-05
+670;Primary somatosensory area, trunk, layer 2/3;54675;54675.468750;um2;81;1668;1668;um2;0.030507;1.22469;82005.15146676752;0.0009877428253129334
+1086;Primary somatosensory area, trunk, layer 4;1953;1952.695313;um2;6;88;88;um2;0.045066;1.22469;2929.2375091833;0.0020483146147042405
+1111;Primary somatosensory area, trunk, layer 5;976;976.347656;um2;3;84;84;um2;0.086035;1.22469;1463.8688217936;0.002049363956207675
+9;Primary somatosensory area, trunk, layer 6a;0;0;um2;0;0;0;um2;0
+461;Primary somatosensory area, trunk, layer 6b;0;0;um2;0;0;0;um2;0
+182305689;Primary somatosensory area, unassigned;0;0;um2;0;0;0;um2;0
+182305693;Primary somatosensory area, unassigned, layer 1;37101;37101.210938;um2;67;1136;1136;um2;0.030619;1.22469;55646.5134809061;0.0012040287128319298
+182305697;Primary somatosensory area, unassigned, layer 2/3;69321;69320.683594;um2;287;5918;5918;um2;0.085371;1.22469;103972.18298724812;0.0027603536999429904
+182305701;Primary somatosensory area, unassigned, layer 4;40681;40681.152344;um2;215;3772;3772;um2;0.092721;1.22469;61016.0323149441;0.00352366405750939
+182305705;Primary somatosensory area, unassigned, layer 5;67368;67367.988281;um2;185;4107;4107;um2;0.060964;1.22469;101042.94547806481;0.0018309046626135937
+182305709;Primary somatosensory area, unassigned, layer 6a;103493;103492.851563;um2;307;5798;5798;um2;0.056023;1.22469;155225.59013717732;0.0019777666796350736
+182305713;Primary somatosensory area, unassigned, layer 6b;8787;8787.128906;um2;6;83;83;um2;0.009446;1.22469;13179.318992930701;0.0004552587279523593
+378;Supplemental somatosensory area;0;0;um2;0;0;0;um2;0
+873;Supplemental somatosensory area, layer 1;234974;234974.335938;um2;132;2574;2574;um2;0.010954;1.22469;352429.41857800144;0.00037454308023603626
+806;Supplemental somatosensory area, layer 2/3;417551;417551.347656;um2;712;16419;16419;um2;0.039322;1.22469;626270.3795171512;0.0011368891508950903
+1035;Supplemental somatosensory area, layer 4;235625;235625.234375;um2;529;12139;12139;um2;0.051518;1.22469;353405.8310810625;0.0014968626815856374
+1090;Supplemental somatosensory area, layer 5;457256;457256.152344;um2;935;20763;20763;um2;0.045408;1.22469;685822.5430103018;0.0013633264312018325
+862;Supplemental somatosensory area, layer 6a;465718;465717.832031;um2;1066;24774;24774;um2;0.053195;1.22469;698514.4056844999;0.0015260959420806612
+893;Supplemental somatosensory area, layer 6b;42308;42308.398438;um2;55;1278;1278;um2;0.030207;1.22469;63456.313639798806;0.0008667380256628217
+1057;Gustatory areas;0;0;um2;0;0;0;um2;0
+36;Gustatory areas, layer 1;0;0;um2;0;0;0;um2;0
+180;Gustatory areas, layer 2/3;0;0;um2;0;0;0;um2;0
+148;Gustatory areas, layer 4;0;0;um2;0;0;0;um2;0
+187;Gustatory areas, layer 5;0;0;um2;0;0;0;um2;0
+638;Gustatory areas, layer 6a;0;0;um2;0;0;0;um2;0
+662;Gustatory areas, layer 6b;0;0;um2;0;0;0;um2;0
+677;Visceral area;0;0;um2;0;0;0;um2;0
+897;Visceral area, layer 1;73226;73226.074219;um2;10;417;417;um2;0.005695;1.22469;109829.15814001861;9.10505021558231e-05
+1106;Visceral area, layer 2/3;136689;136688.671875;um2;124;2797;2797;um2;0.020463;1.22469;205015.12846531294;0.0006048334136521047
+1010;Visceral area, layer 4;48492;48491.933594;um2;60;835;835;um2;0.017219;1.22469;72731.48248608121;0.0008249522483125837
+1058;Visceral area, layer 5;183553;183553.359375;um2;262;5218;5218;um2;0.028428;1.22469;275304.82976094336;0.0009516723706863538
+857;Visceral area, layer 6a;138641;138641.367188;um2;236;5495;5495;um2;0.039635;1.22469;207942.8661089001;0.0011349271288605125
+849;Visceral area, layer 6b;12693;12692.519531;um2;11;272;272;um2;0.021430;1.22469;19037.7940112973;0.000577798036551527
+247;Auditory areas;0;0;um2;0;0;0;um2;0
+1011;Dorsal auditory area;0;0;um2;0;0;0;um2;0
+527;Dorsal auditory area, layer 1;0;0;um2;0;0;0;um2;0
+600;Dorsal auditory area, layer 2/3;0;0;um2;0;0;0;um2;0
+678;Dorsal auditory area, layer 4;0;0;um2;0;0;0;um2;0
+252;Dorsal auditory area, layer 5;0;0;um2;0;0;0;um2;0
+156;Dorsal auditory area, layer 6a;0;0;um2;0;0;0;um2;0
+243;Dorsal auditory area, layer 6b;0;0;um2;0;0;0;um2;0
+480149230;Laterolateral anterior visual area;0;0;um2;0;0;0;um2;0
+480149234;Laterolateral anterior visual area, layer 1;0;0;um2;0;0;0;um2;0
+480149238;Laterolateral anterior visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+480149242;Laterolateral anterior visual area, layer 4;0;0;um2;0;0;0;um2;0
+480149246;Laterolateral anterior visual area,layer 5;0;0;um2;0;0;0;um2;0
+480149250;Laterolateral anterior visual area, layer 6a;0;0;um2;0;0;0;um2;0
+480149254;Laterolateral anterior visual area, layer 6b;0;0;um2;0;0;0;um2;0
+1002;Primary auditory area;0;0;um2;0;0;0;um2;0
+735;Primary auditory area, layer 1;0;0;um2;0;0;0;um2;0
+251;Primary auditory area, layer 2/3;0;0;um2;0;0;0;um2;0
+816;Primary auditory area, layer 4;0;0;um2;0;0;0;um2;0
+847;Primary auditory area, layer 5;0;0;um2;0;0;0;um2;0
+954;Primary auditory area, layer 6a;0;0;um2;0;0;0;um2;0
+1005;Primary auditory area, layer 6b;0;0;um2;0;0;0;um2;0
+1027;Posterior auditory area;0;0;um2;0;0;0;um2;0
+696;Posterior auditory area, layer 1;0;0;um2;0;0;0;um2;0
+643;Posterior auditory area, layer 2/3;0;0;um2;0;0;0;um2;0
+759;Posterior auditory area, layer 4;0;0;um2;0;0;0;um2;0
+791;Posterior auditory area, layer 5;0;0;um2;0;0;0;um2;0
+249;Posterior auditory area, layer 6a;0;0;um2;0;0;0;um2;0
+456;Posterior auditory area, layer 6b;0;0;um2;0;0;0;um2;0
+1018;Ventral auditory area;0;0;um2;0;0;0;um2;0
+959;Ventral auditory area, layer 1;0;0;um2;0;0;0;um2;0
+755;Ventral auditory area, layer 2/3;0;0;um2;0;0;0;um2;0
+990;Ventral auditory area, layer 4;0;0;um2;0;0;0;um2;0
+1023;Ventral auditory area, layer 5;0;0;um2;0;0;0;um2;0
+520;Ventral auditory area, layer 6a;0;0;um2;0;0;0;um2;0
+598;Ventral auditory area, layer 6b;0;0;um2;0;0;0;um2;0
+669;Visual areas;0;0;um2;0;0;0;um2;0
+801;Visual areas, layer 1;0;0;um2;0;0;0;um2;0
+561;Visual areas, layer 2/3;0;0;um2;0;0;0;um2;0
+913;Visual areas, layer 4;0;0;um2;0;0;0;um2;0
+937;Visual areas, layer 5;0;0;um2;0;0;0;um2;0
+457;Visual areas, layer 6a;0;0;um2;0;0;0;um2;0
+497;Visual areas, layer 6b;0;0;um2;0;0;0;um2;0
+402;Anterolateral visual area;0;0;um2;0;0;0;um2;0
+1074;Anterolateral visual area, layer 1;0;0;um2;0;0;0;um2;0
+905;Anterolateral visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+1114;Anterolateral visual area, layer 4;0;0;um2;0;0;0;um2;0
+233;Anterolateral visual area, layer 5;0;0;um2;0;0;0;um2;0
+601;Anterolateral visual area, layer 6a;0;0;um2;0;0;0;um2;0
+649;Anterolateral visual area, layer 6b;0;0;um2;0;0;0;um2;0
+394;Anteromedial visual area;0;0;um2;0;0;0;um2;0
+281;Anteromedial visual area, layer 1;0;0;um2;0;0;0;um2;0
+1066;Anteromedial visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+401;Anteromedial visual area, layer 4;0;0;um2;0;0;0;um2;0
+433;Anteromedial visual area, layer 5;0;0;um2;0;0;0;um2;0
+1046;Anteromedial visual area, layer 6a;0;0;um2;0;0;0;um2;0
+441;Anteromedial visual area, layer 6b;0;0;um2;0;0;0;um2;0
+409;Lateral visual area;0;0;um2;0;0;0;um2;0
+421;Lateral visual area, layer 1;0;0;um2;0;0;0;um2;0
+973;Lateral visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+573;Lateral visual area, layer 4;0;0;um2;0;0;0;um2;0
+613;Lateral visual area, layer 5;0;0;um2;0;0;0;um2;0
+74;Lateral visual area, layer 6a;0;0;um2;0;0;0;um2;0
+121;Lateral visual area, layer 6b;0;0;um2;0;0;0;um2;0
+385;Primary visual area;0;0;um2;0;0;0;um2;0
+593;Primary visual area, layer 1;0;0;um2;0;0;0;um2;0
+821;Primary visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+721;Primary visual area, layer 4;0;0;um2;0;0;0;um2;0
+778;Primary visual area, layer 5;0;0;um2;0;0;0;um2;0
+33;Primary visual area, layer 6a;0;0;um2;0;0;0;um2;0
+305;Primary visual area, layer 6b;0;0;um2;0;0;0;um2;0
+425;Posterolateral visual area;0;0;um2;0;0;0;um2;0
+750;Posterolateral visual area, layer 1;0;0;um2;0;0;0;um2;0
+269;Posterolateral visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+869;Posterolateral visual area, layer 4;0;0;um2;0;0;0;um2;0
+902;Posterolateral visual area, layer 5;0;0;um2;0;0;0;um2;0
+377;Posterolateral visual area, layer 6a;0;0;um2;0;0;0;um2;0
+393;Posterolateral visual area, layer 6b;0;0;um2;0;0;0;um2;0
+533;posteromedial visual area;0;0;um2;0;0;0;um2;0
+805;posteromedial visual area, layer 1;0;0;um2;0;0;0;um2;0
+41;posteromedial visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+501;posteromedial visual area, layer 4;0;0;um2;0;0;0;um2;0
+565;posteromedial visual area, layer 5;0;0;um2;0;0;0;um2;0
+257;posteromedial visual area, layer 6a;0;0;um2;0;0;0;um2;0
+469;posteromedial visual area, layer 6b;0;0;um2;0;0;0;um2;0
+312782574;Laterointermediate area;0;0;um2;0;0;0;um2;0
+312782578;Laterointermediate area, layer 1;0;0;um2;0;0;0;um2;0
+312782582;Laterointermediate area, layer 2/3;0;0;um2;0;0;0;um2;0
+312782586;Laterointermediate area, layer 4;0;0;um2;0;0;0;um2;0
+312782590;Laterointermediate area, layer 5;0;0;um2;0;0;0;um2;0
+312782594;Laterointermediate area, layer 6a;0;0;um2;0;0;0;um2;0
+312782598;Laterointermediate area, layer 6b;0;0;um2;0;0;0;um2;0
+312782628;Postrhinal area;0;0;um2;0;0;0;um2;0
+312782632;Postrhinal area, layer 1;0;0;um2;0;0;0;um2;0
+312782636;Postrhinal area, layer 2/3;0;0;um2;0;0;0;um2;0
+312782640;Postrhinal area, layer 4;0;0;um2;0;0;0;um2;0
+312782644;Postrhinal area, layer 5;0;0;um2;0;0;0;um2;0
+312782648;Postrhinal area, layer 6a;0;0;um2;0;0;0;um2;0
+312782652;Postrhinal area, layer 6b;0;0;um2;0;0;0;um2;0
+31;Anterior cingulate area;0;0;um2;0;0;0;um2;0
+572;Anterior cingulate area, layer 1;0;0;um2;0;0;0;um2;0
+1053;Anterior cingulate area, layer 2/3;0;0;um2;0;0;0;um2;0
+739;Anterior cingulate area, layer 5;0;0;um2;0;0;0;um2;0
+179;Anterior cingulate area, layer 6a;0;0;um2;0;0;0;um2;0
+227;Anterior cingulate area, layer 6b;0;0;um2;0;0;0;um2;0
+39;Anterior cingulate area, dorsal part;0;0;um2;0;0;0;um2;0
+935;Anterior cingulate area, dorsal part, layer 1;0;0;um2;0;0;0;um2;0
+211;Anterior cingulate area, dorsal part, layer 2/3;0;0;um2;0;0;0;um2;0
+1015;Anterior cingulate area, dorsal part, layer 5;24734;24734.140625;um2;45;713;713;um2;0.028827;1.22469;37097.675653937404;0.0012130140017336604
+919;Anterior cingulate area, dorsal part, layer 6a;88197;88196.738281;um2;105;2079;2079;um2;0.023572;1.22469;132283.64597923172;0.0007937489114601876
+927;Anterior cingulate area, dorsal part, layer 6b;6184;6183.535156;um2;1;11;11;um2;0.001779;1.22469;9275.1688462824;0.00010781474888199066
+48;Anterior cingulate area, ventral part;0;0;um2;0;0;0;um2;0
+588;Anterior cingulate area, ventral part, layer 1;5533;5532.636719;um2;5;71;71;um2;0.012833;1.22469;8298.756343221301;0.0006024999160367163
+296;Anterior cingulate area, ventral part, layer 2/3;15622;15621.562500;um2;9;129;129;um2;0.008258;1.22469;23430.9003422742;0.0003841081592482443
+772;Anterior cingulate area, ventral part, layer 5;25060;25059.589844;um2;3;11;11;um2;0.000439;1.22469;37586.631838266;7.981561138302836e-05
+810;Anterior cingulate area, ventral part, 6a;27338;27337.734375;um2;10;142;142;um2;0.005194;1.22469;41003.3256661818;0.0002438826567730742
+819;Anterior cingulate area, ventral part, 6b;8787;8787.128906;um2;0;0;0;um2;0;1.22469;13179.318992930701;0.0
+972;Prelimbic area;0;0;um2;0;0;0;um2;0
+171;Prelimbic area, layer 1;0;0;um2;0;0;0;um2;0
+195;Prelimbic area, layer 2;0;0;um2;0;0;0;um2;0
+304;Prelimbic area, layer 2/3;0;0;um2;0;0;0;um2;0
+363;Prelimbic area, layer 5;0;0;um2;0;0;0;um2;0
+84;Prelimbic area, layer 6a;0;0;um2;0;0;0;um2;0
+132;Prelimbic area, layer 6b;0;0;um2;0;0;0;um2;0
+44;Infralimbic area;0;0;um2;0;0;0;um2;0
+707;Infralimbic area, layer 1;0;0;um2;0;0;0;um2;0
+747;Infralimbic area, layer 2;0;0;um2;0;0;0;um2;0
+556;Infralimbic area, layer 2/3;0;0;um2;0;0;0;um2;0
+827;Infralimbic area, layer 5;0;0;um2;0;0;0;um2;0
+1054;Infralimbic area, layer 6a;0;0;um2;0;0;0;um2;0
+1081;Infralimbic area, layer 6b;0;0;um2;0;0;0;um2;0
+714;Orbital area;0;0;um2;0;0;0;um2;0
+264;Orbital area, layer 1;0;0;um2;0;0;0;um2;0
+492;Orbital area, layer 2/3;0;0;um2;0;0;0;um2;0
+352;Orbital area, layer 5;0;0;um2;0;0;0;um2;0
+476;Orbital area, layer 6a;0;0;um2;0;0;0;um2;0
+516;Orbital area, layer 6b;0;0;um2;0;0;0;um2;0
+723;Orbital area, lateral part;0;0;um2;0;0;0;um2;0
+448;Orbital area, lateral part, layer 1;0;0;um2;0;0;0;um2;0
+412;Orbital area, lateral part, layer 2/3;0;0;um2;0;0;0;um2;0
+630;Orbital area, lateral part, layer 5;0;0;um2;0;0;0;um2;0
+440;Orbital area, lateral part, layer 6a;0;0;um2;0;0;0;um2;0
+488;Orbital area, lateral part, layer 6b;0;0;um2;0;0;0;um2;0
+731;Orbital area, medial part;0;0;um2;0;0;0;um2;0
+484;Orbital area, medial part, layer 1;0;0;um2;0;0;0;um2;0
+524;Orbital area, medial part, layer 2;0;0;um2;0;0;0;um2;0
+582;Orbital area, medial part, layer 2/3;0;0;um2;0;0;0;um2;0
+620;Orbital area, medial part, layer 5;0;0;um2;0;0;0;um2;0
+910;Orbital area, medial part, layer 6a;0;0;um2;0;0;0;um2;0
+527696977;Orbital area, medial part, layer 6b;0;0;um2;0;0;0;um2;0
+738;Orbital area, ventral part;0;0;um2;0;0;0;um2;0
+746;Orbital area, ventrolateral part;0;0;um2;0;0;0;um2;0
+969;Orbital area, ventrolateral part, layer 1;0;0;um2;0;0;0;um2;0
+288;Orbital area, ventrolateral part, layer 2/3;0;0;um2;0;0;0;um2;0
+1125;Orbital area, ventrolateral part, layer 5;0;0;um2;0;0;0;um2;0
+608;Orbital area, ventrolateral part, layer 6a;0;0;um2;0;0;0;um2;0
+680;Orbital area, ventrolateral part, layer 6b;0;0;um2;0;0;0;um2;0
+95;Agranular insular area;0;0;um2;0;0;0;um2;0
+104;Agranular insular area, dorsal part;0;0;um2;0;0;0;um2;0
+996;Agranular insular area, dorsal part, layer 1;0;0;um2;0;0;0;um2;0
+328;Agranular insular area, dorsal part, layer 2/3;0;0;um2;0;0;0;um2;0
+1101;Agranular insular area, dorsal part, layer 5;0;0;um2;0;0;0;um2;0
+783;Agranular insular area, dorsal part, layer 6a;0;0;um2;0;0;0;um2;0
+831;Agranular insular area, dorsal part, layer 6b;0;0;um2;0;0;0;um2;0
+111;Agranular insular area, posterior part;0;0;um2;0;0;0;um2;0
+120;Agranular insular area, posterior part, layer 1;94706;94705.722656;um2;15;152;152;um2;0.001605;1.22469;142046.2711442466;0.00010559939292434961
+163;Agranular insular area, posterior part, layer 2/3;176068;176068.027344;um2;127;1805;1805;um2;0.010252;1.22469;264078.33577413484;0.0004809179050136949
+344;Agranular insular area, posterior part, layer 5;166955;166955.449219;um2;181;2983;2983;um2;0.017867;1.22469;250410.06059687553;0.0007228144091677857
+314;Agranular insular area, posterior part, layer 6a;114233;114232.675781;um2;137;4340;4340;um2;0.037993;1.22469;171334.1466392913;0.0007996070992691564
+355;Agranular insular area, posterior part, layer 6b;2604;2603.593750;um2;2;56;56;um2;0.021509;1.22469;3905.6500122444004;0.00051207865367606
+119;Agranular insular area, ventral part;0;0;um2;0;0;0;um2;0
+704;Agranular insular area, ventral part, layer 1;0;0;um2;0;0;0;um2;0
+694;Agranular insular area, ventral part, layer 2/3;0;0;um2;0;0;0;um2;0
+800;Agranular insular area, ventral part, layer 5;0;0;um2;0;0;0;um2;0
+675;Agranular insular area, ventral part, layer 6a;0;0;um2;0;0;0;um2;0
+699;Agranular insular area, ventral part, layer 6b;0;0;um2;0;0;0;um2;0
+254;Retrosplenial area;0;0;um2;0;0;0;um2;0
+894;Retrosplenial area, lateral agranular part;0;0;um2;0;0;0;um2;0
+671;Retrosplenial area, lateral agranular part, layer 1;89499;89498.535156;um2;22;430;430;um2;0.004805;1.22469;134236.4709853539;0.00016388988654506828
+965;Retrosplenial area, lateral agranular part, layer 2/3;106422;106421.894531;um2;206;3950;3950;um2;0.037116;1.22469;159618.6964681542;0.0012905756315401272
+774;Retrosplenial area, lateral agranular part, layer 5;0;0;um2;0;0;0;um2;0
+906;Retrosplenial area, lateral agranular part, layer 6a;0;0;um2;0;0;0;um2;0
+279;Retrosplenial area, lateral agranular part, layer 6b;0;0;um2;0;0;0;um2;0
+480149258;Mediomedial anterior visual area;0;0;um2;0;0;0;um2;0
+480149262;Mediomedial anterior visual area, layer 1;0;0;um2;0;0;0;um2;0
+480149266;Mediomedial anterior visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+480149270;Mediomedial anterior visual area, layer 4;0;0;um2;0;0;0;um2;0
+480149274;Mediomedial anterior visual area,layer 5;0;0;um2;0;0;0;um2;0
+480149278;Mediomedial anterior visual area, layer 6a;0;0;um2;0;0;0;um2;0
+480149282;Mediomedial anterior visual area, layer 6b;0;0;um2;0;0;0;um2;0
+480149286;Mediomedial posterior visual area;0;0;um2;0;0;0;um2;0
+480149290;Mediomedial posterior visual area, layer 1;0;0;um2;0;0;0;um2;0
+480149294;Mediomedial posterior visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+480149298;Mediomedial posterior visual area, layer 4;0;0;um2;0;0;0;um2;0
+480149302;Mediomedial posterior visual area,layer 5;0;0;um2;0;0;0;um2;0
+480149306;Mediomedial posterior visual area, layer 6a;0;0;um2;0;0;0;um2;0
+480149310;Mediomedial posterior visual area, layer 6b;0;0;um2;0;0;0;um2;0
+480149314;Medial visual area;0;0;um2;0;0;0;um2;0
+480149318;Medial visual area, layer 1;0;0;um2;0;0;0;um2;0
+480149322;Medial visual area, layer 2/3;0;0;um2;0;0;0;um2;0
+480149326;Medial visual area, layer 4;0;0;um2;0;0;0;um2;0
+480149330;Medial visual area,layer 5;0;0;um2;0;0;0;um2;0
+480149334;Medial visual area, layer 6a;0;0;um2;0;0;0;um2;0
+480149338;Medial visual area, layer 6b;0;0;um2;0;0;0;um2;0
+879;Retrosplenial area, dorsal part;0;0;um2;0;0;0;um2;0
+442;Retrosplenial area, dorsal part, layer 1;119765;119765.312500;um2;37;487;487;um2;0.004066;1.22469;179631.40311691654;0.00020597734782441042
+434;Retrosplenial area, dorsal part, layer 2/3;132783;132783.281250;um2;243;4711;4711;um2;0.035479;1.22469;199156.65344694632;0.0012201450255074364
+545;Retrosplenial area, dorsal part, layer 4;0;0;um2;0;0;0;um2;0
+610;Retrosplenial area, dorsal part, layer 5;87220;87220.390625;um2;109;1651;1651;um2;0.018929;1.22469;130818.27729184201;0.0008332169040632778
+274;Retrosplenial area, dorsal part, layer 6a;0;0;um2;0;0;0;um2;0
+330;Retrosplenial area, dorsal part, layer 6b;0;0;um2;0;0;0;um2;0
+886;Retrosplenial area, ventral part;0;0;um2;0;0;0;um2;0
+542;Retrosplenial area, ventral part, layer 1;112931;112930.878906;um2;115;1619;1619;um2;0.014336;1.22469;169381.32163316914;0.0006789414493355806
+606;Retrosplenial area, ventral part, layer 2;0;0;um2;0;0;0;um2;0
+430;Retrosplenial area, ventral part, layer 2/3;109676;109676.386719;um2;277;4635;4635;um2;0.042261;1.22469;164499.2591178636;0.0016838981615201665
+687;Retrosplenial area, ventral part, layer 5;161748;161748.261719;um2;198;3670;3670;um2;0.022690;1.22469;242600.26043798283;0.0008161574090750648
+590;Retrosplenial area, ventral part, layer 6a;23758;23757.792969;um2;10;219;219;um2;0.009218;1.22469;35633.806832143804;0.0002806323794453364
+622;Retrosplenial area, ventral part, layer 6b;2278;2278.144531;um2;0;0;0;um2;0;1.22469;3416.6938279158003;0.0
+22;Posterior parietal association areas;0;0;um2;0;0;0;um2;0
+532;Posterior parietal association areas, layer 1;0;0;um2;0;0;0;um2;0
+241;Posterior parietal association areas, layer 2/3;0;0;um2;0;0;0;um2;0
+635;Posterior parietal association areas, layer 4;0;0;um2;0;0;0;um2;0
+683;Posterior parietal association areas, layer 5;0;0;um2;0;0;0;um2;0
+308;Posterior parietal association areas, layer 6a;0;0;um2;0;0;0;um2;0
+340;Posterior parietal association areas, layer 6b;0;0;um2;0;0;0;um2;0
+312782546;Anterior area;0;0;um2;0;0;0;um2;0
+312782550;Anterior area, layer 1;0;0;um2;0;0;0;um2;0
+312782554;Anterior area, layer 2/3;0;0;um2;0;0;0;um2;0
+312782558;Anterior area, layer 4;0;0;um2;0;0;0;um2;0
+312782562;Anterior area, layer 5;0;0;um2;0;0;0;um2;0
+312782566;Anterior area, layer 6a;0;0;um2;0;0;0;um2;0
+312782570;Anterior area, layer 6b;0;0;um2;0;0;0;um2;0
+417;Rostrolateral visual area;0;0;um2;0;0;0;um2;0
+312782604;Rostrolateral area, layer 1;0;0;um2;0;0;0;um2;0
+312782608;Rostrolateral area, layer 2/3;0;0;um2;0;0;0;um2;0
+312782612;Rostrolateral area, layer 4;0;0;um2;0;0;0;um2;0
+312782616;Rostrolateral area, layer 5;0;0;um2;0;0;0;um2;0
+312782620;Rostrolateral area, layer 6a;0;0;um2;0;0;0;um2;0
+312782624;Rostrolateral area, layer 6b;0;0;um2;0;0;0;um2;0
+541;Temporal association areas;0;0;um2;0;0;0;um2;0
+97;Temporal association areas, layer 1;0;0;um2;0;0;0;um2;0
+1127;Temporal association areas, layer 2/3;0;0;um2;0;0;0;um2;0
+234;Temporal association areas, layer 4;0;0;um2;0;0;0;um2;0
+289;Temporal association areas, layer 5;0;0;um2;0;0;0;um2;0
+729;Temporal association areas, layer 6a;0;0;um2;0;0;0;um2;0
+786;Temporal association areas, layer 6b;0;0;um2;0;0;0;um2;0
+922;Perirhinal area;0;0;um2;0;0;0;um2;0
+540;Perirhinal area, layer 1;0;0;um2;0;0;0;um2;0
+888;Perirhinal area, layer 2/3;0;0;um2;0;0;0;um2;0
+692;Perirhinal area, layer 5;0;0;um2;0;0;0;um2;0
+335;Perirhinal area, layer 6a;0;0;um2;0;0;0;um2;0
+368;Perirhinal area, layer 6b;0;0;um2;0;0;0;um2;0
+895;Ectorhinal area;0;0;um2;0;0;0;um2;0
+836;Ectorhinal area/Layer 1;0;0;um2;0;0;0;um2;0
+427;Ectorhinal area/Layer 2/3;0;0;um2;0;0;0;um2;0
+988;Ectorhinal area/Layer 5;0;0;um2;0;0;0;um2;0
+977;Ectorhinal area/Layer 6a;0;0;um2;0;0;0;um2;0
+1045;Ectorhinal area/Layer 6b;0;0;um2;0;0;0;um2;0
+698;Olfactory areas;97960;97960.214844;um2;47;1130;1130;um2;0.011535;1.22469;146926.833793956;0.00031988710834067804
+507;Main olfactory bulb;0;0;um2;0;0;0;um2;0
+212;Main olfactory bulb, glomerular layer;0;0;um2;0;0;0;um2;0
+220;Main olfactory bulb, granule layer;0;0;um2;0;0;0;um2;0
+228;Main olfactory bulb, inner plexiform layer;0;0;um2;0;0;0;um2;0
+236;Main olfactory bulb, mitral layer;0;0;um2;0;0;0;um2;0
+244;Main olfactory bulb, outer plexiform layer;0;0;um2;0;0;0;um2;0
+151;Accessory olfactory bulb;0;0;um2;0;0;0;um2;0
+188;Accessory olfactory bulb, glomerular layer;0;0;um2;0;0;0;um2;0
+196;Accessory olfactory bulb, granular layer;0;0;um2;0;0;0;um2;0
+204;Accessory olfactory bulb, mitral layer;0;0;um2;0;0;0;um2;0
+159;Anterior olfactory nucleus;0;0;um2;0;0;0;um2;0
+167;Anterior olfactory nucleus, dorsal part;0;0;um2;0;0;0;um2;0
+175;Anterior olfactory nucleus, external part;0;0;um2;0;0;0;um2;0
+183;Anterior olfactory nucleus, lateral part;0;0;um2;0;0;0;um2;0
+191;Anterior olfactory nucleus, medial part;0;0;um2;0;0;0;um2;0
+199;Anterior olfactory nucleus, posteroventral part;0;0;um2;0;0;0;um2;0
+160;Anterior olfactory nucleus, layer 1;0;0;um2;0;0;0;um2;0
+168;Anterior olfactory nucleus, layer 2;0;0;um2;0;0;0;um2;0
+589;Taenia tecta;0;0;um2;0;0;0;um2;0
+597;Taenia tecta, dorsal part;0;0;um2;0;0;0;um2;0
+297;Taenia tecta, dorsal part, layers 1-4;0;0;um2;0;0;0;um2;0
+1034;Taenia tecta, dorsal part, layer 1;0;0;um2;0;0;0;um2;0
+1042;Taenia tecta, dorsal part, layer 2;0;0;um2;0;0;0;um2;0
+1050;Taenia tecta, dorsal part, layer 3;0;0;um2;0;0;0;um2;0
+1059;Taenia tecta, dorsal part, layer 4;0;0;um2;0;0;0;um2;0
+605;Taenia tecta, ventral part;0;0;um2;0;0;0;um2;0
+306;Taenia tecta, ventral part, layers 1-3;0;0;um2;0;0;0;um2;0
+1067;Taenia tecta, ventral part, layer 1;0;0;um2;0;0;0;um2;0
+1075;Taenia tecta, ventral part, layer 2;0;0;um2;0;0;0;um2;0
+1082;Taenia tecta, ventral part, layer 3;0;0;um2;0;0;0;um2;0
+814;Dorsal peduncular area;0;0;um2;0;0;0;um2;0
+496;Dorsal peduncular area, layer 1;0;0;um2;0;0;0;um2;0
+535;Dorsal peduncular area, layer 2;0;0;um2;0;0;0;um2;0
+360;Dorsal peduncular area, layer 2/3;0;0;um2;0;0;0;um2;0
+646;Dorsal peduncular area, layer 5;0;0;um2;0;0;0;um2;0
+267;Dorsal peduncular area, layer 6a;0;0;um2;0;0;0;um2;0
+961;Piriform area;1354845;1354845.097656;um2;1543;37281;37281;um2;0.027517;1.22469;2032085.4035481047;0.0007593184800726675
+152;Piriform area, layers 1-3;0;0;um2;0;0;0;um2;0
+276;Piriform area, molecular layer;0;0;um2;0;0;0;um2;0
+284;Piriform area, pyramidal layer;0;0;um2;0;0;0;um2;0
+291;Piriform area, polymorph layer;0;0;um2;0;0;0;um2;0
+619;Nucleus of the lateral olfactory tract;0;0;um2;0;0;0;um2;0
+392;Nucleus of the lateral olfactory tract, layers 1-3;0;0;um2;0;0;0;um2;0
+260;Nucleus of the lateral olfactory tract, molecular layer;155565;155564.726563;um2;64;1205;1205;um2;0.007746;1.22469;233326.59145729654;0.00027429363965878395
+268;Nucleus of the lateral olfactory tract, pyramidal layer;228791;228790.800781;um2;432;9271;9271;um2;0.040522;1.22469;343155.74959731515;0.0012589035751461003
+1139;Nucleus of the lateral olfactory tract, layer 3;66717;66717.089844;um2;116;2649;2649;um2;0.039705;1.22469;100066.53297500372;0.0011592287306384085
+631;Cortical amygdalar area;0;0;um2;0;0;0;um2;0
+639;Cortical amygdalar area, anterior part;293230;293229.746094;um2;380;8364;8364;um2;0.028524;1.22469;439805.58874440304;0.0008640181246556201
+192;Cortical amygdalar area, anterior part, layer 1;0;0;um2;0;0;0;um2;0
+200;Cortical amygdalar area, anterior part, layer 2;0;0;um2;0;0;0;um2;0
+208;Cortical amygdalar area, anterior part, layer 3;0;0;um2;0;0;0;um2;0
+647;Cortical amygdalar area, posterior part;0;0;um2;0;0;0;um2;0
+655;Cortical amygdalar area, posterior part, lateral zone;0;0;um2;0;0;0;um2;0
+584;Cortical amygdalar area, posterior part, lateral zone, layers 1-2;0;0;um2;0;0;0;um2;0
+376;Cortical amygdalar area, posterior part, lateral zone, layers 1-3;0;0;um2;0;0;0;um2;0
+216;Cortical amygdalar area, posterior part, lateral zone, layer 1;0;0;um2;0;0;0;um2;0
+224;Cortical amygdalar area, posterior part, lateral zone, layer 2;0;0;um2;0;0;0;um2;0
+232;Cortical amygdalar area, posterior part, lateral zone, layer 3;0;0;um2;0;0;0;um2;0
+663;Cortical amygdalar area, posterior part, medial zone;0;0;um2;0;0;0;um2;0
+592;Cortical amygdalar area, posterior part, medial zone, layers 1-2;0;0;um2;0;0;0;um2;0
+383;Cortical amygdalar area, posterior part, medial zone, layers 1-3;0;0;um2;0;0;0;um2;0
+240;Cortical amygdalar area, posterior part, medial zone, layer 1;0;0;um2;0;0;0;um2;0
+248;Cortical amygdalar area, posterior part, medial zone, layer 2;0;0;um2;0;0;0;um2;0
+256;Cortical amygdalar area, posterior part, medial zone, layer 3;0;0;um2;0;0;0;um2;0
+788;Piriform-amygdalar area;300390;300389.628906;um2;386;9451;9451;um2;0.031462;1.22469;450544.62641247903;0.0008567408806394516
+400;Piriform-amygdalar area, layers 1-3;0;0;um2;0;0;0;um2;0
+408;Piriform-amygdalar area, molecular layer;0;0;um2;0;0;0;um2;0
+416;Piriform-amygdalar area, pyramidal layer;0;0;um2;0;0;0;um2;0
+424;Piriform-amygdalar area, polymorph layer;0;0;um2;0;0;0;um2;0
+566;Postpiriform transition area;0;0;um2;0;0;0;um2;0
+517;Postpiriform transition area, layers 1-3;0;0;um2;0;0;0;um2;0
+1140;Postpiriform transition area, layers 1;0;0;um2;0;0;0;um2;0
+1141;Postpiriform transition area, layers 2;0;0;um2;0;0;0;um2;0
+1142;Postpiriform transition area, layers 3;0;0;um2;0;0;0;um2;0
+1089;Hippocampal formation;4556;4556.289063;um2;6;112;112;um2;0.024581;1.22469;6833.387655831601;0.0008780418003769494
+1080;Hippocampal region;0;0;um2;0;0;0;um2;0
+375;Ammon's horn;0;0;um2;0;0;0;um2;0
+382;Field CA1;0;0;um2;0;0;0;um2;0
+391;Field CA1, stratum lacunosum-moleculare;0;0;um2;0;0;0;um2;0
+399;Field CA1, stratum oriens;0;0;um2;0;0;0;um2;0
+407;Field CA1, pyramidal layer;0;0;um2;0;0;0;um2;0
+415;Field CA1, stratum radiatum;0;0;um2;0;0;0;um2;0
+423;Field CA2;0;0;um2;0;0;0;um2;0
+431;Field CA2, stratum lacunosum-moleculare;0;0;um2;0;0;0;um2;0
+438;Field CA2, stratum oriens;0;0;um2;0;0;0;um2;0
+446;Field CA2, pyramidal layer;0;0;um2;0;0;0;um2;0
+454;Field CA2, stratum radiatum;0;0;um2;0;0;0;um2;0
+463;Field CA3;400628;400627.988281;um2;609;12578;12578;um2;0.031396;1.22469;600888.1540343509;0.0010134997601653258
+471;Field CA3, stratum lacunosum-moleculare;0;0;um2;0;0;0;um2;0
+479;Field CA3, stratum lucidum;0;0;um2;0;0;0;um2;0
+486;Field CA3, stratum oriens;0;0;um2;0;0;0;um2;0
+495;Field CA3, pyramidal layer;0;0;um2;0;0;0;um2;0
+504;Field CA3, stratum radiatum;0;0;um2;0;0;0;um2;0
+726;Dentate gyrus;0;0;um2;0;0;0;um2;0
+10703;Dentate gyrus, molecular layer;137014;137014.121094;um2;125;2484;2484;um2;0.018130;1.22469;205502.5847840454;0.000608264855312441
+10704;Dentate gyrus, polymorph layer;0;0;um2;0;0;0;um2;0
+632;Dentate gyrus, granule cell layer;36450;36450.312500;um2;49;1057;1057;um2;0.028998;1.22469;54670.100977845;0.0008962851563024768
+10702;Dentate gyrus, subgranular zone;0;0;um2;0;0;0;um2;0
+734;Dentate gyrus crest;0;0;um2;0;0;0;um2;0
+742;Dentate gyrus crest, molecular layer;0;0;um2;0;0;0;um2;0
+751;Dentate gyrus crest, polymorph layer;0;0;um2;0;0;0;um2;0
+758;Dentate gyrus crest, granule cell layer;0;0;um2;0;0;0;um2;0
+766;Dentate gyrus lateral blade;0;0;um2;0;0;0;um2;0
+775;Dentate gyrus lateral blade, molecular layer;0;0;um2;0;0;0;um2;0
+782;Dentate gyrus lateral blade, polymorph layer;0;0;um2;0;0;0;um2;0
+790;Dentate gyrus lateral blade, granule cell layer;0;0;um2;0;0;0;um2;0
+799;Dentate gyrus medial blade;0;0;um2;0;0;0;um2;0
+807;Dentate gyrus medial blade, molecular layer;0;0;um2;0;0;0;um2;0
+815;Dentate gyrus medial blade, polymorph layer;0;0;um2;0;0;0;um2;0
+823;Dentate gyrus medial blade, granule cell layer;0;0;um2;0;0;0;um2;0
+982;Fasciola cinerea;0;0;um2;0;0;0;um2;0
+19;Induseum griseum;6184;6183.535156;um2;0;0;0;um2;0;1.22469;9275.1688462824;0.0
+822;Retrohippocampal region;0;0;um2;0;0;0;um2;0
+909;Entorhinal area;0;0;um2;0;0;0;um2;0
+918;Entorhinal area, lateral part;0;0;um2;0;0;0;um2;0
+1121;Entorhinal area, lateral part, layer 1;0;0;um2;0;0;0;um2;0
+20;Entorhinal area, lateral part, layer 2;0;0;um2;0;0;0;um2;0
+999;Entorhinal area, lateral part, layer 2/3;0;0;um2;0;0;0;um2;0
+715;Entorhinal area, lateral part, layer 2a;0;0;um2;0;0;0;um2;0
+764;Entorhinal area, lateral part, layer 2b;0;0;um2;0;0;0;um2;0
+52;Entorhinal area, lateral part, layer 3;0;0;um2;0;0;0;um2;0
+92;Entorhinal area, lateral part, layer 4;0;0;um2;0;0;0;um2;0
+312;Entorhinal area, lateral part, layer 4/5;0;0;um2;0;0;0;um2;0
+139;Entorhinal area, lateral part, layer 5;0;0;um2;0;0;0;um2;0
+387;Entorhinal area, lateral part, layer 5/6;0;0;um2;0;0;0;um2;0
+28;Entorhinal area, lateral part, layer 6a;0;0;um2;0;0;0;um2;0
+60;Entorhinal area, lateral part, layer 6b;0;0;um2;0;0;0;um2;0
+926;Entorhinal area, medial part, dorsal zone;0;0;um2;0;0;0;um2;0
+526;Entorhinal area, medial part, dorsal zone, layer 1;0;0;um2;0;0;0;um2;0
+543;Entorhinal area, medial part, dorsal zone, layer 2;0;0;um2;0;0;0;um2;0
+468;Entorhinal area, medial part, dorsal zone, layer 2a;0;0;um2;0;0;0;um2;0
+508;Entorhinal area, medial part, dorsal zone, layer 2b;0;0;um2;0;0;0;um2;0
+664;Entorhinal area, medial part, dorsal zone, layer 3;0;0;um2;0;0;0;um2;0
+712;Entorhinal area, medial part, dorsal zone, layer 4;0;0;um2;0;0;0;um2;0
+727;Entorhinal area, medial part, dorsal zone, layer 5;0;0;um2;0;0;0;um2;0
+550;Entorhinal area, medial part, dorsal zone, layer 5/6;0;0;um2;0;0;0;um2;0
+743;Entorhinal area, medial part, dorsal zone, layer 6;0;0;um2;0;0;0;um2;0
+934;Entorhinal area, medial part, ventral zone;0;0;um2;0;0;0;um2;0
+259;Entorhinal area, medial part, ventral zone, layer 1;0;0;um2;0;0;0;um2;0
+324;Entorhinal area, medial part, ventral zone, layer 2;0;0;um2;0;0;0;um2;0
+371;Entorhinal area, medial part, ventral zone, layer 3;0;0;um2;0;0;0;um2;0
+419;Entorhinal area, medial part, ventral zone, layer 4;0;0;um2;0;0;0;um2;0
+1133;Entorhinal area, medial part, ventral zone, layer 5/6;0;0;um2;0;0;0;um2;0
+843;Parasubiculum;0;0;um2;0;0;0;um2;0
+10693;Parasubiculum, layer 1;0;0;um2;0;0;0;um2;0
+10694;Parasubiculum, layer 2;0;0;um2;0;0;0;um2;0
+10695;Parasubiculum, layer 3;0;0;um2;0;0;0;um2;0
+1037;Postsubiculum;0;0;um2;0;0;0;um2;0
+10696;Postsubiculum, layer 1;0;0;um2;0;0;0;um2;0
+10697;Postsubiculum, layer 2;0;0;um2;0;0;0;um2;0
+10698;Postsubiculum, layer 3;0;0;um2;0;0;0;um2;0
+1084;Presubiculum;0;0;um2;0;0;0;um2;0
+10699;Presubiculum, layer 1;0;0;um2;0;0;0;um2;0
+10700;Presubiculum, layer 2;0;0;um2;0;0;0;um2;0
+10701;Presubiculum, layer 3;0;0;um2;0;0;0;um2;0
+502;Subiculum;0;0;um2;0;0;0;um2;0
+509;Subiculum, dorsal part;0;0;um2;0;0;0;um2;0
+829;Subiculum, dorsal part, molecular layer;0;0;um2;0;0;0;um2;0
+845;Subiculum, dorsal part, pyramidal layer;0;0;um2;0;0;0;um2;0
+837;Subiculum, dorsal part, stratum radiatum;0;0;um2;0;0;0;um2;0
+518;Subiculum, ventral part;0;0;um2;0;0;0;um2;0
+853;Subiculum, ventral part, molecular layer;0;0;um2;0;0;0;um2;0
+870;Subiculum, ventral part, pyramidal layer;0;0;um2;0;0;0;um2;0
+861;Subiculum, ventral part, stratum radiatum;0;0;um2;0;0;0;um2;0
+484682470;Prosubiculum;0;0;um2;0;0;0;um2;0
+484682475;Prosubiculum, dorsal part;0;0;um2;0;0;0;um2;0
+484682479;Prosubiculum, dorsal part, molecular layer;0;0;um2;0;0;0;um2;0
+484682483;Prosubiculum, dorsal part, pyramidal layer;0;0;um2;0;0;0;um2;0
+484682487;Prosubiculum, dorsal part, stratum radiatum;0;0;um2;0;0;0;um2;0
+484682492;Prosubiculum, ventral part;0;0;um2;0;0;0;um2;0
+484682496;Prosubiculum, ventral part, molecular layer;0;0;um2;0;0;0;um2;0
+484682500;Prosubiculum, ventral part, pyramidal layer;0;0;um2;0;0;0;um2;0
+484682504;Prosubiculum, ventral part, stratum radiatum;0;0;um2;0;0;0;um2;0
+589508447;Hippocampo-amygdalar transition area;0;0;um2;0;0;0;um2;0
+484682508;Area prostriata;0;0;um2;0;0;0;um2;0
+703;Cortical subplate;89824;89823.984375;um2;79;1758;1758;um2;0.019572;1.22469;134723.92730408642;0.0005863843311343537
+16;Layer 6b, isocortex;0;0;um2;0;0;0;um2;0
+583;Claustrum;39054;39053.906250;um2;53;1518;1518;um2;0.038869;1.22469;58575.75099008941;0.0009048112760682695
+942;Endopiriform nucleus;0;0;um2;0;0;0;um2;0
+952;Endopiriform nucleus, dorsal part;191039;191038.691406;um2;206;5481;5481;um2;0.028691;1.22469;286532.8236133479;0.0007189403203521974
+966;Endopiriform nucleus, ventral part;281514;281513.574219;um2;245;5533;5533;um2;0.019654;1.22469;422233.16342049546;0.0005802481217137563
+131;Lateral amygdalar nucleus;0;0;um2;0;0;0;um2;0
+295;Basolateral amygdalar nucleus;0;0;um2;0;0;0;um2;0
+303;Basolateral amygdalar nucleus, anterior part;37427;37426.660156;um2;45;837;837;um2;0.022364;1.22469;56135.469665234705;0.0008016321991845555
+311;Basolateral amygdalar nucleus, posterior part;0;0;um2;0;0;0;um2;0
+451;Basolateral amygdalar nucleus, ventral part;0;0;um2;0;0;0;um2;0
+319;Basomedial amygdalar nucleus;0;0;um2;0;0;0;um2;0
+327;Basomedial amygdalar nucleus, anterior part;300715;300715.078125;um2;302;7060;7060;um2;0.023477;1.22469;451032.08273121156;0.000669575428362541
+334;Basomedial amygdalar nucleus, posterior part;0;0;um2;0;0;0;um2;0
+780;Posterior amygdalar nucleus;0;0;um2;0;0;0;um2;0
+623;Cerebral nuclei;0;0;um2;0;0;0;um2;0
+477;Striatum;443913;443912.734375;um2;399;8331;8331;um2;0.018767;1.22469;665809.8363615394;0.0005992702093144508
+485;Striatum dorsal region;0;0;um2;0;0;0;um2;0
+672;Caudoputamen;4267616;4267615.605469;um2;3070;52898;52898;um2;0.012395;1.22469;6400850.415765897;0.00047962376881020385
+493;Striatum ventral region;0;0;um2;0;0;0;um2;0
+56;Nucleus accumbens;0;0;um2;0;0;0;um2;0
+998;Fundus of striatum;0;0;um2;0;0;0;um2;0
+754;Olfactory tubercle;0;0;um2;0;0;0;um2;0
+481;Islands of Calleja;0;0;um2;0;0;0;um2;0
+489;Major island of Calleja;0;0;um2;0;0;0;um2;0
+144;Olfactory tubercle, layers 1-3;0;0;um2;0;0;0;um2;0
+458;Olfactory tubercle, molecular layer;0;0;um2;0;0;0;um2;0
+465;Olfactory tubercle, pyramidal layer;0;0;um2;0;0;0;um2;0
+473;Olfactory tubercle, polymorph layer;0;0;um2;0;0;0;um2;0
+549009199;Lateral strip of striatum;0;0;um2;0;0;0;um2;0
+275;Lateral septal complex;0;0;um2;0;0;0;um2;0
+242;Lateral septal nucleus;0;0;um2;0;0;0;um2;0
+250;Lateral septal nucleus, caudal (caudodorsal) part;0;0;um2;0;0;0;um2;0
+258;Lateral septal nucleus, rostral (rostroventral) part;0;0;um2;0;0;0;um2;0
+266;Lateral septal nucleus, ventral part;0;0;um2;0;0;0;um2;0
+310;Septofimbrial nucleus;0;0;um2;0;0;0;um2;0
+333;Septohippocampal nucleus;0;0;um2;0;0;0;um2;0
+278;Striatum-like amygdalar nuclei;0;0;um2;0;0;0;um2;0
+23;Anterior amygdalar area;181926;181926.113281;um2;120;2302;2302;um2;0.012653;1.22469;272864.54843608866;0.0004397786399434254
+292;Bed nucleus of the accessory olfactory tract;0;0;um2;0;0;0;um2;0
+536;Central amygdalar nucleus;0;0;um2;0;0;0;um2;0
+544;Central amygdalar nucleus, capsular part;97635;97634.765625;um2;80;1941;1941;um2;0.019880;1.22469;146439.3774752235;0.0005463011478148044
+551;Central amygdalar nucleus, lateral part;0;0;um2;0;0;0;um2;0
+559;Central amygdalar nucleus, medial part;360272;360272.285156;um2;212;4091;4091;um2;0.011355;1.22469;540359.5780381393;0.0003923313449346072
+1105;Intercalated amygdalar nucleus;14971;14970.664063;um2;1;15;15;um2;0.001002;1.22469;22454.4878392131;4.4534527225050446e-05
+403;Medial amygdalar nucleus;260685;260684.824219;um2;346;7216;7216;um2;0.027681;1.22469;390992.46291932854;0.0008849275441695366
+411;Medial amygdalar nucleus, anterodorsal part;0;0;um2;0;0;0;um2;0
+418;Medial amygdalar nucleus, anteroventral part;0;0;um2;0;0;0;um2;0
+426;Medial amygdalar nucleus, posterodorsal part;0;0;um2;0;0;0;um2;0
+472;Medial amygdalar nucleus, posterodorsal part, sublayer a;0;0;um2;0;0;0;um2;0
+480;Medial amygdalar nucleus, posterodorsal part, sublayer b;0;0;um2;0;0;0;um2;0
+487;Medial amygdalar nucleus, posterodorsal part, sublayer c;0;0;um2;0;0;0;um2;0
+435;Medial amygdalar nucleus, posteroventral part;0;0;um2;0;0;0;um2;0
+803;Pallidum;532435;532434.921875;um2;251;5211;5211;um2;0.009787;1.22469;798580.9386595036;0.0003143075270758755
+818;Pallidum, dorsal region;0;0;um2;0;0;0;um2;0
+1022;Globus pallidus, external segment;919394;919394.042969;um2;353;4153;4153;um2;0.004517;1.22469;1378967.4298607637;0.00025598864219414006
+1031;Globus pallidus, internal segment;0;0;um2;0;0;0;um2;0
+835;Pallidum, ventral region;0;0;um2;0;0;0;um2;0
+342;Substantia innominata;275981;275980.937500;um2;83;1958;1958;um2;0.007095;1.22469;413934.4070772741;0.0002005148607627232
+298;Magnocellular nucleus;0;0;um2;0;0;0;um2;0
+826;Pallidum, medial region;0;0;um2;0;0;0;um2;0
+904;Medial septal complex;0;0;um2;0;0;0;um2;0
+564;Medial septal nucleus;0;0;um2;0;0;0;um2;0
+596;Diagonal band nucleus;0;0;um2;0;0;0;um2;0
+581;Triangular nucleus of septum;0;0;um2;0;0;0;um2;0
+809;Pallidum, caudal region;0;0;um2;0;0;0;um2;0
+351;Bed nuclei of the stria terminalis;0;0;um2;0;0;0;um2;0
+359;Bed nuclei of the stria terminalis, anterior division;0;0;um2;0;0;0;um2;0
+537;Bed nuclei of the stria terminalis, anterior division, anterolateral area;0;0;um2;0;0;0;um2;0
+498;Bed nuclei of the stria terminalis, anterior division, anteromedial area;0;0;um2;0;0;0;um2;0
+505;Bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus;0;0;um2;0;0;0;um2;0
+513;Bed nuclei of the stria terminalis, anterior division, fusiform nucleus;0;0;um2;0;0;0;um2;0
+546;Bed nuclei of the stria terminalis, anterior division, juxtacapsular nucleus;0;0;um2;0;0;0;um2;0
+521;Bed nuclei of the stria terminalis, anterior division, magnocellular nucleus;0;0;um2;0;0;0;um2;0
+554;Bed nuclei of the stria terminalis, anterior division, oval nucleus;0;0;um2;0;0;0;um2;0
+562;Bed nuclei of the stria terminalis, anterior division, rhomboid nucleus;0;0;um2;0;0;0;um2;0
+529;Bed nuclei of the stria terminalis, anterior division, ventral nucleus;0;0;um2;0;0;0;um2;0
+367;Bed nuclei of the stria terminalis, posterior division;0;0;um2;0;0;0;um2;0
+569;Bed nuclei of the stria terminalis, posterior division, dorsal nucleus;0;0;um2;0;0;0;um2;0
+578;Bed nuclei of the stria terminalis, posterior division, principal nucleus;0;0;um2;0;0;0;um2;0
+585;Bed nuclei of the stria terminalis, posterior division, interfascicular nucleus;0;0;um2;0;0;0;um2;0
+594;Bed nuclei of the stria terminalis, posterior division, transverse nucleus;0;0;um2;0;0;0;um2;0
+602;Bed nuclei of the stria terminalis, posterior division, strial extension;0;0;um2;0;0;0;um2;0
+287;Bed nucleus of the anterior commissure;0;0;um2;0;0;0;um2;0
+343;Brain stem;0;0;um2;0;0;0;um2;0
+1129;Interbrain;0;0;um2;0;0;0;um2;0
+549;Thalamus;57279;57279.062500;um2;65;1384;1384;um2;0.024162;1.22469;85910.80147901192;0.0007565986916776647
+864;Thalamus, sensory-motor cortex related;0;0;um2;0;0;0;um2;0
+637;Ventral group of the dorsal thalamus;0;0;um2;0;0;0;um2;0
+629;Ventral anterior-lateral complex of the thalamus;190062;190062.343750;um2;120;2117;2117;um2;0.011138;1.22469;285067.45492595824;0.0004209529987601289
+685;Ventral medial nucleus of the thalamus;54350;54350.019531;um2;49;1145;1145;um2;0.021067;1.22469;81517.69514803501;0.0006010964847695543
+709;Ventral posterior complex of the thalamus;0;0;um2;0;0;0;um2;0
+718;Ventral posterolateral nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+725;Ventral posterolateral nucleus of the thalamus, parvicellular part;0;0;um2;0;0;0;um2;0
+733;Ventral posteromedial nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+741;Ventral posteromedial nucleus of the thalamus, parvicellular part;0;0;um2;0;0;0;um2;0
+563807435;Posterior triangular thalamic nucleus;0;0;um2;0;0;0;um2;0
+406;Subparafascicular nucleus;0;0;um2;0;0;0;um2;0
+414;Subparafascicular nucleus, magnocellular part;0;0;um2;0;0;0;um2;0
+422;Subparafascicular nucleus, parvicellular part;0;0;um2;0;0;0;um2;0
+609;Subparafascicular area;0;0;um2;0;0;0;um2;0
+1044;Peripeduncular nucleus;0;0;um2;0;0;0;um2;0
+1008;Geniculate group, dorsal thalamus;0;0;um2;0;0;0;um2;0
+475;Medial geniculate complex;0;0;um2;0;0;0;um2;0
+1072;Medial geniculate complex, dorsal part;0;0;um2;0;0;0;um2;0
+1079;Medial geniculate complex, ventral part;0;0;um2;0;0;0;um2;0
+1088;Medial geniculate complex, medial part;0;0;um2;0;0;0;um2;0
+170;Dorsal part of the lateral geniculate complex;0;0;um2;0;0;0;um2;0
+496345664;Dorsal part of the lateral geniculate complex, shell;0;0;um2;0;0;0;um2;0
+496345668;Dorsal part of the lateral geniculate complex, core;0;0;um2;0;0;0;um2;0
+496345672;Dorsal part of the lateral geniculate complex, ipsilateral zone;0;0;um2;0;0;0;um2;0
+856;Thalamus, polymodal association cortex related;0;0;um2;0;0;0;um2;0
+138;Lateral group of the dorsal thalamus;0;0;um2;0;0;0;um2;0
+218;Lateral posterior nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+1020;Posterior complex of the thalamus;0;0;um2;0;0;0;um2;0
+1029;Posterior limiting nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+325;Suprageniculate nucleus;0;0;um2;0;0;0;um2;0
+560581551;Ethmoid nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+560581555;Retroethmoid nucleus;0;0;um2;0;0;0;um2;0
+239;Anterior group of the dorsal thalamus;0;0;um2;0;0;0;um2;0
+255;Anteroventral nucleus of thalamus;360272;360272.285156;um2;270;5109;5109;um2;0.014181;1.22469;540359.5780381393;0.0004996672789261506
+127;Anteromedial nucleus;0;0;um2;0;0;0;um2;0
+1096;Anteromedial nucleus, dorsal part;217400;217400.078125;um2;111;2414;2414;um2;0.011104;1.22469;326070.78059214004;0.0003404168867827578
+1104;Anteromedial nucleus, ventral part;151008;151008.437500;um2;127;2619;2619;um2;0.017343;1.22469;226491.7039358688;0.0005607269396320144
+64;Anterodorsal nucleus;183879;183878.808594;um2;76;1175;1175;um2;0.006390;1.22469;275793.7859452719;0.00027556821028259615
+1120;Interanteromedial nucleus of the thalamus;33847;33846.718750;um2;93;2264;2264;um2;0.066890;1.22469;50765.95083119671;0.001831936533784956
+1113;Interanterodorsal nucleus of the thalamus;86569;86569.492188;um2;183;4273;4273;um2;0.049359;1.22469;129841.86478878092;0.001409406744871491
+155;Lateral dorsal nucleus of thalamus;74202;74202.421875;um2;22;410;410;um2;0.005525;1.22469;111293.0269618122;0.00019767635583807803
+444;Medial group of the dorsal thalamus;0;0;um2;0;0;0;um2;0
+59;Intermediodorsal nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+362;Mediodorsal nucleus of thalamus;218051;218050.976563;um2;697;16777;16777;um2;0.076941;1.22469;327047.1930952011;0.002131190894511387
+617;Mediodorsal nucleus of the thalamus, central part;0;0;um2;0;0;0;um2;0
+626;Mediodorsal nucleus of the thalamus, lateral part;0;0;um2;0;0;0;um2;0
+636;Mediodorsal nucleus of the thalamus, medial part;0;0;um2;0;0;0;um2;0
+366;Submedial nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+1077;Perireunensis nucleus;59232;59231.757813;um2;55;1010;1010;um2;0.017052;1.22469;88840.0389881952;0.0006190902280818251
+571;Midline group of the dorsal thalamus;0;0;um2;0;0;0;um2;0
+149;Paraventricular nucleus of the thalamus;98937;98936.562500;um2;337;7329;7329;um2;0.074078;1.22469;148392.2024813457;0.002271008815590321
+15;Parataenial nucleus;81688;81687.753906;um2;215;4346;4346;um2;0.053203;1.22469;122521.02081421681;0.001754800919639843
+181;Nucleus of reuniens;229442;229441.699219;um2;130;2856;2856;um2;0.012448;1.22469;344132.1621003762;0.00037776184360844976
+560581559;Xiphoid thalamic nucleus;33196;33195.820313;um2;32;746;746;um2;0.022473;1.22469;49789.538328135604;0.0006427052966248755
+51;Intralaminar nuclei of the dorsal thalamus;0;0;um2;0;0;0;um2;0
+189;Rhomboid nucleus;19202;19201.503906;um2;41;994;994;um2;0.051767;1.22469;28800.419176312203;0.0014235903911329778
+599;Central medial nucleus of the thalamus;41332;41332.050781;um2;98;2127;2127;um2;0.051461;1.22469;61992.444818005206;0.0015808377986656964
+907;Paracentral nucleus;0;0;um2;0;0;0;um2;0
+575;Central lateral nucleus of the thalamus;0;0;um2;0;0;0;um2;0
+930;Parafascicular nucleus;0;0;um2;0;0;0;um2;0
+560581563;Posterior intralaminar thalamic nucleus;0;0;um2;0;0;0;um2;0
+262;Reticular nucleus of the thalamus;680840;680839.765625;um2;690;13778;13778;um2;0.020237;1.22469;1021168.4924487241;0.0006756965232499543
+1014;Geniculate group, ventral thalamus;0;0;um2;0;0;0;um2;0
+27;Intergeniculate leaflet of the lateral geniculate complex;0;0;um2;0;0;0;um2;0
+563807439;Intermediate geniculate nucleus;0;0;um2;0;0;0;um2;0
+178;Ventral part of the lateral geniculate complex;0;0;um2;0;0;0;um2;0
+300;Ventral part of the lateral geniculate complex, lateral zone;0;0;um2;0;0;0;um2;0
+316;Ventral part of the lateral geniculate complex, medial zone;0;0;um2;0;0;0;um2;0
+321;Subgeniculate nucleus;0;0;um2;0;0;0;um2;0
+958;Epithalamus;0;0;um2;0;0;0;um2;0
+483;Medial habenula;38728;38728.457031;um2;24;563;563;um2;0.014537;1.22469;58086.7948057608;0.0004131748029867157
+186;Lateral habenula;1953;1952.695313;um2;3;43;43;um2;0.022021;1.22469;2929.2375091833;0.0010241573073521202
+953;Pineal body;0;0;um2;0;0;0;um2;0
+1097;Hypothalamus;502819;502819.042969;um2;551;12623;12623;um2;0.025104;1.22469;754160.9191654059;0.0007306133028077954
+157;Periventricular zone;0;0;um2;0;0;0;um2;0
+390;Supraoptic nucleus;43936;43935.644531;um2;37;725;725;um2;0.016501;1.22469;65898.0948302496;0.0005614729848459241
+332;Accessory supraoptic group;0;0;um2;0;0;0;um2;0
+432;Nucleus circularis;0;0;um2;0;0;0;um2;0
+38;Paraventricular hypothalamic nucleus;130180;130179.687500;um2;227;6036;6036;um2;0.046367;1.22469;195252.50330029803;0.0011625971301933802
+71;Paraventricular hypothalamic nucleus, magnocellular division;0;0;um2;0;0;0;um2;0
+47;Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part;0;0;um2;0;0;0;um2;0
+79;Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part;0;0;um2;0;0;0;um2;0
+103;Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part;0;0;um2;0;0;0;um2;0
+652;Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone;0;0;um2;0;0;0;um2;0
+660;Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone;0;0;um2;0;0;0;um2;0
+94;Paraventricular hypothalamic nucleus, parvicellular division;0;0;um2;0;0;0;um2;0
+55;Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part;0;0;um2;0;0;0;um2;0
+87;Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone;0;0;um2;0;0;0;um2;0
+110;Paraventricular hypothalamic nucleus, parvicellular division, periventricular part;0;0;um2;0;0;0;um2;0
+30;Periventricular hypothalamic nucleus, anterior part;82013;82013.203125;um2;157;2767;2767;um2;0.033738;1.22469;123008.47713294931;0.0012763347995139568
+118;Periventricular hypothalamic nucleus, intermediate part;0;0;um2;0;0;0;um2;0
+223;Arcuate hypothalamic nucleus;0;0;um2;0;0;0;um2;0
+141;Periventricular region;0;0;um2;0;0;0;um2;0
+72;Anterodorsal preoptic nucleus;0;0;um2;0;0;0;um2;0
+80;Anterior hypothalamic area;0;0;um2;0;0;0;um2;0
+263;Anteroventral preoptic nucleus;0;0;um2;0;0;0;um2;0
+272;Anteroventral periventricular nucleus;0;0;um2;0;0;0;um2;0
+830;Dorsomedial nucleus of the hypothalamus;0;0;um2;0;0;0;um2;0
+668;Dorsomedial nucleus of the hypothalamus, anterior part;0;0;um2;0;0;0;um2;0
+676;Dorsomedial nucleus of the hypothalamus, posterior part;0;0;um2;0;0;0;um2;0
+684;Dorsomedial nucleus of the hypothalamus, ventral part;0;0;um2;0;0;0;um2;0
+452;Median preoptic nucleus;0;0;um2;0;0;0;um2;0
+523;Medial preoptic area;0;0;um2;0;0;0;um2;0
+763;Vascular organ of the lamina terminalis;0;0;um2;0;0;0;um2;0
+914;Posterodorsal preoptic nucleus;0;0;um2;0;0;0;um2;0
+1109;Parastrial nucleus;0;0;um2;0;0;0;um2;0
+1124;Suprachiasmatic preoptic nucleus;0;0;um2;0;0;0;um2;0
+126;Periventricular hypothalamic nucleus, posterior part;0;0;um2;0;0;0;um2;0
+133;Periventricular hypothalamic nucleus, preoptic part;0;0;um2;0;0;0;um2;0
+347;Subparaventricular zone;121067;121067.109375;um2;207;4542;4542;um2;0.037516;1.22469;181584.22812303872;0.0011399668470090912
+286;Suprachiasmatic nucleus;62812;62811.699219;um2;194;3713;3713;um2;0.059113;1.22469;94209.55782223321;0.0020592390462766453
+338;Subfornical organ;0;0;um2;0;0;0;um2;0
+576073699;Ventromedial preoptic nucleus;0;0;um2;0;0;0;um2;0
+689;Ventrolateral preoptic nucleus;0;0;um2;0;0;0;um2;0
+467;Hypothalamic medial zone;0;0;um2;0;0;0;um2;0
+88;Anterior hypothalamic nucleus;649597;649596.640625;um2;806;20641;20641;um2;0.031775;1.22469;974308.1916297717;0.0008272536420449934
+700;Anterior hypothalamic nucleus, anterior part;0;0;um2;0;0;0;um2;0
+708;Anterior hypothalamic nucleus, central part;0;0;um2;0;0;0;um2;0
+716;Anterior hypothalamic nucleus, dorsal part;0;0;um2;0;0;0;um2;0
+724;Anterior hypothalamic nucleus, posterior part;0;0;um2;0;0;0;um2;0
+331;Mammillary body;0;0;um2;0;0;0;um2;0
+210;Lateral mammillary nucleus;0;0;um2;0;0;0;um2;0
+491;Medial mammillary nucleus;0;0;um2;0;0;0;um2;0
+732;Medial mammillary nucleus, median part;0;0;um2;0;0;0;um2;0
+606826647;Medial mammillary nucleus, lateral part;0;0;um2;0;0;0;um2;0
+606826651;Medial mammillary nucleus, medial part;0;0;um2;0;0;0;um2;0
+606826655;Medial mammillary nucleus, posterior part;0;0;um2;0;0;0;um2;0
+606826659;Medial mammillary nucleus, dorsal part;0;0;um2;0;0;0;um2;0
+525;Supramammillary nucleus;0;0;um2;0;0;0;um2;0
+1110;Supramammillary nucleus, lateral part;0;0;um2;0;0;0;um2;0
+1118;Supramammillary nucleus, medial part;0;0;um2;0;0;0;um2;0
+557;Tuberomammillary nucleus;0;0;um2;0;0;0;um2;0
+1126;Tuberomammillary nucleus, dorsal part;0;0;um2;0;0;0;um2;0
+1;Tuberomammillary nucleus, ventral part;0;0;um2;0;0;0;um2;0
+515;Medial preoptic nucleus;0;0;um2;0;0;0;um2;0
+740;Medial preoptic nucleus, central part;0;0;um2;0;0;0;um2;0
+748;Medial preoptic nucleus, lateral part;0;0;um2;0;0;0;um2;0
+756;Medial preoptic nucleus, medial part;0;0;um2;0;0;0;um2;0
+980;Dorsal premammillary nucleus;0;0;um2;0;0;0;um2;0
+1004;Ventral premammillary nucleus;0;0;um2;0;0;0;um2;0
+63;Paraventricular hypothalamic nucleus, descending division;0;0;um2;0;0;0;um2;0
+439;Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part;0;0;um2;0;0;0;um2;0
+447;Paraventricular hypothalamic nucleus, descending division, forniceal part;0;0;um2;0;0;0;um2;0
+455;Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part;0;0;um2;0;0;0;um2;0
+464;Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone;0;0;um2;0;0;0;um2;0
+693;Ventromedial hypothalamic nucleus;0;0;um2;0;0;0;um2;0
+761;Ventromedial hypothalamic nucleus, anterior part;0;0;um2;0;0;0;um2;0
+769;Ventromedial hypothalamic nucleus, central part;0;0;um2;0;0;0;um2;0
+777;Ventromedial hypothalamic nucleus, dorsomedial part;0;0;um2;0;0;0;um2;0
+785;Ventromedial hypothalamic nucleus, ventrolateral part;0;0;um2;0;0;0;um2;0
+946;Posterior hypothalamic nucleus;0;0;um2;0;0;0;um2;0
+290;Hypothalamic lateral zone;0;0;um2;0;0;0;um2;0
+194;Lateral hypothalamic area;991318;991318.320313;um2;802;18800;18800;um2;0.018965;1.22469;1486843.76299466;0.0005393976286954908
+226;Lateral preoptic area;0;0;um2;0;0;0;um2;0
+356;Preparasubthalamic nucleus;0;0;um2;0;0;0;um2;0
+364;Parasubthalamic nucleus;0;0;um2;0;0;0;um2;0
+576073704;Perifornical nucleus;74528;74527.871094;um2;116;3162;3162;um2;0.042427;1.22469;111781.9831461408;0.0010377343175987912
+173;Retrochiasmatic area;181601;181600.664063;um2;148;2433;2433;um2;0.013398;1.22469;272377.09211735614;0.0005433643440771916
+470;Subthalamic nucleus;0;0;um2;0;0;0;um2;0
+614;Tuberal nucleus;0;0;um2;0;0;0;um2;0
+797;Zona incerta;108375;108374.589844;um2;198;3984;3984;um2;0.036761;1.22469;162547.9339773375;0.001218102224711175
+796;Dopaminergic A13 group;0;0;um2;0;0;0;um2;0
+804;Fields of Forel;0;0;um2;0;0;0;um2;0
+10671;Median eminence;0;0;um2;0;0;0;um2;0
+313;Midbrain;0;0;um2;0;0;0;um2;0
+339;Midbrain, sensory related;0;0;um2;0;0;0;um2;0
+302;Superior colliculus, sensory related;0;0;um2;0;0;0;um2;0
+851;Superior colliculus, optic layer;0;0;um2;0;0;0;um2;0
+842;Superior colliculus, superficial gray layer;0;0;um2;0;0;0;um2;0
+834;Superior colliculus, zonal layer;0;0;um2;0;0;0;um2;0
+4;Inferior colliculus;0;0;um2;0;0;0;um2;0
+811;Inferior colliculus, central nucleus;0;0;um2;0;0;0;um2;0
+820;Inferior colliculus, dorsal nucleus;0;0;um2;0;0;0;um2;0
+828;Inferior colliculus, external nucleus;0;0;um2;0;0;0;um2;0
+580;Nucleus of the brachium of the inferior colliculus;0;0;um2;0;0;0;um2;0
+271;Nucleus sagulum;0;0;um2;0;0;0;um2;0
+874;Parabigeminal nucleus;0;0;um2;0;0;0;um2;0
+460;Midbrain trigeminal nucleus;0;0;um2;0;0;0;um2;0
+599626923;Subcommissural organ;0;0;um2;0;0;0;um2;0
+323;Midbrain, motor related;0;0;um2;0;0;0;um2;0
+381;Substantia nigra, reticular part;0;0;um2;0;0;0;um2;0
+749;Ventral tegmental area;0;0;um2;0;0;0;um2;0
+607344830;Paranigral nucleus;0;0;um2;0;0;0;um2;0
+246;Midbrain reticular nucleus, retrorubral area;0;0;um2;0;0;0;um2;0
+128;Midbrain reticular nucleus;0;0;um2;0;0;0;um2;0
+539;Midbrain reticular nucleus, magnocellular part;0;0;um2;0;0;0;um2;0
+548;Midbrain reticular nucleus, magnocellular part, general;0;0;um2;0;0;0;um2;0
+555;Midbrain reticular nucleus, parvicellular part;0;0;um2;0;0;0;um2;0
+294;Superior colliculus, motor related;0;0;um2;0;0;0;um2;0
+26;Superior colliculus, motor related, deep gray layer;0;0;um2;0;0;0;um2;0
+42;Superior colliculus, motor related, deep white layer;0;0;um2;0;0;0;um2;0
+17;Superior colliculus, motor related, intermediate white layer;0;0;um2;0;0;0;um2;0
+10;Superior colliculus, motor related, intermediate gray layer;0;0;um2;0;0;0;um2;0
+494;Superior colliculus, motor related, intermediate gray layer, sublayer a;0;0;um2;0;0;0;um2;0
+503;Superior colliculus, motor related, intermediate gray layer, sublayer b;0;0;um2;0;0;0;um2;0
+511;Superior colliculus, motor related, intermediate gray layer, sublayer c;0;0;um2;0;0;0;um2;0
+795;Periaqueductal gray;0;0;um2;0;0;0;um2;0
+50;Precommissural nucleus;0;0;um2;0;0;0;um2;0
+67;Interstitial nucleus of Cajal;0;0;um2;0;0;0;um2;0
+587;Nucleus of Darkschewitsch;0;0;um2;0;0;0;um2;0
+614454277;Supraoculomotor periaqueductal gray;0;0;um2;0;0;0;um2;0
+1100;Pretectal region;0;0;um2;0;0;0;um2;0
+215;Anterior pretectal nucleus;0;0;um2;0;0;0;um2;0
+531;Medial pretectal area;0;0;um2;0;0;0;um2;0
+628;Nucleus of the optic tract;0;0;um2;0;0;0;um2;0
+634;Nucleus of the posterior commissure;0;0;um2;0;0;0;um2;0
+706;Olivary pretectal nucleus;0;0;um2;0;0;0;um2;0
+1061;Posterior pretectal nucleus;0;0;um2;0;0;0;um2;0
+549009203;Retroparafascicular nucleus;0;0;um2;0;0;0;um2;0
+549009207;Intercollicular nucleus;0;0;um2;0;0;0;um2;0
+616;Cuneiform nucleus;0;0;um2;0;0;0;um2;0
+214;Red nucleus;0;0;um2;0;0;0;um2;0
+35;Oculomotor nucleus;0;0;um2;0;0;0;um2;0
+549009211;Medial accesory oculomotor nucleus;0;0;um2;0;0;0;um2;0
+975;Edinger-Westphal nucleus;0;0;um2;0;0;0;um2;0
+115;Trochlear nucleus;0;0;um2;0;0;0;um2;0
+606826663;Paratrochlear nucleus;0;0;um2;0;0;0;um2;0
+757;Ventral tegmental nucleus;0;0;um2;0;0;0;um2;0
+231;Anterior tegmental nucleus;0;0;um2;0;0;0;um2;0
+66;Lateral terminal nucleus of the accessory optic tract;0;0;um2;0;0;0;um2;0
+75;Dorsal terminal nucleus of the accessory optic tract;0;0;um2;0;0;0;um2;0
+58;Medial terminal nucleus of the accessory optic tract;0;0;um2;0;0;0;um2;0
+615;Substantia nigra, lateral part;0;0;um2;0;0;0;um2;0
+348;Midbrain, behavioral state related;0;0;um2;0;0;0;um2;0
+374;Substantia nigra, compact part;0;0;um2;0;0;0;um2;0
+1052;Pedunculopontine nucleus;0;0;um2;0;0;0;um2;0
+165;Midbrain raphe nuclei;0;0;um2;0;0;0;um2;0
+12;Interfascicular nucleus raphe;0;0;um2;0;0;0;um2;0
+100;Interpeduncular nucleus;0;0;um2;0;0;0;um2;0
+607344834;Interpeduncular nucleus, rostral;0;0;um2;0;0;0;um2;0
+607344838;Interpeduncular nucleus, caudal;0;0;um2;0;0;0;um2;0
+607344842;Interpeduncular nucleus, apical;0;0;um2;0;0;0;um2;0
+607344846;Interpeduncular nucleus, lateral;0;0;um2;0;0;0;um2;0
+607344850;Interpeduncular nucleus, intermediate;0;0;um2;0;0;0;um2;0
+607344854;Interpeduncular nucleus, dorsomedial;0;0;um2;0;0;0;um2;0
+607344858;Interpeduncular nucleus, dorsolateral;0;0;um2;0;0;0;um2;0
+607344862;Interpeduncular nucleus, rostrolateral;0;0;um2;0;0;0;um2;0
+197;Rostral linear nucleus raphe;0;0;um2;0;0;0;um2;0
+591;Central linear nucleus raphe;0;0;um2;0;0;0;um2;0
+872;Dorsal nucleus raphe;0;0;um2;0;0;0;um2;0
+1065;Hindbrain;0;0;um2;0;0;0;um2;0
+771;Pons;0;0;um2;0;0;0;um2;0
+1132;Pons, sensory related;0;0;um2;0;0;0;um2;0
+612;Nucleus of the lateral lemniscus;0;0;um2;0;0;0;um2;0
+82;Nucleus of the lateral lemniscus, dorsal part;0;0;um2;0;0;0;um2;0
+90;Nucleus of the lateral lemniscus, horizontal part;0;0;um2;0;0;0;um2;0
+99;Nucleus of the lateral lemniscus, ventral part;0;0;um2;0;0;0;um2;0
+7;Principal sensory nucleus of the trigeminal;0;0;um2;0;0;0;um2;0
+867;Parabrachial nucleus;0;0;um2;0;0;0;um2;0
+123;Koelliker-Fuse subnucleus;0;0;um2;0;0;0;um2;0
+881;Parabrachial nucleus, lateral division;0;0;um2;0;0;0;um2;0
+860;Parabrachial nucleus, lateral division, central lateral part;0;0;um2;0;0;0;um2;0
+868;Parabrachial nucleus, lateral division, dorsal lateral part;0;0;um2;0;0;0;um2;0
+875;Parabrachial nucleus, lateral division, external lateral part;0;0;um2;0;0;0;um2;0
+883;Parabrachial nucleus, lateral division, superior lateral part;0;0;um2;0;0;0;um2;0
+891;Parabrachial nucleus, lateral division, ventral lateral part;0;0;um2;0;0;0;um2;0
+890;Parabrachial nucleus, medial division;0;0;um2;0;0;0;um2;0
+899;Parabrachial nucleus, medial division, external medial part;0;0;um2;0;0;0;um2;0
+915;Parabrachial nucleus, medial division, medial medial part;0;0;um2;0;0;0;um2;0
+923;Parabrachial nucleus, medial division, ventral medial part;0;0;um2;0;0;0;um2;0
+398;Superior olivary complex;0;0;um2;0;0;0;um2;0
+122;Superior olivary complex, periolivary region;0;0;um2;0;0;0;um2;0
+105;Superior olivary complex, medial part;0;0;um2;0;0;0;um2;0
+114;Superior olivary complex, lateral part;0;0;um2;0;0;0;um2;0
+987;Pons, motor related;0;0;um2;0;0;0;um2;0
+280;Barrington's nucleus;0;0;um2;0;0;0;um2;0
+880;Dorsal tegmental nucleus;0;0;um2;0;0;0;um2;0
+283;Lateral tegmental nucleus;0;0;um2;0;0;0;um2;0
+599626927;Posterodorsal tegmental nucleus;0;0;um2;0;0;0;um2;0
+898;Pontine central gray;0;0;um2;0;0;0;um2;0
+931;Pontine gray;0;0;um2;0;0;0;um2;0
+1093;Pontine reticular nucleus, caudal part;0;0;um2;0;0;0;um2;0
+552;Pontine reticular nucleus, ventral part;0;0;um2;0;0;0;um2;0
+318;Supragenual nucleus;0;0;um2;0;0;0;um2;0
+462;Superior salivatory nucleus;0;0;um2;0;0;0;um2;0
+534;Supratrigeminal nucleus;0;0;um2;0;0;0;um2;0
+574;Tegmental reticular nucleus;0;0;um2;0;0;0;um2;0
+621;Motor nucleus of trigeminal;0;0;um2;0;0;0;um2;0
+549009215;Peritrigeminal zone;0;0;um2;0;0;0;um2;0
+549009219;Accessory trigeminal nucleus;0;0;um2;0;0;0;um2;0
+549009223;Parvicellular motor 5 nucleus;0;0;um2;0;0;0;um2;0
+549009227;Intertrigeminal nucleus;0;0;um2;0;0;0;um2;0
+1117;Pons, behavioral state related;0;0;um2;0;0;0;um2;0
+679;Superior central nucleus raphe;0;0;um2;0;0;0;um2;0
+137;Superior central nucleus raphe, lateral part;0;0;um2;0;0;0;um2;0
+130;Superior central nucleus raphe, medial part;0;0;um2;0;0;0;um2;0
+147;Locus ceruleus;0;0;um2;0;0;0;um2;0
+162;Laterodorsal tegmental nucleus;0;0;um2;0;0;0;um2;0
+604;Nucleus incertus;0;0;um2;0;0;0;um2;0
+146;Pontine reticular nucleus;0;0;um2;0;0;0;um2;0
+238;Nucleus raphe pontis;0;0;um2;0;0;0;um2;0
+350;Subceruleus nucleus;0;0;um2;0;0;0;um2;0
+358;Sublaterodorsal nucleus;0;0;um2;0;0;0;um2;0
+354;Medulla;0;0;um2;0;0;0;um2;0
+386;Medulla, sensory related;0;0;um2;0;0;0;um2;0
+207;Area postrema;0;0;um2;0;0;0;um2;0
+607;Cochlear nuclei;0;0;um2;0;0;0;um2;0
+112;Granular lamina of the cochlear nuclei;0;0;um2;0;0;0;um2;0
+560;Cochlear nucleus, subpedunclular granular region;0;0;um2;0;0;0;um2;0
+96;Dorsal cochlear nucleus;0;0;um2;0;0;0;um2;0
+101;Ventral cochlear nucleus;0;0;um2;0;0;0;um2;0
+720;Dorsal column nuclei;0;0;um2;0;0;0;um2;0
+711;Cuneate nucleus;0;0;um2;0;0;0;um2;0
+1039;Gracile nucleus;0;0;um2;0;0;0;um2;0
+903;External cuneate nucleus;0;0;um2;0;0;0;um2;0
+642;Nucleus of the trapezoid body;0;0;um2;0;0;0;um2;0
+651;Nucleus of the solitary tract;0;0;um2;0;0;0;um2;0
+659;Nucleus of the solitary tract, central part;0;0;um2;0;0;0;um2;0
+666;Nucleus of the solitary tract, commissural part;0;0;um2;0;0;0;um2;0
+674;Nucleus of the solitary tract, gelatinous part;0;0;um2;0;0;0;um2;0
+682;Nucleus of the solitary tract, lateral part;0;0;um2;0;0;0;um2;0
+691;Nucleus of the solitary tract, medial part;0;0;um2;0;0;0;um2;0
+429;Spinal nucleus of the trigeminal, caudal part;0;0;um2;0;0;0;um2;0
+437;Spinal nucleus of the trigeminal, interpolar part;0;0;um2;0;0;0;um2;0
+445;Spinal nucleus of the trigeminal, oral part;0;0;um2;0;0;0;um2;0
+77;Spinal nucleus of the trigeminal, oral part, caudal dorsomedial part;0;0;um2;0;0;0;um2;0
+53;Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, dorsal zone;0;0;um2;0;0;0;um2;0
+61;Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone;0;0;um2;0;0;0;um2;0
+45;Spinal nucleus of the trigeminal, oral part, rostral dorsomedial part;0;0;um2;0;0;0;um2;0
+69;Spinal nucleus of the trigeminal, oral part, ventrolateral part;0;0;um2;0;0;0;um2;0
+589508451;Paratrigeminal nucleus;0;0;um2;0;0;0;um2;0
+789;Nucleus z;0;0;um2;0;0;0;um2;0
+370;Medulla, motor related;0;0;um2;0;0;0;um2;0
+653;Abducens nucleus;0;0;um2;0;0;0;um2;0
+568;Accessory abducens nucleus;0;0;um2;0;0;0;um2;0
+661;Facial motor nucleus;0;0;um2;0;0;0;um2;0
+576;Accessory facial motor nucleus;0;0;um2;0;0;0;um2;0
+640;Efferent vestibular nucleus;0;0;um2;0;0;0;um2;0
+135;Nucleus ambiguus;0;0;um2;0;0;0;um2;0
+939;Nucleus ambiguus, dorsal division;0;0;um2;0;0;0;um2;0
+143;Nucleus ambiguus, ventral division;0;0;um2;0;0;0;um2;0
+839;Dorsal motor nucleus of the vagus nerve;0;0;um2;0;0;0;um2;0
+887;Efferent cochlear group;0;0;um2;0;0;0;um2;0
+1048;Gigantocellular reticular nucleus;0;0;um2;0;0;0;um2;0
+372;Infracerebellar nucleus;0;0;um2;0;0;0;um2;0
+83;Inferior olivary complex;0;0;um2;0;0;0;um2;0
+136;Intermediate reticular nucleus;0;0;um2;0;0;0;um2;0
+106;Inferior salivatory nucleus;0;0;um2;0;0;0;um2;0
+203;Linear nucleus of the medulla;0;0;um2;0;0;0;um2;0
+235;Lateral reticular nucleus;0;0;um2;0;0;0;um2;0
+955;Lateral reticular nucleus, magnocellular part;0;0;um2;0;0;0;um2;0
+963;Lateral reticular nucleus, parvicellular part;0;0;um2;0;0;0;um2;0
+307;Magnocellular reticular nucleus;0;0;um2;0;0;0;um2;0
+395;Medullary reticular nucleus;0;0;um2;0;0;0;um2;0
+1098;Medullary reticular nucleus, dorsal part;0;0;um2;0;0;0;um2;0
+1107;Medullary reticular nucleus, ventral part;0;0;um2;0;0;0;um2;0
+852;Parvicellular reticular nucleus;0;0;um2;0;0;0;um2;0
+859;Parasolitary nucleus;0;0;um2;0;0;0;um2;0
+938;Paragigantocellular reticular nucleus;0;0;um2;0;0;0;um2;0
+970;Paragigantocellular reticular nucleus, dorsal part;0;0;um2;0;0;0;um2;0
+978;Paragigantocellular reticular nucleus, lateral part;0;0;um2;0;0;0;um2;0
+154;Perihypoglossal nuclei;0;0;um2;0;0;0;um2;0
+161;Nucleus intercalatus;0;0;um2;0;0;0;um2;0
+177;Nucleus of Roller;0;0;um2;0;0;0;um2;0
+169;Nucleus prepositus;0;0;um2;0;0;0;um2;0
+995;Paramedian reticular nucleus;0;0;um2;0;0;0;um2;0
+1069;Parapyramidal nucleus;0;0;um2;0;0;0;um2;0
+185;Parapyramidal nucleus, deep part;0;0;um2;0;0;0;um2;0
+193;Parapyramidal nucleus, superficial part;0;0;um2;0;0;0;um2;0
+701;Vestibular nuclei;0;0;um2;0;0;0;um2;0
+209;Lateral vestibular nucleus;0;0;um2;0;0;0;um2;0
+202;Medial vestibular nucleus;0;0;um2;0;0;0;um2;0
+225;Spinal vestibular nucleus;0;0;um2;0;0;0;um2;0
+217;Superior vestibular nucleus;0;0;um2;0;0;0;um2;0
+765;Nucleus x;0;0;um2;0;0;0;um2;0
+773;Hypoglossal nucleus;0;0;um2;0;0;0;um2;0
+781;Nucleus y;0;0;um2;0;0;0;um2;0
+76;Interstitial nucleus of the vestibular nerve;0;0;um2;0;0;0;um2;0
+379;Medulla, behavioral state related;0;0;um2;0;0;0;um2;0
+206;Nucleus raphe magnus;0;0;um2;0;0;0;um2;0
+230;Nucleus raphe pallidus;0;0;um2;0;0;0;um2;0
+222;Nucleus raphe obscurus;0;0;um2;0;0;0;um2;0
+512;Cerebellum;0;0;um2;0;0;0;um2;0
+528;Cerebellar cortex;0;0;um2;0;0;0;um2;0
+1144;Cerebellar cortex, molecular layer;0;0;um2;0;0;0;um2;0
+1145;Cerebellar cortex, Purkinje layer;0;0;um2;0;0;0;um2;0
+1143;Cerebellar cortex, granular layer;0;0;um2;0;0;0;um2;0
+645;Vermal regions;0;0;um2;0;0;0;um2;0
+912;Lingula (I);0;0;um2;0;0;0;um2;0
+10707;Lingula (I), molecular layer;0;0;um2;0;0;0;um2;0
+10706;Lingula (I), Purkinje layer;0;0;um2;0;0;0;um2;0
+10705;Lingula (I), granular layer;0;0;um2;0;0;0;um2;0
+920;Central lobule;0;0;um2;0;0;0;um2;0
+976;Lobule II;0;0;um2;0;0;0;um2;0
+10710;Lobule II, molecular layer;0;0;um2;0;0;0;um2;0
+10709;Lobule II, Purkinje layer;0;0;um2;0;0;0;um2;0
+10708;Lobule II, granular layer;0;0;um2;0;0;0;um2;0
+984;Lobule III;0;0;um2;0;0;0;um2;0
+10713;Lobule III, molecular layer;0;0;um2;0;0;0;um2;0
+10712;Lobule III, Purkinje layer;0;0;um2;0;0;0;um2;0
+10711;Lobule III, granular layer;0;0;um2;0;0;0;um2;0
+928;Culmen;0;0;um2;0;0;0;um2;0
+992;Lobule IV;0;0;um2;0;0;0;um2;0
+10716;Lobule IV, molecular layer;0;0;um2;0;0;0;um2;0
+10715;Lobule IV, Purkinje layer;0;0;um2;0;0;0;um2;0
+10714;Lobule IV, granular layer;0;0;um2;0;0;0;um2;0
+1001;Lobule V;0;0;um2;0;0;0;um2;0
+10719;Lobule V, molecular layer;0;0;um2;0;0;0;um2;0
+10718;Lobule V, Purkinje layer;0;0;um2;0;0;0;um2;0
+10717;Lobule V, granular layer;0;0;um2;0;0;0;um2;0
+1091;Lobules IV-V;0;0;um2;0;0;0;um2;0
+10722;Lobules IV-V, molecular layer;0;0;um2;0;0;0;um2;0
+10721;Lobules IV-V, Purkinje layer;0;0;um2;0;0;0;um2;0
+10720;Lobules IV-V, granular layer;0;0;um2;0;0;0;um2;0
+936;Declive (VI);0;0;um2;0;0;0;um2;0
+10725;Declive (VI), molecular layer;0;0;um2;0;0;0;um2;0
+10724;Declive (VI), Purkinje layer;0;0;um2;0;0;0;um2;0
+10723;Declive (VI), granular layer;0;0;um2;0;0;0;um2;0
+944;Folium-tuber vermis (VII);0;0;um2;0;0;0;um2;0
+10728;Folium-tuber vermis (VII), molecular layer;0;0;um2;0;0;0;um2;0
+10727;Folium-tuber vermis (VII), Purkinje layer;0;0;um2;0;0;0;um2;0
+10726;Folium-tuber vermis (VII), granular layer;0;0;um2;0;0;0;um2;0
+951;Pyramus (VIII);0;0;um2;0;0;0;um2;0
+10731;Pyramus (VIII), molecular layer;0;0;um2;0;0;0;um2;0
+10730;Pyramus (VIII), Purkinje layer;0;0;um2;0;0;0;um2;0
+10729;Pyramus (VIII), granular layer;0;0;um2;0;0;0;um2;0
+957;Uvula (IX);0;0;um2;0;0;0;um2;0
+10734;Uvula (IX), molecular layer;0;0;um2;0;0;0;um2;0
+10733;Uvula (IX), Purkinje layer;0;0;um2;0;0;0;um2;0
+10732;Uvula (IX), granular layer;0;0;um2;0;0;0;um2;0
+968;Nodulus (X);0;0;um2;0;0;0;um2;0
+10737;Nodulus (X), molecular layer;0;0;um2;0;0;0;um2;0
+10736;Nodulus (X), Purkinje layer;0;0;um2;0;0;0;um2;0
+10735;Nodulus (X), granular layer;0;0;um2;0;0;0;um2;0
+1073;Hemispheric regions;0;0;um2;0;0;0;um2;0
+1007;Simple lobule;0;0;um2;0;0;0;um2;0
+10674;Simple lobule, molecular layer;0;0;um2;0;0;0;um2;0
+10673;Simple lobule, Purkinje layer;0;0;um2;0;0;0;um2;0
+10672;Simple lobule, granular layer;0;0;um2;0;0;0;um2;0
+1017;Ansiform lobule;0;0;um2;0;0;0;um2;0
+1056;Crus 1;0;0;um2;0;0;0;um2;0
+10677;Crus 1, molecular layer;0;0;um2;0;0;0;um2;0
+10676;Crus 1, Purkinje layer;0;0;um2;0;0;0;um2;0
+10675;Crus 1, granular layer;0;0;um2;0;0;0;um2;0
+1064;Crus 2;0;0;um2;0;0;0;um2;0
+10680;Crus 2, molecular layer;0;0;um2;0;0;0;um2;0
+10679;Crus 2, Purkinje layer;0;0;um2;0;0;0;um2;0
+10678;Crus 2, granular layer;0;0;um2;0;0;0;um2;0
+1025;Paramedian lobule;0;0;um2;0;0;0;um2;0
+10683;Paramedian lobule, molecular layer;0;0;um2;0;0;0;um2;0
+10682;Paramedian lobule, Purkinje layer;0;0;um2;0;0;0;um2;0
+10681;Paramedian lobule, granular layer;0;0;um2;0;0;0;um2;0
+1033;Copula pyramidis;0;0;um2;0;0;0;um2;0
+10686;Copula pyramidis, molecular layer;0;0;um2;0;0;0;um2;0
+10685;Copula pyramidis, Purkinje layer;0;0;um2;0;0;0;um2;0
+10684;Copula pyramidis, granular layer;0;0;um2;0;0;0;um2;0
+1041;Paraflocculus;0;0;um2;0;0;0;um2;0
+10689;Paraflocculus, molecular layer;0;0;um2;0;0;0;um2;0
+10688;Paraflocculus, Purkinje layer;0;0;um2;0;0;0;um2;0
+10687;Paraflocculus, granular layer;0;0;um2;0;0;0;um2;0
+1049;Flocculus;0;0;um2;0;0;0;um2;0
+10692;Flocculus, molecular layer;0;0;um2;0;0;0;um2;0
+10691;Flocculus, Purkinje layer;0;0;um2;0;0;0;um2;0
+10690;Flocculus, granular layer;0;0;um2;0;0;0;um2;0
+519;Cerebellar nuclei;0;0;um2;0;0;0;um2;0
+989;Fastigial nucleus;0;0;um2;0;0;0;um2;0
+91;Interposed nucleus;0;0;um2;0;0;0;um2;0
+846;Dentate nucleus;0;0;um2;0;0;0;um2;0
+589508455;Vestibulocerebellar nucleus;0;0;um2;0;0;0;um2;0
+1009;fiber tracts;233673;233672.539063;um2;39;476;476;um2;0.002037;1.22469;350478.0934374753;0.00011127656972077637
+967;cranial nerves;0;0;um2;0;0;0;um2;0
+885;terminal nerve;0;0;um2;0;0;0;um2;0
+949;vomeronasal nerve;0;0;um2;0;0;0;um2;0
+840;olfactory nerve;0;0;um2;0;0;0;um2;0
+1016;olfactory nerve layer of main olfactory bulb;0;0;um2;0;0;0;um2;0
+21;lateral olfactory tract, general;0;0;um2;0;0;0;um2;0
+665;lateral olfactory tract, body;0;0;um2;0;0;0;um2;0
+538;dorsal limb;0;0;um2;0;0;0;um2;0
+459;accessory olfactory tract;0;0;um2;0;0;0;um2;0
+900;anterior commissure, olfactory limb;0;0;um2;0;0;0;um2;0
+848;optic nerve;0;0;um2;0;0;0;um2;0
+876;accessory optic tract;0;0;um2;0;0;0;um2;0
+916;brachium of the superior colliculus;0;0;um2;0;0;0;um2;0
+336;superior colliculus commissure;0;0;um2;0;0;0;um2;0
+117;optic chiasm;59883;59882.656250;um2;3;40;40;um2;0.000668;1.22469;89816.45149125632;3.340145318802816e-05
+125;optic tract;213169;213169.238281;um2;143;1695;1695;um2;0.007951;1.22469;319724.8492550409;0.00044725957439088667
+357;tectothalamic pathway;0;0;um2;0;0;0;um2;0
+832;oculomotor nerve;0;0;um2;0;0;0;um2;0
+62;medial longitudinal fascicle;0;0;um2;0;0;0;um2;0
+158;posterior commissure;0;0;um2;0;0;0;um2;0
+911;trochlear nerve;0;0;um2;0;0;0;um2;0
+384;trochlear nerve decussation;0;0;um2;0;0;0;um2;0
+710;abducens nerve;0;0;um2;0;0;0;um2;0
+901;trigeminal nerve;0;0;um2;0;0;0;um2;0
+93;motor root of the trigeminal nerve;0;0;um2;0;0;0;um2;0
+229;sensory root of the trigeminal nerve;0;0;um2;0;0;0;um2;0
+705;midbrain tract of the trigeminal nerve;0;0;um2;0;0;0;um2;0
+794;spinal tract of the trigeminal nerve;0;0;um2;0;0;0;um2;0
+798;facial nerve;0;0;um2;0;0;0;um2;0
+1131;intermediate nerve;0;0;um2;0;0;0;um2;0
+1116;genu of the facial nerve;0;0;um2;0;0;0;um2;0
+933;vestibulocochlear nerve;0;0;um2;0;0;0;um2;0
+1076;efferent cochleovestibular bundle;0;0;um2;0;0;0;um2;0
+413;vestibular nerve;0;0;um2;0;0;0;um2;0
+948;cochlear nerve;0;0;um2;0;0;0;um2;0
+841;trapezoid body;0;0;um2;0;0;0;um2;0
+641;intermediate acoustic stria;0;0;um2;0;0;0;um2;0
+506;dorsal acoustic stria;0;0;um2;0;0;0;um2;0
+658;lateral lemniscus;0;0;um2;0;0;0;um2;0
+633;inferior colliculus commissure;0;0;um2;0;0;0;um2;0
+482;brachium of the inferior colliculus;0;0;um2;0;0;0;um2;0
+808;glossopharyngeal nerve;0;0;um2;0;0;0;um2;0
+917;vagus nerve;0;0;um2;0;0;0;um2;0
+237;solitary tract;0;0;um2;0;0;0;um2;0
+717;accessory spinal nerve;0;0;um2;0;0;0;um2;0
+813;hypoglossal nerve;0;0;um2;0;0;0;um2;0
+925;ventral roots;0;0;um2;0;0;0;um2;0
+792;dorsal roots;0;0;um2;0;0;0;um2;0
+932;cervicothalamic tract;0;0;um2;0;0;0;um2;0
+570;dorsolateral fascicle;0;0;um2;0;0;0;um2;0
+522;dorsal commissure of the spinal cord;0;0;um2;0;0;0;um2;0
+858;ventral commissure of the spinal cord;0;0;um2;0;0;0;um2;0
+586;fasciculus proprius;0;0;um2;0;0;0;um2;0
+514;dorsal column;0;0;um2;0;0;0;um2;0
+380;cuneate fascicle;0;0;um2;0;0;0;um2;0
+388;gracile fascicle;0;0;um2;0;0;0;um2;0
+396;internal arcuate fibers;0;0;um2;0;0;0;um2;0
+697;medial lemniscus;0;0;um2;0;0;0;um2;0
+871;spinothalamic tract;0;0;um2;0;0;0;um2;0
+29;lateral spinothalamic tract;0;0;um2;0;0;0;um2;0
+389;ventral spinothalamic tract;0;0;um2;0;0;0;um2;0
+245;spinocervical tract;0;0;um2;0;0;0;um2;0
+261;spino-olivary pathway;0;0;um2;0;0;0;um2;0
+270;spinoreticular pathway;0;0;um2;0;0;0;um2;0
+293;spinovestibular pathway;0;0;um2;0;0;0;um2;0
+277;spinotectal pathway;0;0;um2;0;0;0;um2;0
+253;spinohypothalamic pathway;0;0;um2;0;0;0;um2;0
+285;spinotelenchephalic pathway;0;0;um2;0;0;0;um2;0
+627;hypothalamohypophysial tract;0;0;um2;0;0;0;um2;0
+960;cerebellum related fiber tracts;0;0;um2;0;0;0;um2;0
+744;cerebellar commissure;0;0;um2;0;0;0;um2;0
+752;cerebellar peduncles;0;0;um2;0;0;0;um2;0
+326;superior cerebelar peduncles;0;0;um2;0;0;0;um2;0
+812;superior cerebellar peduncle decussation;0;0;um2;0;0;0;um2;0
+85;spinocerebellar tract;0;0;um2;0;0;0;um2;0
+850;uncinate fascicle;0;0;um2;0;0;0;um2;0
+866;ventral spinocerebellar tract;0;0;um2;0;0;0;um2;0
+78;middle cerebellar peduncle;0;0;um2;0;0;0;um2;0
+1123;inferior cerebellar peduncle;0;0;um2;0;0;0;um2;0
+553;dorsal spinocerebellar tract;0;0;um2;0;0;0;um2;0
+499;cuneocerebellar tract;0;0;um2;0;0;0;um2;0
+650;juxtarestiform body;0;0;um2;0;0;0;um2;0
+490;bulbocerebellar tract;0;0;um2;0;0;0;um2;0
+404;olivocerebellar tract;0;0;um2;0;0;0;um2;0
+410;reticulocerebellar tract;0;0;um2;0;0;0;um2;0
+373;trigeminocerebellar tract;0;0;um2;0;0;0;um2;0
+728;arbor vitae;0;0;um2;0;0;0;um2;0
+484682512;supra-callosal cerebral white matter;215773;215772.832031;um2;67;1110;1110;um2;0.005144;1.22469;323630.49926728534;0.000207026223275282
+983;lateral forebrain bundle system;0;0;um2;0;0;0;um2;0
+776;corpus callosum;0;0;um2;0;0;0;um2;0
+956;corpus callosum, anterior forceps;0;0;um2;0;0;0;um2;0
+579;external capsule;109351;109350.937500;um2;104;2138;2138;um2;0.019552;1.22469;164011.8027991311;0.0006341007063215511
+964;corpus callosum, extreme capsule;11716;11716.171875;um2;9;175;175;um2;0.014937;1.22469;17572.425323907602;0.0005121660689464042
+1108;genu of corpus callosum;0;0;um2;0;0;0;um2;0
+971;corpus callosum, posterior forceps;0;0;um2;0;0;0;um2;0
+979;corpus callosum, rostrum;0;0;um2;0;0;0;um2;0
+484682516;corpus callosum, body;741373;741373.320313;um2;116;1836;1836;um2;0.002476;1.22469;1111959.8565774455;0.00010432031274675864
+986;corpus callosum, splenium;0;0;um2;0;0;0;um2;0
+784;corticospinal tract;0;0;um2;0;0;0;um2;0
+6;internal capsule;478736;478735.800781;um2;84;1031;1031;um2;0.002154;1.22469;718039.6560145296;0.00011698518221993611
+924;cerebal peduncle;0;0;um2;0;0;0;um2;0
+1036;corticotectal tract;0;0;um2;0;0;0;um2;0
+1012;corticorubral tract;0;0;um2;0;0;0;um2;0
+1003;corticopontine tract;0;0;um2;0;0;0;um2;0
+994;corticobulbar tract;0;0;um2;0;0;0;um2;0
+190;pyramid;0;0;um2;0;0;0;um2;0
+198;pyramidal decussation;0;0;um2;0;0;0;um2;0
+1019;corticospinal tract, crossed;0;0;um2;0;0;0;um2;0
+1028;corticospinal tract, uncrossed;0;0;um2;0;0;0;um2;0
+896;thalamus related;0;0;um2;0;0;0;um2;0
+1092;external medullary lamina of the thalamus;47516;47515.585938;um2;31;438;438;um2;0.009218;1.22469;71267.61366428761;0.0004349801881402714
+14;internal medullary lamina of the thalamus;0;0;um2;0;0;0;um2;0
+86;middle thalamic commissure;0;0;um2;0;0;0;um2;0
+365;thalamic peduncles;0;0;um2;0;0;0;um2;0
+484682520;optic radiation;0;0;um2;0;0;0;um2;0
+484682524;auditory radiation;0;0;um2;0;0;0;um2;0
+1000;extrapyramidal fiber systems;0;0;um2;0;0;0;um2;0
+760;cerebral nuclei related;0;0;um2;0;0;0;um2;0
+142;pallidothalamic pathway;0;0;um2;0;0;0;um2;0
+102;nigrostriatal tract;19202;19201.503906;um2;11;267;267;um2;0.013905;1.22469;28800.419176312203;0.00038193888542592086
+109;nigrothalamic fibers;0;0;um2;0;0;0;um2;0
+134;pallidotegmental fascicle;0;0;um2;0;0;0;um2;0
+309;striatonigral pathway;0;0;um2;0;0;0;um2;0
+317;subthalamic fascicle;0;0;um2;0;0;0;um2;0
+877;tectospinal pathway;0;0;um2;0;0;0;um2;0
+1051;direct tectospinal pathway;0;0;um2;0;0;0;um2;0
+1060;doral tegmental decussation;0;0;um2;0;0;0;um2;0
+1043;crossed tectospinal pathway;0;0;um2;0;0;0;um2;0
+863;rubrospinal tract;0;0;um2;0;0;0;um2;0
+397;ventral tegmental decussation;0;0;um2;0;0;0;um2;0
+221;rubroreticular tract;0;0;um2;0;0;0;um2;0
+736;central tegmental bundle;0;0;um2;0;0;0;um2;0
+855;retriculospinal tract;0;0;um2;0;0;0;um2;0
+205;retriculospinal tract, lateral part;0;0;um2;0;0;0;um2;0
+213;retriculospinal tract, medial part;0;0;um2;0;0;0;um2;0
+941;vestibulospinal pathway;0;0;um2;0;0;0;um2;0
+991;medial forebrain bundle system;0;0;um2;0;0;0;um2;0
+768;cerebrum related;0;0;um2;0;0;0;um2;0
+884;amygdalar capsule;7485;7485.332031;um2;8;171;171;um2;0.022845;1.22469;11226.4939868085;0.0007126000342939
+892;ansa peduncularis;0;0;um2;0;0;0;um2;0
+908;anterior commissure, temporal limb;0;0;um2;0;0;0;um2;0
+940;cingulum bundle;142221;142221.308594;um2;33;518;518;um2;0.003642;1.22469;213312.3849429381;0.00015470269112047866
+1099;fornix system;0;0;um2;0;0;0;um2;0
+466;alveus;117162;117161.718750;um2;29;465;465;um2;0.003969;1.22469;175727.25297026822;0.0001650284717357221
+530;dorsal fornix;32545;32544.921875;um2;7;133;133;um2;0.004087;1.22469;48813.12582507451;0.0001434040513013861
+603;fimbria;426013;426013.027344;um2;39;446;446;um2;0.001047;1.22469;638962.2421913494;6.103647042781083e-05
+745;precommissural fornix, general;0;0;um2;0;0;0;um2;0
+420;precommissural fornix diagonal band;0;0;um2;0;0;0;um2;0
+737;postcommissural fornix;0;0;um2;0;0;0;um2;0
+428;medial corticohypothalamic tract;0;0;um2;0;0;0;um2;0
+436;columns of the fornix;59557;59557.207031;um2;31;664;664;um2;0.011149;1.22469;89327.49530692771;0.0003470376046421602
+618;hippocampal commissures;0;0;um2;0;0;0;um2;0
+443;dorsal hippocampal commissure;0;0;um2;0;0;0;um2;0
+449;ventral hippocampal commissure;0;0;um2;0;0;0;um2;0
+713;perforant path;0;0;um2;0;0;0;um2;0
+474;angular path;0;0;um2;0;0;0;um2;0
+37;longitudinal association bundle;0;0;um2;0;0;0;um2;0
+301;stria terminalis;41658;41657.500000;um2;5;39;39;um2;0.000936;1.22469;62481.40100233381;8.002381380361876e-05
+484682528;commissural branch of stria terminalis;33847;33846.718750;um2;60;1241;1241;um2;0.036665;1.22469;50765.95083119671;0.001181894537925778
+824;hypothalamus related;0;0;um2;0;0;0;um2;0
+54;medial forebrain bundle;0;0;um2;0;0;0;um2;0
+405;ventrolateral hypothalamic tract;0;0;um2;0;0;0;um2;0
+174;preoptic commissure;0;0;um2;0;0;0;um2;0
+349;supraoptic commissures;13018;13017.968750;um2;0;0;0;um2;0;1.22469;19525.2503300298;0.0
+817;supraoptic commissures, anterior;0;0;um2;0;0;0;um2;0
+825;supraoptic commissures, dorsal;0;0;um2;0;0;0;um2;0
+833;supraoptic commissures, ventral;0;0;um2;0;0;0;um2;0
+166;premammillary commissure;0;0;um2;0;0;0;um2;0
+341;supramammillary decussation;0;0;um2;0;0;0;um2;0
+182;propriohypothalamic pathways;0;0;um2;0;0;0;um2;0
+762;propriohypothalamic pathways, dorsal;0;0;um2;0;0;0;um2;0
+770;propriohypothalamic pathways, lateral;0;0;um2;0;0;0;um2;0
+779;propriohypothalamic pathways, medial;0;0;um2;0;0;0;um2;0
+787;propriohypothalamic pathways, ventral;0;0;um2;0;0;0;um2;0
+150;periventricular bundle of the hypothalamus;0;0;um2;0;0;0;um2;0
+46;mammillary related;0;0;um2;0;0;0;um2;0
+753;principal mammillary tract;0;0;um2;0;0;0;um2;0
+690;mammillothalamic tract;0;0;um2;0;0;0;um2;0
+681;mammillotegmental tract;0;0;um2;0;0;0;um2;0
+673;mammillary peduncle;0;0;um2;0;0;0;um2;0
+1068;dorsal thalamus related;0;0;um2;0;0;0;um2;0
+722;periventricular bundle of the thalamus;0;0;um2;0;0;0;um2;0
+1083;epithalamus related;0;0;um2;0;0;0;um2;0
+802;stria medullaris;104795;104794.648438;um2;51;766;766;um2;0.007310;1.22469;157178.4151432995;0.0003244720336027267
+595;fasciculus retroflexus;0;0;um2;0;0;0;um2;0
+611;habenular commissure;0;0;um2;0;0;0;um2;0
+730;pineal stalk;0;0;um2;0;0;0;um2;0
+70;midbrain related;0;0;um2;0;0;0;um2;0
+547;dorsal longitudinal fascicle;0;0;um2;0;0;0;um2;0
+563;dorsal tegmental tract;0;0;um2;0;0;0;um2;0
+73;ventricular systems;0;0;um2;0;0;0;um2;0
+81;lateral ventricle;290301;290300.703125;um2;59;780;780;um2;0.002687;1.22469;435412.48241342616;0.0001355036945035931
+89;rhinocele;0;0;um2;0;0;0;um2;0
+98;subependymal zone;8787;8787.128906;um2;0;0;0;um2;0;1.22469;13179.318992930701;0.0
+108;choroid plexus;234974;234974.335938;um2;12;172;172;um2;0.000732;1.22469;352429.41857800144;3.4049370930548754e-05
+116;choroid fissure;0;0;um2;0;0;0;um2;0
+124;interventricular foramen;0;0;um2;0;0;0;um2;0
+129;third ventricle;225211;225210.859375;um2;75;1385;1385;um2;0.006150;1.22469;337786.2307632771;0.0002220339172219264
+140;cerebral aqueduct;0;0;um2;0;0;0;um2;0
+145;fourth ventricle;0;0;um2;0;0;0;um2;0
+153;lateral recess;0;0;um2;0;0;0;um2;0
+164;central canal, spinal cord/medulla;0;0;um2;0;0;0;um2;0
+1024;grooves;0;0;um2;0;0;0;um2;0
+1032;grooves of the cerebral cortex;0;0;um2;0;0;0;um2;0
+1055;endorhinal groove;0;0;um2;0;0;0;um2;0
+1063;hippocampal fissure;0;0;um2;0;0;0;um2;0
+1071;rhinal fissure;0;0;um2;0;0;0;um2;0
+1078;rhinal incisure;0;0;um2;0;0;0;um2;0
+1040;grooves of the cerebellar cortex;0;0;um2;0;0;0;um2;0
+1087;precentral fissure;0;0;um2;0;0;0;um2;0
+1095;preculminate fissure;0;0;um2;0;0;0;um2;0
+1103;primary fissure;0;0;um2;0;0;0;um2;0
+1112;posterior superior fissure;0;0;um2;0;0;0;um2;0
+1119;prepyramidal fissure;0;0;um2;0;0;0;um2;0
+3;secondary fissure;0;0;um2;0;0;0;um2;0
+11;posterolateral fissure;0;0;um2;0;0;0;um2;0
+18;nodular fissure;0;0;um2;0;0;0;um2;0
+25;simple fissure;0;0;um2;0;0;0;um2;0
+34;intercrural fissure;0;0;um2;0;0;0;um2;0
+43;ansoparamedian fissure;0;0;um2;0;0;0;um2;0
+49;intraparafloccular fissure;0;0;um2;0;0;0;um2;0
+57;paramedian sulcus;0;0;um2;0;0;0;um2;0
+65;parafloccular sulcus;0;0;um2;0;0;0;um2;0
+624;Interpeduncular fossa;0;0;um2;0;0;0;um2;0
+304325711;retina;0;0;um2;0;0;0;um2;0
