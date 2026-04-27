@@ -1,0 +1,31 @@
+node1, node2, weight
+prefrontal&other cortexes,sensory-motor cortex,0.6428571428571429
+prefrontal&other cortexes,claustro-endopiriform complex,0.26666666666666666
+prefrontal&other cortexes,septum,0.25
+prefrontal&other cortexes,basal ganglia,0.19047619047619047
+prefrontal&other cortexes,medial thalamus,0.11538461538461539
+occipital cortex,HPC,0.4
+sensory-motor cortex,basal ganglia,0.6
+temporal cortex,HPC,0.38461538461538464
+temporal cortex,amygdala,0.42857142857142855
+temporal cortex,medial thalamus,0.14285714285714285
+temporal cortex,nigra-VTA,0.375
+HPC,amygdala,0.47058823529411764
+HPC,medial thalamus,0.2916666666666667
+HPC,preoptic and hypothalamic nuclei,0.2857142857142857
+HPC,midbrain,0.3333333333333333
+claustro-endopiriform complex,amygdala,0.2857142857142857
+amygdala,medial thalamus,0.16
+amygdala,ventral thalamus and habenula,0.15789473684210525
+amygdala,hypothalamic neurosecretory,0.35714285714285715
+amygdala,preoptic and hypothalamic nuclei,0.18181818181818182
+septum,basal ganglia,0.4117647058823529
+basal ganglia,ventral thalamus and habenula,0.19047619047619047
+basal ganglia,preoptic and hypothalamic nuclei,0.125
+medial thalamus,ventral thalamus and habenula,0.19230769230769232
+medial thalamus,lateral hypothalamic complex,0.22727272727272727
+ventral thalamus and habenula,preoptic and hypothalamic nuclei,0.13043478260869565
+ventral thalamus and habenula,lateral hypothalamic complex,0.25
+ventral thalamus and habenula,midbrain,0.35714285714285715
+hypothalamic neurosecretory,preoptic and hypothalamic nuclei,0.2222222222222222
+lateral hypothalamic complex,midbrain,0.3

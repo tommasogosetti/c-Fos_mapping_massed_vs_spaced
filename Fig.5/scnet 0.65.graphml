@@ -1,0 +1,4086 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="id" attr.type="string" for="node" id="id"/>
+    <key attr.name="AverageShortestPathLength" attr.type="double" for="node" id="AverageShortestPathLength"/>
+    <key attr.name="BetweennessCentrality" attr.type="double" for="node" id="BetweennessCentrality"/>
+    <key attr.name="ClosenessCentrality" attr.type="double" for="node" id="ClosenessCentrality"/>
+    <key attr.name="ClusteringCoefficient" attr.type="double" for="node" id="ClusteringCoefficient"/>
+    <key attr.name="Degree" attr.type="int" for="node" id="Degree"/>
+    <key attr.name="Eccentricity" attr.type="int" for="node" id="Eccentricity"/>
+    <key attr.name="IsSingleNode" attr.type="boolean" for="node" id="IsSingleNode"/>
+    <key attr.name="NeighborhoodConnectivity" attr.type="double" for="node" id="NeighborhoodConnectivity"/>
+    <key attr.name="NumberOfDirectedEdges" attr.type="int" for="node" id="NumberOfDirectedEdges"/>
+    <key attr.name="NumberOfUndirectedEdges" attr.type="int" for="node" id="NumberOfUndirectedEdges"/>
+    <key attr.name="PartnerOfMultiEdgedNodePairs" attr.type="int" for="node" id="PartnerOfMultiEdgedNodePairs"/>
+    <key attr.name="Radiality" attr.type="double" for="node" id="Radiality"/>
+    <key attr.name="SelfLoops" attr.type="int" for="node" id="SelfLoops"/>
+    <key attr.name="Stress" attr.type="long" for="node" id="Stress"/>
+    <key attr.name="TopologicalCoefficient" attr.type="double" for="node" id="TopologicalCoefficient"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="data.key.column" attr.type="int" for="edge" id="data.key.column"/>
+    <key attr.name="source" attr.type="string" for="edge" id="source"/>
+    <key attr.name="target" attr.type="string" for="edge" id="target"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="EdgeBetweenness" attr.type="double" for="edge" id="EdgeBetweenness"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <key attr.name="networkMetadata" attr.type="string" for="graph" id="networkMetadata"/>
+    <graph edgedefault="directed" id="scnet_0.04">
+        <node id="3788">
+            <data key="SUID">3788</data>
+            <data key="shared name">FP</data>
+            <data key="name">FP</data>
+            <data key="selected">false</data>
+            <data key="id">FP</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3786">
+            <data key="SUID">3786</data>
+            <data key="shared name">PL</data>
+            <data key="name">PL</data>
+            <data key="selected">false</data>
+            <data key="id">PL</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3784">
+            <data key="SUID">3784</data>
+            <data key="shared name">IL</data>
+            <data key="name">IL</data>
+            <data key="selected">false</data>
+            <data key="id">IL</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3782">
+            <data key="SUID">3782</data>
+            <data key="shared name">dACC</data>
+            <data key="name">dACC</data>
+            <data key="selected">false</data>
+            <data key="id">dACC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3780">
+            <data key="SUID">3780</data>
+            <data key="shared name">Vacc</data>
+            <data key="name">Vacc</data>
+            <data key="selected">false</data>
+            <data key="id">Vacc</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3778">
+            <data key="SUID">3778</data>
+            <data key="shared name">OA</data>
+            <data key="name">OA</data>
+            <data key="selected">false</data>
+            <data key="id">OA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3776">
+            <data key="SUID">3776</data>
+            <data key="shared name">AU</data>
+            <data key="name">AU</data>
+            <data key="selected">false</data>
+            <data key="id">AU</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3774">
+            <data key="SUID">3774</data>
+            <data key="shared name">M2</data>
+            <data key="name">M2</data>
+            <data key="selected">false</data>
+            <data key="id">M2</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3772">
+            <data key="SUID">3772</data>
+            <data key="shared name">M1</data>
+            <data key="name">M1</data>
+            <data key="selected">false</data>
+            <data key="id">M1</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3770">
+            <data key="SUID">3770</data>
+            <data key="shared name">S1</data>
+            <data key="name">S1</data>
+            <data key="selected">false</data>
+            <data key="id">S1</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3768">
+            <data key="SUID">3768</data>
+            <data key="shared name">SS</data>
+            <data key="name">SS</data>
+            <data key="selected">false</data>
+            <data key="id">SS</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3766">
+            <data key="SUID">3766</data>
+            <data key="shared name">GA</data>
+            <data key="name">GA</data>
+            <data key="selected">false</data>
+            <data key="id">GA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3764">
+            <data key="SUID">3764</data>
+            <data key="shared name">AuA</data>
+            <data key="name">AuA</data>
+            <data key="selected">false</data>
+            <data key="id">AuA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3762">
+            <data key="SUID">3762</data>
+            <data key="shared name">RS</data>
+            <data key="name">RS</data>
+            <data key="selected">false</data>
+            <data key="id">RS</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3760">
+            <data key="SUID">3760</data>
+            <data key="shared name">AA</data>
+            <data key="name">AA</data>
+            <data key="selected">false</data>
+            <data key="id">AA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3758">
+            <data key="SUID">3758</data>
+            <data key="shared name">ViA</data>
+            <data key="name">ViA</data>
+            <data key="selected">false</data>
+            <data key="id">ViA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3756">
+            <data key="SUID">3756</data>
+            <data key="shared name">TeAA</data>
+            <data key="name">TeAA</data>
+            <data key="selected">false</data>
+            <data key="id">TeAA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3754">
+            <data key="SUID">3754</data>
+            <data key="shared name">Prh</data>
+            <data key="name">Prh</data>
+            <data key="selected">false</data>
+            <data key="id">Prh</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3752">
+            <data key="SUID">3752</data>
+            <data key="shared name">lpEC</data>
+            <data key="name">lpEC</data>
+            <data key="selected">false</data>
+            <data key="id">lpEC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3750">
+            <data key="SUID">3750</data>
+            <data key="shared name">Ech</data>
+            <data key="name">Ech</data>
+            <data key="selected">false</data>
+            <data key="id">Ech</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3748">
+            <data key="SUID">3748</data>
+            <data key="shared name">VA</data>
+            <data key="name">VA</data>
+            <data key="selected">false</data>
+            <data key="id">VA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3746">
+            <data key="SUID">3746</data>
+            <data key="shared name">aOn</data>
+            <data key="name">aOn</data>
+            <data key="selected">false</data>
+            <data key="id">aOn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3744">
+            <data key="SUID">3744</data>
+            <data key="shared name">TT</data>
+            <data key="name">TT</data>
+            <data key="selected">false</data>
+            <data key="id">TT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3742">
+            <data key="SUID">3742</data>
+            <data key="shared name">DPA</data>
+            <data key="name">DPA</data>
+            <data key="selected">false</data>
+            <data key="id">DPA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3740">
+            <data key="SUID">3740</data>
+            <data key="shared name">PC</data>
+            <data key="name">PC</data>
+            <data key="selected">false</data>
+            <data key="id">PC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3738">
+            <data key="SUID">3738</data>
+            <data key="shared name">PAA</data>
+            <data key="name">PAA</data>
+            <data key="selected">false</data>
+            <data key="id">PAA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3736">
+            <data key="SUID">3736</data>
+            <data key="shared name">FC</data>
+            <data key="name">FC</data>
+            <data key="selected">false</data>
+            <data key="id">FC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3734">
+            <data key="SUID">3734</data>
+            <data key="shared name">IG</data>
+            <data key="name">IG</data>
+            <data key="selected">false</data>
+            <data key="id">IG</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3732">
+            <data key="SUID">3732</data>
+            <data key="shared name">CA1</data>
+            <data key="name">CA1</data>
+            <data key="selected">false</data>
+            <data key="id">CA1</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3730">
+            <data key="SUID">3730</data>
+            <data key="shared name">CA2</data>
+            <data key="name">CA2</data>
+            <data key="selected">false</data>
+            <data key="id">CA2</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3728">
+            <data key="SUID">3728</data>
+            <data key="shared name">CA3</data>
+            <data key="name">CA3</data>
+            <data key="selected">false</data>
+            <data key="id">CA3</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3726">
+            <data key="SUID">3726</data>
+            <data key="shared name">DG</data>
+            <data key="name">DG</data>
+            <data key="selected">false</data>
+            <data key="id">DG</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3724">
+            <data key="SUID">3724</data>
+            <data key="shared name">proSub</data>
+            <data key="name">proSub</data>
+            <data key="selected">false</data>
+            <data key="id">proSub</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3722">
+            <data key="SUID">3722</data>
+            <data key="shared name">Sub</data>
+            <data key="name">Sub</data>
+            <data key="selected">false</data>
+            <data key="id">Sub</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3720">
+            <data key="SUID">3720</data>
+            <data key="shared name">Clst</data>
+            <data key="name">Clst</data>
+            <data key="selected">false</data>
+            <data key="id">Clst</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3718">
+            <data key="SUID">3718</data>
+            <data key="shared name">dEPn</data>
+            <data key="name">dEPn</data>
+            <data key="selected">false</data>
+            <data key="id">dEPn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3716">
+            <data key="SUID">3716</data>
+            <data key="shared name">vEPn</data>
+            <data key="name">vEPn</data>
+            <data key="selected">false</data>
+            <data key="id">vEPn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3714">
+            <data key="SUID">3714</data>
+            <data key="shared name">LAn</data>
+            <data key="name">LAn</data>
+            <data key="selected">false</data>
+            <data key="id">LAn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3712">
+            <data key="SUID">3712</data>
+            <data key="shared name">BLA</data>
+            <data key="name">BLA</data>
+            <data key="selected">false</data>
+            <data key="id">BLA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3710">
+            <data key="SUID">3710</data>
+            <data key="shared name">BMe</data>
+            <data key="name">BMe</data>
+            <data key="selected">false</data>
+            <data key="id">BMe</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3708">
+            <data key="SUID">3708</data>
+            <data key="shared name">CCA</data>
+            <data key="name">CCA</data>
+            <data key="selected">false</data>
+            <data key="id">CCA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3706">
+            <data key="SUID">3706</data>
+            <data key="shared name">PAn</data>
+            <data key="name">PAn</data>
+            <data key="selected">false</data>
+            <data key="id">PAn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3704">
+            <data key="SUID">3704</data>
+            <data key="shared name">aAA</data>
+            <data key="name">aAA</data>
+            <data key="selected">false</data>
+            <data key="id">aAA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3702">
+            <data key="SUID">3702</data>
+            <data key="shared name">CA</data>
+            <data key="name">CA</data>
+            <data key="selected">false</data>
+            <data key="id">CA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3700">
+            <data key="SUID">3700</data>
+            <data key="shared name">IAn</data>
+            <data key="name">IAn</data>
+            <data key="selected">false</data>
+            <data key="id">IAn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3698">
+            <data key="SUID">3698</data>
+            <data key="shared name">MAn</data>
+            <data key="name">MAn</data>
+            <data key="selected">false</data>
+            <data key="id">MAn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3696">
+            <data key="SUID">3696</data>
+            <data key="shared name">LSN</data>
+            <data key="name">LSN</data>
+            <data key="selected">false</data>
+            <data key="id">LSN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3694">
+            <data key="SUID">3694</data>
+            <data key="shared name">SFn</data>
+            <data key="name">SFn</data>
+            <data key="selected">false</data>
+            <data key="id">SFn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3692">
+            <data key="SUID">3692</data>
+            <data key="shared name">DLS</data>
+            <data key="name">DLS</data>
+            <data key="selected">false</data>
+            <data key="id">DLS</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3690">
+            <data key="SUID">3690</data>
+            <data key="shared name">DMS</data>
+            <data key="name">DMS</data>
+            <data key="selected">false</data>
+            <data key="id">DMS</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3688">
+            <data key="SUID">3688</data>
+            <data key="shared name">NACC.SHELL</data>
+            <data key="name">NACC.SHELL</data>
+            <data key="selected">false</data>
+            <data key="id">NACC.SHELL</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3686">
+            <data key="SUID">3686</data>
+            <data key="shared name">NACC.CORE</data>
+            <data key="name">NACC.CORE</data>
+            <data key="selected">false</data>
+            <data key="id">NACC.CORE</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3684">
+            <data key="SUID">3684</data>
+            <data key="shared name">FStr</data>
+            <data key="name">FStr</data>
+            <data key="selected">false</data>
+            <data key="id">FStr</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3682">
+            <data key="SUID">3682</data>
+            <data key="shared name">OT</data>
+            <data key="name">OT</data>
+            <data key="selected">false</data>
+            <data key="id">OT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3680">
+            <data key="SUID">3680</data>
+            <data key="shared name">MGCn</data>
+            <data key="name">MGCn</data>
+            <data key="selected">false</data>
+            <data key="id">MGCn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3678">
+            <data key="SUID">3678</data>
+            <data key="shared name">Gpe</data>
+            <data key="name">Gpe</data>
+            <data key="selected">false</data>
+            <data key="id">Gpe</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3676">
+            <data key="SUID">3676</data>
+            <data key="shared name">Gpi</data>
+            <data key="name">Gpi</data>
+            <data key="selected">false</data>
+            <data key="id">Gpi</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3674">
+            <data key="SUID">3674</data>
+            <data key="shared name">SubInn</data>
+            <data key="name">SubInn</data>
+            <data key="selected">false</data>
+            <data key="id">SubInn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3672">
+            <data key="SUID">3672</data>
+            <data key="shared name">MSn</data>
+            <data key="name">MSn</data>
+            <data key="selected">false</data>
+            <data key="id">MSn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3670">
+            <data key="SUID">3670</data>
+            <data key="shared name">DBn</data>
+            <data key="name">DBn</data>
+            <data key="selected">false</data>
+            <data key="id">DBn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3668">
+            <data key="SUID">3668</data>
+            <data key="shared name">TnS</data>
+            <data key="name">TnS</data>
+            <data key="selected">false</data>
+            <data key="id">TnS</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3666">
+            <data key="SUID">3666</data>
+            <data key="shared name">BNST</data>
+            <data key="name">BNST</data>
+            <data key="selected">false</data>
+            <data key="id">BNST</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3664">
+            <data key="SUID">3664</data>
+            <data key="shared name">VALCT</data>
+            <data key="name">VALCT</data>
+            <data key="selected">false</data>
+            <data key="id">VALCT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3662">
+            <data key="SUID">3662</data>
+            <data key="shared name">VMT</data>
+            <data key="name">VMT</data>
+            <data key="selected">false</data>
+            <data key="id">VMT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3660">
+            <data key="SUID">3660</data>
+            <data key="shared name">VPLT</data>
+            <data key="name">VPLT</data>
+            <data key="selected">false</data>
+            <data key="id">VPLT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3658">
+            <data key="SUID">3658</data>
+            <data key="shared name">VPMT</data>
+            <data key="name">VPMT</data>
+            <data key="selected">false</data>
+            <data key="id">VPMT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3656">
+            <data key="SUID">3656</data>
+            <data key="shared name">PTTn</data>
+            <data key="name">PTTn</data>
+            <data key="selected">false</data>
+            <data key="id">PTTn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3654">
+            <data key="SUID">3654</data>
+            <data key="shared name">MGC</data>
+            <data key="name">MGC</data>
+            <data key="selected">false</data>
+            <data key="id">MGC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3652">
+            <data key="SUID">3652</data>
+            <data key="shared name">dLGC</data>
+            <data key="name">dLGC</data>
+            <data key="selected">false</data>
+            <data key="id">dLGC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3650">
+            <data key="SUID">3650</data>
+            <data key="shared name">LPT</data>
+            <data key="name">LPT</data>
+            <data key="selected">false</data>
+            <data key="id">LPT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3648">
+            <data key="SUID">3648</data>
+            <data key="shared name">PCT</data>
+            <data key="name">PCT</data>
+            <data key="selected">false</data>
+            <data key="id">PCT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3646">
+            <data key="SUID">3646</data>
+            <data key="shared name">PlnT</data>
+            <data key="name">PlnT</data>
+            <data key="selected">false</data>
+            <data key="id">PlnT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3644">
+            <data key="SUID">3644</data>
+            <data key="shared name">EnT</data>
+            <data key="name">EnT</data>
+            <data key="selected">false</data>
+            <data key="id">EnT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3642">
+            <data key="SUID">3642</data>
+            <data key="shared name">AVT</data>
+            <data key="name">AVT</data>
+            <data key="selected">false</data>
+            <data key="id">AVT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3640">
+            <data key="SUID">3640</data>
+            <data key="shared name">AMn</data>
+            <data key="name">AMn</data>
+            <data key="selected">false</data>
+            <data key="id">AMn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3638">
+            <data key="SUID">3638</data>
+            <data key="shared name">IADT</data>
+            <data key="name">IADT</data>
+            <data key="selected">false</data>
+            <data key="id">IADT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3636">
+            <data key="SUID">3636</data>
+            <data key="shared name">IMDT</data>
+            <data key="name">IMDT</data>
+            <data key="selected">false</data>
+            <data key="id">IMDT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3634">
+            <data key="SUID">3634</data>
+            <data key="shared name">MDT</data>
+            <data key="name">MDT</data>
+            <data key="selected">false</data>
+            <data key="id">MDT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3632">
+            <data key="SUID">3632</data>
+            <data key="shared name">SMT</data>
+            <data key="name">SMT</data>
+            <data key="selected">false</data>
+            <data key="id">SMT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3630">
+            <data key="SUID">3630</data>
+            <data key="shared name">pRE</data>
+            <data key="name">pRE</data>
+            <data key="selected">false</data>
+            <data key="id">pRE</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3628">
+            <data key="SUID">3628</data>
+            <data key="shared name">PVT</data>
+            <data key="name">PVT</data>
+            <data key="selected">false</data>
+            <data key="id">PVT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3626">
+            <data key="SUID">3626</data>
+            <data key="shared name">PT</data>
+            <data key="name">PT</data>
+            <data key="selected">false</data>
+            <data key="id">PT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3624">
+            <data key="SUID">3624</data>
+            <data key="shared name">RE</data>
+            <data key="name">RE</data>
+            <data key="selected">false</data>
+            <data key="id">RE</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3622">
+            <data key="SUID">3622</data>
+            <data key="shared name">XiT</data>
+            <data key="name">XiT</data>
+            <data key="selected">false</data>
+            <data key="id">XiT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3620">
+            <data key="SUID">3620</data>
+            <data key="shared name">Rh</data>
+            <data key="name">Rh</data>
+            <data key="selected">false</data>
+            <data key="id">Rh</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3618">
+            <data key="SUID">3618</data>
+            <data key="shared name">CMT</data>
+            <data key="name">CMT</data>
+            <data key="selected">false</data>
+            <data key="id">CMT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3616">
+            <data key="SUID">3616</data>
+            <data key="shared name">PCn</data>
+            <data key="name">PCn</data>
+            <data key="selected">false</data>
+            <data key="id">PCn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3614">
+            <data key="SUID">3614</data>
+            <data key="shared name">CLT</data>
+            <data key="name">CLT</data>
+            <data key="selected">false</data>
+            <data key="id">CLT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3612">
+            <data key="SUID">3612</data>
+            <data key="shared name">RT</data>
+            <data key="name">RT</data>
+            <data key="selected">false</data>
+            <data key="id">RT</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3610">
+            <data key="SUID">3610</data>
+            <data key="shared name">IGLLGC</data>
+            <data key="name">IGLLGC</data>
+            <data key="selected">false</data>
+            <data key="id">IGLLGC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3608">
+            <data key="SUID">3608</data>
+            <data key="shared name">vlLGC</data>
+            <data key="name">vlLGC</data>
+            <data key="selected">false</data>
+            <data key="id">vlLGC</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3606">
+            <data key="SUID">3606</data>
+            <data key="shared name">subGn</data>
+            <data key="name">subGn</data>
+            <data key="selected">false</data>
+            <data key="id">subGn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3604">
+            <data key="SUID">3604</data>
+            <data key="shared name">MHb</data>
+            <data key="name">MHb</data>
+            <data key="selected">false</data>
+            <data key="id">MHb</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3602">
+            <data key="SUID">3602</data>
+            <data key="shared name">LHb</data>
+            <data key="name">LHb</data>
+            <data key="selected">false</data>
+            <data key="id">LHb</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3600">
+            <data key="SUID">3600</data>
+            <data key="shared name">SON</data>
+            <data key="name">SON</data>
+            <data key="selected">false</data>
+            <data key="id">SON</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3598">
+            <data key="SUID">3598</data>
+            <data key="shared name">PVH</data>
+            <data key="name">PVH</data>
+            <data key="selected">false</data>
+            <data key="id">PVH</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3596">
+            <data key="SUID">3596</data>
+            <data key="shared name">IPVH</data>
+            <data key="name">IPVH</data>
+            <data key="selected">false</data>
+            <data key="id">IPVH</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3594">
+            <data key="SUID">3594</data>
+            <data key="shared name">ArH</data>
+            <data key="name">ArH</data>
+            <data key="selected">false</data>
+            <data key="id">ArH</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3592">
+            <data key="SUID">3592</data>
+            <data key="shared name">ADPO</data>
+            <data key="name">ADPO</data>
+            <data key="selected">false</data>
+            <data key="id">ADPO</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3590">
+            <data key="SUID">3590</data>
+            <data key="shared name">AVPO</data>
+            <data key="name">AVPO</data>
+            <data key="selected">false</data>
+            <data key="id">AVPO</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3588">
+            <data key="SUID">3588</data>
+            <data key="shared name">AVPV</data>
+            <data key="name">AVPV</data>
+            <data key="selected">false</data>
+            <data key="id">AVPV</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3586">
+            <data key="SUID">3586</data>
+            <data key="shared name">DMH</data>
+            <data key="name">DMH</data>
+            <data key="selected">false</data>
+            <data key="id">DMH</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3584">
+            <data key="SUID">3584</data>
+            <data key="shared name">MePO</data>
+            <data key="name">MePO</data>
+            <data key="selected">false</data>
+            <data key="id">MePO</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3582">
+            <data key="SUID">3582</data>
+            <data key="shared name">MPA</data>
+            <data key="name">MPA</data>
+            <data key="selected">false</data>
+            <data key="id">MPA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3580">
+            <data key="SUID">3580</data>
+            <data key="shared name">PSN</data>
+            <data key="name">PSN</data>
+            <data key="selected">false</data>
+            <data key="id">PSN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3578">
+            <data key="SUID">3578</data>
+            <data key="shared name">SPZ</data>
+            <data key="name">SPZ</data>
+            <data key="selected">false</data>
+            <data key="id">SPZ</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3576">
+            <data key="SUID">3576</data>
+            <data key="shared name">SCN</data>
+            <data key="name">SCN</data>
+            <data key="selected">false</data>
+            <data key="id">SCN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3574">
+            <data key="SUID">3574</data>
+            <data key="shared name">AHN</data>
+            <data key="name">AHN</data>
+            <data key="selected">false</data>
+            <data key="id">AHN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3572">
+            <data key="SUID">3572</data>
+            <data key="shared name">SMN</data>
+            <data key="name">SMN</data>
+            <data key="selected">false</data>
+            <data key="id">SMN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3570">
+            <data key="SUID">3570</data>
+            <data key="shared name">MPO</data>
+            <data key="name">MPO</data>
+            <data key="selected">false</data>
+            <data key="id">MPO</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3568">
+            <data key="SUID">3568</data>
+            <data key="shared name">VMHn</data>
+            <data key="name">VMHn</data>
+            <data key="selected">false</data>
+            <data key="id">VMHn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3566">
+            <data key="SUID">3566</data>
+            <data key="shared name">PHn</data>
+            <data key="name">PHn</data>
+            <data key="selected">false</data>
+            <data key="id">PHn</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3564">
+            <data key="SUID">3564</data>
+            <data key="shared name">LHA</data>
+            <data key="name">LHA</data>
+            <data key="selected">false</data>
+            <data key="id">LHA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3562">
+            <data key="SUID">3562</data>
+            <data key="shared name">LPO</data>
+            <data key="name">LPO</data>
+            <data key="selected">false</data>
+            <data key="id">LPO</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3560">
+            <data key="SUID">3560</data>
+            <data key="shared name">PSTN</data>
+            <data key="name">PSTN</data>
+            <data key="selected">false</data>
+            <data key="id">PSTN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3558">
+            <data key="SUID">3558</data>
+            <data key="shared name">STN</data>
+            <data key="name">STN</data>
+            <data key="selected">false</data>
+            <data key="id">STN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3556">
+            <data key="SUID">3556</data>
+            <data key="shared name">ZI</data>
+            <data key="name">ZI</data>
+            <data key="selected">false</data>
+            <data key="id">ZI</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3554">
+            <data key="SUID">3554</data>
+            <data key="shared name">FF</data>
+            <data key="name">FF</data>
+            <data key="selected">false</data>
+            <data key="id">FF</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3552">
+            <data key="SUID">3552</data>
+            <data key="shared name">TN</data>
+            <data key="name">TN</data>
+            <data key="selected">false</data>
+            <data key="id">TN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3550">
+            <data key="SUID">3550</data>
+            <data key="shared name">reSN</data>
+            <data key="name">reSN</data>
+            <data key="selected">false</data>
+            <data key="id">reSN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3548">
+            <data key="SUID">3548</data>
+            <data key="shared name">cSN</data>
+            <data key="name">cSN</data>
+            <data key="selected">false</data>
+            <data key="id">cSN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3546">
+            <data key="SUID">3546</data>
+            <data key="shared name">VTA</data>
+            <data key="name">VTA</data>
+            <data key="selected">false</data>
+            <data key="id">VTA</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3544">
+            <data key="SUID">3544</data>
+            <data key="shared name">PAG</data>
+            <data key="name">PAG</data>
+            <data key="selected">false</data>
+            <data key="id">PAG</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3542">
+            <data key="SUID">3542</data>
+            <data key="shared name">SCO</data>
+            <data key="name">SCO</data>
+            <data key="selected">false</data>
+            <data key="id">SCO</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3540">
+            <data key="SUID">3540</data>
+            <data key="shared name">PreCN</data>
+            <data key="name">PreCN</data>
+            <data key="selected">false</data>
+            <data key="id">PreCN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <node id="3538">
+            <data key="SUID">3538</data>
+            <data key="shared name">APTN</data>
+            <data key="name">APTN</data>
+            <data key="selected">false</data>
+            <data key="id">APTN</data>
+            <data key="IsSingleNode">false</data>
+        </node>
+        <edge source="3788" target="3772">
+            <data key="SUID">5173</data>
+            <data key="shared name">FP (interacts with) M1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FP (interacts with) M1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55221</data>
+            <data key="source">FP</data>
+            <data key="target">M1</data>
+            <data key="weight">0.7597314</data>
+        </edge>
+        <edge source="3788" target="3748">
+            <data key="SUID">5171</data>
+            <data key="shared name">FP (interacts with) VA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FP (interacts with) VA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55224</data>
+            <data key="source">FP</data>
+            <data key="target">VA</data>
+            <data key="weight">0.8134618</data>
+        </edge>
+        <edge source="3788" target="3616">
+            <data key="SUID">5169</data>
+            <data key="shared name">FP (interacts with) PCn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FP (interacts with) PCn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55227</data>
+            <data key="source">FP</data>
+            <data key="target">PCn</data>
+            <data key="weight">0.7808719</data>
+        </edge>
+        <edge source="3788" target="3558">
+            <data key="SUID">5167</data>
+            <data key="shared name">FP (interacts with) STN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FP (interacts with) STN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55230</data>
+            <data key="source">FP</data>
+            <data key="target">STN</data>
+            <data key="weight">0.7313343</data>
+        </edge>
+        <edge source="3786" target="3784">
+            <data key="SUID">5165</data>
+            <data key="shared name">PL (interacts with) IL</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PL (interacts with) IL</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55233</data>
+            <data key="source">PL</data>
+            <data key="target">IL</data>
+            <data key="weight">0.8886243</data>
+        </edge>
+        <edge source="3786" target="3742">
+            <data key="SUID">5163</data>
+            <data key="shared name">PL (interacts with) DPA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PL (interacts with) DPA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55236</data>
+            <data key="source">PL</data>
+            <data key="target">DPA</data>
+            <data key="weight">0.9260528</data>
+        </edge>
+        <edge source="3786" target="3740">
+            <data key="SUID">5161</data>
+            <data key="shared name">PL (interacts with) PC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PL (interacts with) PC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55239</data>
+            <data key="source">PL</data>
+            <data key="target">PC</data>
+            <data key="weight">0.8138157</data>
+        </edge>
+        <edge source="3786" target="3694">
+            <data key="SUID">5159</data>
+            <data key="shared name">PL (interacts with) SFn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PL (interacts with) SFn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55242</data>
+            <data key="source">PL</data>
+            <data key="target">SFn</data>
+            <data key="weight">0.812549</data>
+        </edge>
+        <edge source="3786" target="3666">
+            <data key="SUID">5157</data>
+            <data key="shared name">PL (interacts with) BNST</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PL (interacts with) BNST</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55245</data>
+            <data key="source">PL</data>
+            <data key="target">BNST</data>
+            <data key="weight">0.7306485</data>
+        </edge>
+        <edge source="3784" target="3742">
+            <data key="SUID">5155</data>
+            <data key="shared name">IL (interacts with) DPA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IL (interacts with) DPA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55248</data>
+            <data key="source">IL</data>
+            <data key="target">DPA</data>
+            <data key="weight">0.9202427</data>
+        </edge>
+        <edge source="3782" target="3780">
+            <data key="SUID">5153</data>
+            <data key="shared name">dACC (interacts with) Vacc</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">dACC (interacts with) Vacc</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55251</data>
+            <data key="source">dACC</data>
+            <data key="target">Vacc</data>
+            <data key="weight">0.9003509</data>
+        </edge>
+        <edge source="3782" target="3740">
+            <data key="SUID">5151</data>
+            <data key="shared name">dACC (interacts with) PC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">dACC (interacts with) PC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55254</data>
+            <data key="source">dACC</data>
+            <data key="target">PC</data>
+            <data key="weight">0.9054201</data>
+        </edge>
+        <edge source="3782" target="3694">
+            <data key="SUID">5149</data>
+            <data key="shared name">dACC (interacts with) SFn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">dACC (interacts with) SFn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55257</data>
+            <data key="source">dACC</data>
+            <data key="target">SFn</data>
+            <data key="weight">0.7587285</data>
+        </edge>
+        <edge source="3782" target="3676">
+            <data key="SUID">5147</data>
+            <data key="shared name">dACC (interacts with) Gpi</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">dACC (interacts with) Gpi</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55260</data>
+            <data key="source">dACC</data>
+            <data key="target">Gpi</data>
+            <data key="weight">0.7688674</data>
+        </edge>
+        <edge source="3780" target="3740">
+            <data key="SUID">5145</data>
+            <data key="shared name">Vacc (interacts with) PC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Vacc (interacts with) PC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55263</data>
+            <data key="source">Vacc</data>
+            <data key="target">PC</data>
+            <data key="weight">0.7714151</data>
+        </edge>
+        <edge source="3780" target="3694">
+            <data key="SUID">5143</data>
+            <data key="shared name">Vacc (interacts with) SFn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Vacc (interacts with) SFn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55266</data>
+            <data key="source">Vacc</data>
+            <data key="target">SFn</data>
+            <data key="weight">0.7947221</data>
+        </edge>
+        <edge source="3780" target="3640">
+            <data key="SUID">5141</data>
+            <data key="shared name">Vacc (interacts with) AMn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Vacc (interacts with) AMn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55269</data>
+            <data key="source">Vacc</data>
+            <data key="target">AMn</data>
+            <data key="weight">0.7496106</data>
+        </edge>
+        <edge source="3778" target="3776">
+            <data key="SUID">5139</data>
+            <data key="shared name">OA (interacts with) AU</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) AU</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55272</data>
+            <data key="source">OA</data>
+            <data key="target">AU</data>
+            <data key="weight">0.8189073</data>
+        </edge>
+        <edge source="3778" target="3774">
+            <data key="SUID">5137</data>
+            <data key="shared name">OA (interacts with) M2</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) M2</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55275</data>
+            <data key="source">OA</data>
+            <data key="target">M2</data>
+            <data key="weight">0.8043134</data>
+        </edge>
+        <edge source="3778" target="3772">
+            <data key="SUID">5135</data>
+            <data key="shared name">OA (interacts with) M1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) M1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55278</data>
+            <data key="source">OA</data>
+            <data key="target">M1</data>
+            <data key="weight">0.7863159</data>
+        </edge>
+        <edge source="3778" target="3770">
+            <data key="SUID">5133</data>
+            <data key="shared name">OA (interacts with) S1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) S1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55281</data>
+            <data key="source">OA</data>
+            <data key="target">S1</data>
+            <data key="weight">0.8720556</data>
+        </edge>
+        <edge source="3778" target="3768">
+            <data key="SUID">5131</data>
+            <data key="shared name">OA (interacts with) SS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) SS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55284</data>
+            <data key="source">OA</data>
+            <data key="target">SS</data>
+            <data key="weight">0.8112653</data>
+        </edge>
+        <edge source="3778" target="3748">
+            <data key="SUID">5129</data>
+            <data key="shared name">OA (interacts with) VA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) VA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55287</data>
+            <data key="source">OA</data>
+            <data key="target">VA</data>
+            <data key="weight">0.7683345</data>
+        </edge>
+        <edge source="3778" target="3720">
+            <data key="SUID">5127</data>
+            <data key="shared name">OA (interacts with) Clst</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) Clst</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55290</data>
+            <data key="source">OA</data>
+            <data key="target">Clst</data>
+            <data key="weight">0.7370107</data>
+        </edge>
+        <edge source="3778" target="3692">
+            <data key="SUID">5125</data>
+            <data key="shared name">OA (interacts with) DLS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OA (interacts with) DLS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55293</data>
+            <data key="source">OA</data>
+            <data key="target">DLS</data>
+            <data key="weight">0.9454556</data>
+        </edge>
+        <edge source="3776" target="3748">
+            <data key="SUID">5123</data>
+            <data key="shared name">AU (interacts with) VA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AU (interacts with) VA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55296</data>
+            <data key="source">AU</data>
+            <data key="target">VA</data>
+            <data key="weight">0.773421</data>
+        </edge>
+        <edge source="3776" target="3692">
+            <data key="SUID">5121</data>
+            <data key="shared name">AU (interacts with) DLS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AU (interacts with) DLS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55299</data>
+            <data key="source">AU</data>
+            <data key="target">DLS</data>
+            <data key="weight">0.8107846</data>
+        </edge>
+        <edge source="3774" target="3772">
+            <data key="SUID">5119</data>
+            <data key="shared name">M2 (interacts with) M1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M2 (interacts with) M1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55302</data>
+            <data key="source">M2</data>
+            <data key="target">M1</data>
+            <data key="weight">0.9465345</data>
+        </edge>
+        <edge source="3774" target="3770">
+            <data key="SUID">5117</data>
+            <data key="shared name">M2 (interacts with) S1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M2 (interacts with) S1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55305</data>
+            <data key="source">M2</data>
+            <data key="target">S1</data>
+            <data key="weight">0.8067078</data>
+        </edge>
+        <edge source="3774" target="3692">
+            <data key="SUID">5115</data>
+            <data key="shared name">M2 (interacts with) DLS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M2 (interacts with) DLS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55308</data>
+            <data key="source">M2</data>
+            <data key="target">DLS</data>
+            <data key="weight">0.867057</data>
+        </edge>
+        <edge source="3774" target="3678">
+            <data key="SUID">5113</data>
+            <data key="shared name">M2 (interacts with) Gpe</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M2 (interacts with) Gpe</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55311</data>
+            <data key="source">M2</data>
+            <data key="target">Gpe</data>
+            <data key="weight">0.9015986</data>
+        </edge>
+        <edge source="3774" target="3676">
+            <data key="SUID">5111</data>
+            <data key="shared name">M2 (interacts with) Gpi</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M2 (interacts with) Gpi</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55314</data>
+            <data key="source">M2</data>
+            <data key="target">Gpi</data>
+            <data key="weight">0.8665047</data>
+        </edge>
+        <edge source="3772" target="3770">
+            <data key="SUID">5109</data>
+            <data key="shared name">M1 (interacts with) S1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M1 (interacts with) S1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55317</data>
+            <data key="source">M1</data>
+            <data key="target">S1</data>
+            <data key="weight">0.7912082</data>
+        </edge>
+        <edge source="3772" target="3692">
+            <data key="SUID">5107</data>
+            <data key="shared name">M1 (interacts with) DLS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M1 (interacts with) DLS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55320</data>
+            <data key="source">M1</data>
+            <data key="target">DLS</data>
+            <data key="weight">0.8791426</data>
+        </edge>
+        <edge source="3772" target="3678">
+            <data key="SUID">5105</data>
+            <data key="shared name">M1 (interacts with) Gpe</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">M1 (interacts with) Gpe</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55323</data>
+            <data key="source">M1</data>
+            <data key="target">Gpe</data>
+            <data key="weight">0.7487027</data>
+        </edge>
+        <edge source="3770" target="3768">
+            <data key="SUID">5103</data>
+            <data key="shared name">S1 (interacts with) SS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">S1 (interacts with) SS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55326</data>
+            <data key="source">S1</data>
+            <data key="target">SS</data>
+            <data key="weight">0.9464504</data>
+        </edge>
+        <edge source="3770" target="3766">
+            <data key="SUID">5101</data>
+            <data key="shared name">S1 (interacts with) GA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">S1 (interacts with) GA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55329</data>
+            <data key="source">S1</data>
+            <data key="target">GA</data>
+            <data key="weight">0.8304648</data>
+        </edge>
+        <edge source="3770" target="3748">
+            <data key="SUID">5099</data>
+            <data key="shared name">S1 (interacts with) VA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">S1 (interacts with) VA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55332</data>
+            <data key="source">S1</data>
+            <data key="target">VA</data>
+            <data key="weight">0.7685183</data>
+        </edge>
+        <edge source="3770" target="3692">
+            <data key="SUID">5097</data>
+            <data key="shared name">S1 (interacts with) DLS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">S1 (interacts with) DLS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55335</data>
+            <data key="source">S1</data>
+            <data key="target">DLS</data>
+            <data key="weight">0.8568439</data>
+        </edge>
+        <edge source="3770" target="3674">
+            <data key="SUID">5095</data>
+            <data key="shared name">S1 (interacts with) SubInn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">S1 (interacts with) SubInn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55338</data>
+            <data key="source">S1</data>
+            <data key="target">SubInn</data>
+            <data key="weight">0.773075</data>
+        </edge>
+        <edge source="3770" target="3616">
+            <data key="SUID">5093</data>
+            <data key="shared name">S1 (interacts with) PCn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">S1 (interacts with) PCn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55341</data>
+            <data key="source">S1</data>
+            <data key="target">PCn</data>
+            <data key="weight">0.8186352</data>
+        </edge>
+        <edge source="3768" target="3766">
+            <data key="SUID">5091</data>
+            <data key="shared name">SS (interacts with) GA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SS (interacts with) GA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55344</data>
+            <data key="source">SS</data>
+            <data key="target">GA</data>
+            <data key="weight">0.8318171</data>
+        </edge>
+        <edge source="3768" target="3748">
+            <data key="SUID">5089</data>
+            <data key="shared name">SS (interacts with) VA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SS (interacts with) VA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55347</data>
+            <data key="source">SS</data>
+            <data key="target">VA</data>
+            <data key="weight">0.9031848</data>
+        </edge>
+        <edge source="3768" target="3692">
+            <data key="SUID">5087</data>
+            <data key="shared name">SS (interacts with) DLS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SS (interacts with) DLS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55350</data>
+            <data key="source">SS</data>
+            <data key="target">DLS</data>
+            <data key="weight">0.7620941</data>
+        </edge>
+        <edge source="3768" target="3674">
+            <data key="SUID">5085</data>
+            <data key="shared name">SS (interacts with) SubInn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SS (interacts with) SubInn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55353</data>
+            <data key="source">SS</data>
+            <data key="target">SubInn</data>
+            <data key="weight">0.7804018</data>
+        </edge>
+        <edge source="3768" target="3616">
+            <data key="SUID">5083</data>
+            <data key="shared name">SS (interacts with) PCn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SS (interacts with) PCn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55356</data>
+            <data key="source">SS</data>
+            <data key="target">PCn</data>
+            <data key="weight">0.8920545</data>
+        </edge>
+        <edge source="3766" target="3616">
+            <data key="SUID">5081</data>
+            <data key="shared name">GA (interacts with) PCn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">GA (interacts with) PCn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55359</data>
+            <data key="source">GA</data>
+            <data key="target">PCn</data>
+            <data key="weight">0.826883</data>
+        </edge>
+        <edge source="3764" target="3756">
+            <data key="SUID">5079</data>
+            <data key="shared name">AuA (interacts with) TeAA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AuA (interacts with) TeAA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55362</data>
+            <data key="source">AuA</data>
+            <data key="target">TeAA</data>
+            <data key="weight">0.9343942</data>
+        </edge>
+        <edge source="3764" target="3732">
+            <data key="SUID">5077</data>
+            <data key="shared name">AuA (interacts with) CA1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AuA (interacts with) CA1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55365</data>
+            <data key="source">AuA</data>
+            <data key="target">CA1</data>
+            <data key="weight">0.7505661</data>
+        </edge>
+        <edge source="3764" target="3728">
+            <data key="SUID">5075</data>
+            <data key="shared name">AuA (interacts with) CA3</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AuA (interacts with) CA3</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55368</data>
+            <data key="source">AuA</data>
+            <data key="target">CA3</data>
+            <data key="weight">0.8035352</data>
+        </edge>
+        <edge source="3764" target="3714">
+            <data key="SUID">5073</data>
+            <data key="shared name">AuA (interacts with) LAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AuA (interacts with) LAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55371</data>
+            <data key="source">AuA</data>
+            <data key="target">LAn</data>
+            <data key="weight">0.7857837</data>
+        </edge>
+        <edge source="3764" target="3708">
+            <data key="SUID">5071</data>
+            <data key="shared name">AuA (interacts with) CCA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AuA (interacts with) CCA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55374</data>
+            <data key="source">AuA</data>
+            <data key="target">CCA</data>
+            <data key="weight">0.7634219</data>
+        </edge>
+        <edge source="3764" target="3630">
+            <data key="SUID">5069</data>
+            <data key="shared name">AuA (interacts with) pRE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AuA (interacts with) pRE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55377</data>
+            <data key="source">AuA</data>
+            <data key="target">pRE</data>
+            <data key="weight">0.8573271</data>
+        </edge>
+        <edge source="3764" target="3540">
+            <data key="SUID">5067</data>
+            <data key="shared name">AuA (interacts with) PreCN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AuA (interacts with) PreCN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55380</data>
+            <data key="source">AuA</data>
+            <data key="target">PreCN</data>
+            <data key="weight">0.9807585</data>
+        </edge>
+        <edge source="3762" target="3604">
+            <data key="SUID">5065</data>
+            <data key="shared name">RS (interacts with) MHb</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">RS (interacts with) MHb</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55383</data>
+            <data key="source">RS</data>
+            <data key="target">MHb</data>
+            <data key="weight">0.7510332</data>
+        </edge>
+        <edge source="3762" target="3542">
+            <data key="SUID">5063</data>
+            <data key="shared name">RS (interacts with) SCO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">RS (interacts with) SCO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55386</data>
+            <data key="source">RS</data>
+            <data key="target">SCO</data>
+            <data key="weight">0.7773947</data>
+        </edge>
+        <edge source="3760" target="3718">
+            <data key="SUID">5061</data>
+            <data key="shared name">AA (interacts with) dEPn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AA (interacts with) dEPn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55389</data>
+            <data key="source">AA</data>
+            <data key="target">dEPn</data>
+            <data key="weight">0.7538144</data>
+        </edge>
+        <edge source="3760" target="3646">
+            <data key="SUID">5059</data>
+            <data key="shared name">AA (interacts with) PlnT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AA (interacts with) PlnT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55392</data>
+            <data key="source">AA</data>
+            <data key="target">PlnT</data>
+            <data key="weight">0.8393879</data>
+        </edge>
+        <edge source="3758" target="3732">
+            <data key="SUID">5057</data>
+            <data key="shared name">ViA (interacts with) CA1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) CA1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55395</data>
+            <data key="source">ViA</data>
+            <data key="target">CA1</data>
+            <data key="weight">0.8225758</data>
+        </edge>
+        <edge source="3758" target="3730">
+            <data key="SUID">5055</data>
+            <data key="shared name">ViA (interacts with) CA2</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) CA2</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55398</data>
+            <data key="source">ViA</data>
+            <data key="target">CA2</data>
+            <data key="weight">0.8021767</data>
+        </edge>
+        <edge source="3758" target="3724">
+            <data key="SUID">5053</data>
+            <data key="shared name">ViA (interacts with) proSub</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) proSub</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55401</data>
+            <data key="source">ViA</data>
+            <data key="target">proSub</data>
+            <data key="weight">0.8546145</data>
+        </edge>
+        <edge source="3758" target="3722">
+            <data key="SUID">5051</data>
+            <data key="shared name">ViA (interacts with) Sub</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) Sub</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55404</data>
+            <data key="source">ViA</data>
+            <data key="target">Sub</data>
+            <data key="weight">0.818711</data>
+        </edge>
+        <edge source="3758" target="3716">
+            <data key="SUID">5049</data>
+            <data key="shared name">ViA (interacts with) vEPn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) vEPn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55407</data>
+            <data key="source">ViA</data>
+            <data key="target">vEPn</data>
+            <data key="weight">0.7703872</data>
+        </edge>
+        <edge source="3758" target="3712">
+            <data key="SUID">5047</data>
+            <data key="shared name">ViA (interacts with) BLA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) BLA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55410</data>
+            <data key="source">ViA</data>
+            <data key="target">BLA</data>
+            <data key="weight">0.8604534</data>
+        </edge>
+        <edge source="3758" target="3710">
+            <data key="SUID">5045</data>
+            <data key="shared name">ViA (interacts with) BMe</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) BMe</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55413</data>
+            <data key="source">ViA</data>
+            <data key="target">BMe</data>
+            <data key="weight">0.7359567</data>
+        </edge>
+        <edge source="3758" target="3606">
+            <data key="SUID">5043</data>
+            <data key="shared name">ViA (interacts with) subGn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ViA (interacts with) subGn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55416</data>
+            <data key="source">ViA</data>
+            <data key="target">subGn</data>
+            <data key="weight">0.7833309</data>
+        </edge>
+        <edge source="3756" target="3752">
+            <data key="SUID">5041</data>
+            <data key="shared name">TeAA (interacts with) lpEC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) lpEC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55419</data>
+            <data key="source">TeAA</data>
+            <data key="target">lpEC</data>
+            <data key="weight">0.7316282</data>
+        </edge>
+        <edge source="3756" target="3732">
+            <data key="SUID">5039</data>
+            <data key="shared name">TeAA (interacts with) CA1</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) CA1</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55422</data>
+            <data key="source">TeAA</data>
+            <data key="target">CA1</data>
+            <data key="weight">0.8601899</data>
+        </edge>
+        <edge source="3756" target="3730">
+            <data key="SUID">5037</data>
+            <data key="shared name">TeAA (interacts with) CA2</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) CA2</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55425</data>
+            <data key="source">TeAA</data>
+            <data key="target">CA2</data>
+            <data key="weight">0.7817916</data>
+        </edge>
+        <edge source="3756" target="3728">
+            <data key="SUID">5035</data>
+            <data key="shared name">TeAA (interacts with) CA3</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) CA3</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55428</data>
+            <data key="source">TeAA</data>
+            <data key="target">CA3</data>
+            <data key="weight">0.8713602</data>
+        </edge>
+        <edge source="3756" target="3714">
+            <data key="SUID">5033</data>
+            <data key="shared name">TeAA (interacts with) LAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) LAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55431</data>
+            <data key="source">TeAA</data>
+            <data key="target">LAn</data>
+            <data key="weight">0.8938071</data>
+        </edge>
+        <edge source="3756" target="3708">
+            <data key="SUID">5031</data>
+            <data key="shared name">TeAA (interacts with) CCA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) CCA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55434</data>
+            <data key="source">TeAA</data>
+            <data key="target">CCA</data>
+            <data key="weight">0.7476189</data>
+        </edge>
+        <edge source="3756" target="3630">
+            <data key="SUID">5029</data>
+            <data key="shared name">TeAA (interacts with) pRE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) pRE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55437</data>
+            <data key="source">TeAA</data>
+            <data key="target">pRE</data>
+            <data key="weight">0.7697527</data>
+        </edge>
+        <edge source="3756" target="3628">
+            <data key="SUID">5027</data>
+            <data key="shared name">TeAA (interacts with) PVT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) PVT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55440</data>
+            <data key="source">TeAA</data>
+            <data key="target">PVT</data>
+            <data key="weight">0.8179376</data>
+        </edge>
+        <edge source="3756" target="3540">
+            <data key="SUID">5025</data>
+            <data key="shared name">TeAA (interacts with) PreCN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TeAA (interacts with) PreCN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55443</data>
+            <data key="source">TeAA</data>
+            <data key="target">PreCN</data>
+            <data key="weight">0.8952038</data>
+        </edge>
+        <edge source="3754" target="3752">
+            <data key="SUID">5023</data>
+            <data key="shared name">Prh (interacts with) lpEC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Prh (interacts with) lpEC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55446</data>
+            <data key="source">Prh</data>
+            <data key="target">lpEC</data>
+            <data key="weight">0.811046</data>
+        </edge>
+        <edge source="3754" target="3750">
+            <data key="SUID">5021</data>
+            <data key="shared name">Prh (interacts with) Ech</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Prh (interacts with) Ech</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55449</data>
+            <data key="source">Prh</data>
+            <data key="target">Ech</data>
+            <data key="weight">0.8411224</data>
+        </edge>
+        <edge source="3754" target="3654">
+            <data key="SUID">5019</data>
+            <data key="shared name">Prh (interacts with) MGC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Prh (interacts with) MGC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55452</data>
+            <data key="source">Prh</data>
+            <data key="target">MGC</data>
+            <data key="weight">0.7310849</data>
+        </edge>
+        <edge source="3754" target="3546">
+            <data key="SUID">5017</data>
+            <data key="shared name">Prh (interacts with) VTA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Prh (interacts with) VTA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55455</data>
+            <data key="source">Prh</data>
+            <data key="target">VTA</data>
+            <data key="weight">0.7769921</data>
+        </edge>
+        <edge source="3752" target="3750">
+            <data key="SUID">5015</data>
+            <data key="shared name">lpEC (interacts with) Ech</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">lpEC (interacts with) Ech</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55458</data>
+            <data key="source">lpEC</data>
+            <data key="target">Ech</data>
+            <data key="weight">0.7337139</data>
+        </edge>
+        <edge source="3752" target="3710">
+            <data key="SUID">5013</data>
+            <data key="shared name">lpEC (interacts with) BMe</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">lpEC (interacts with) BMe</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55461</data>
+            <data key="source">lpEC</data>
+            <data key="target">BMe</data>
+            <data key="weight">0.7360577</data>
+        </edge>
+        <edge source="3752" target="3708">
+            <data key="SUID">5011</data>
+            <data key="shared name">lpEC (interacts with) CCA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">lpEC (interacts with) CCA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55464</data>
+            <data key="source">lpEC</data>
+            <data key="target">CCA</data>
+            <data key="weight">0.8109707</data>
+        </edge>
+        <edge source="3750" target="3550">
+            <data key="SUID">5009</data>
+            <data key="shared name">Ech (interacts with) reSN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ech (interacts with) reSN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55467</data>
+            <data key="source">Ech</data>
+            <data key="target">reSN</data>
+            <data key="weight">0.7718128</data>
+        </edge>
+        <edge source="3750" target="3546">
+            <data key="SUID">5007</data>
+            <data key="shared name">Ech (interacts with) VTA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ech (interacts with) VTA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55470</data>
+            <data key="source">Ech</data>
+            <data key="target">VTA</data>
+            <data key="weight">0.8375761</data>
+        </edge>
+        <edge source="3748" target="3616">
+            <data key="SUID">5005</data>
+            <data key="shared name">VA (interacts with) PCn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VA (interacts with) PCn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55473</data>
+            <data key="source">VA</data>
+            <data key="target">PCn</data>
+            <data key="weight">0.8754626</data>
+        </edge>
+        <edge source="3746" target="3706">
+            <data key="SUID">5003</data>
+            <data key="shared name">aOn (interacts with) PAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">aOn (interacts with) PAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55476</data>
+            <data key="source">aOn</data>
+            <data key="target">PAn</data>
+            <data key="weight">0.789375</data>
+        </edge>
+        <edge source="3746" target="3688">
+            <data key="SUID">5001</data>
+            <data key="shared name">aOn (interacts with) NACC.SHELL</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">aOn (interacts with) NACC.SHELL</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55479</data>
+            <data key="source">aOn</data>
+            <data key="target">NACC.SHELL</data>
+            <data key="weight">0.7872815</data>
+        </edge>
+        <edge source="3742" target="3694">
+            <data key="SUID">4999</data>
+            <data key="shared name">DPA (interacts with) SFn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">DPA (interacts with) SFn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55482</data>
+            <data key="source">DPA</data>
+            <data key="target">SFn</data>
+            <data key="weight">0.7796584</data>
+        </edge>
+        <edge source="3740" target="3720">
+            <data key="SUID">4997</data>
+            <data key="shared name">PC (interacts with) Clst</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PC (interacts with) Clst</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55485</data>
+            <data key="source">PC</data>
+            <data key="target">Clst</data>
+            <data key="weight">0.7740627</data>
+        </edge>
+        <edge source="3740" target="3694">
+            <data key="SUID">4995</data>
+            <data key="shared name">PC (interacts with) SFn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PC (interacts with) SFn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55488</data>
+            <data key="source">PC</data>
+            <data key="target">SFn</data>
+            <data key="weight">0.871401</data>
+        </edge>
+        <edge source="3740" target="3690">
+            <data key="SUID">4993</data>
+            <data key="shared name">PC (interacts with) DMS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PC (interacts with) DMS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55491</data>
+            <data key="source">PC</data>
+            <data key="target">DMS</data>
+            <data key="weight">0.7839898</data>
+        </edge>
+        <edge source="3736" target="3734">
+            <data key="SUID">4991</data>
+            <data key="shared name">FC (interacts with) IG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FC (interacts with) IG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55494</data>
+            <data key="source">FC</data>
+            <data key="target">IG</data>
+            <data key="weight">0.9365658</data>
+        </edge>
+        <edge source="3736" target="3726">
+            <data key="SUID">4989</data>
+            <data key="shared name">FC (interacts with) DG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FC (interacts with) DG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55497</data>
+            <data key="source">FC</data>
+            <data key="target">DG</data>
+            <data key="weight">0.9224417</data>
+        </edge>
+        <edge source="3736" target="3714">
+            <data key="SUID">4987</data>
+            <data key="shared name">FC (interacts with) LAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FC (interacts with) LAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55500</data>
+            <data key="source">FC</data>
+            <data key="target">LAn</data>
+            <data key="weight">0.7629774</data>
+        </edge>
+        <edge source="3736" target="3650">
+            <data key="SUID">4985</data>
+            <data key="shared name">FC (interacts with) LPT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FC (interacts with) LPT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55503</data>
+            <data key="source">FC</data>
+            <data key="target">LPT</data>
+            <data key="weight">0.7846612</data>
+        </edge>
+        <edge source="3736" target="3586">
+            <data key="SUID">4983</data>
+            <data key="shared name">FC (interacts with) DMH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FC (interacts with) DMH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55506</data>
+            <data key="source">FC</data>
+            <data key="target">DMH</data>
+            <data key="weight">0.9655762</data>
+        </edge>
+        <edge source="3734" target="3726">
+            <data key="SUID">4981</data>
+            <data key="shared name">IG (interacts with) DG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IG (interacts with) DG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55509</data>
+            <data key="source">IG</data>
+            <data key="target">DG</data>
+            <data key="weight">0.9050448</data>
+        </edge>
+        <edge source="3734" target="3650">
+            <data key="SUID">4979</data>
+            <data key="shared name">IG (interacts with) LPT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IG (interacts with) LPT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55512</data>
+            <data key="source">IG</data>
+            <data key="target">LPT</data>
+            <data key="weight">0.7437392</data>
+        </edge>
+        <edge source="3734" target="3586">
+            <data key="SUID">4977</data>
+            <data key="shared name">IG (interacts with) DMH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IG (interacts with) DMH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55515</data>
+            <data key="source">IG</data>
+            <data key="target">DMH</data>
+            <data key="weight">0.8972043</data>
+        </edge>
+        <edge source="3734" target="3572">
+            <data key="SUID">4975</data>
+            <data key="shared name">IG (interacts with) SMN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IG (interacts with) SMN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55518</data>
+            <data key="source">IG</data>
+            <data key="target">SMN</data>
+            <data key="weight">0.8332891</data>
+        </edge>
+        <edge source="3734" target="3544">
+            <data key="SUID">4973</data>
+            <data key="shared name">IG (interacts with) PAG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IG (interacts with) PAG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55521</data>
+            <data key="source">IG</data>
+            <data key="target">PAG</data>
+            <data key="weight">0.7965401</data>
+        </edge>
+        <edge source="3732" target="3730">
+            <data key="SUID">4971</data>
+            <data key="shared name">CA1 (interacts with) CA2</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) CA2</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55524</data>
+            <data key="source">CA1</data>
+            <data key="target">CA2</data>
+            <data key="weight">0.8536096</data>
+        </edge>
+        <edge source="3732" target="3728">
+            <data key="SUID">4969</data>
+            <data key="shared name">CA1 (interacts with) CA3</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) CA3</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55527</data>
+            <data key="source">CA1</data>
+            <data key="target">CA3</data>
+            <data key="weight">0.8846955</data>
+        </edge>
+        <edge source="3732" target="3724">
+            <data key="SUID">4967</data>
+            <data key="shared name">CA1 (interacts with) proSub</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) proSub</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55530</data>
+            <data key="source">CA1</data>
+            <data key="target">proSub</data>
+            <data key="weight">0.8452893</data>
+        </edge>
+        <edge source="3732" target="3722">
+            <data key="SUID">4965</data>
+            <data key="shared name">CA1 (interacts with) Sub</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) Sub</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55533</data>
+            <data key="source">CA1</data>
+            <data key="target">Sub</data>
+            <data key="weight">0.7864971</data>
+        </edge>
+        <edge source="3732" target="3714">
+            <data key="SUID">4963</data>
+            <data key="shared name">CA1 (interacts with) LAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) LAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55536</data>
+            <data key="source">CA1</data>
+            <data key="target">LAn</data>
+            <data key="weight">0.9062537</data>
+        </edge>
+        <edge source="3732" target="3712">
+            <data key="SUID">4961</data>
+            <data key="shared name">CA1 (interacts with) BLA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) BLA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55539</data>
+            <data key="source">CA1</data>
+            <data key="target">BLA</data>
+            <data key="weight">0.8106533</data>
+        </edge>
+        <edge source="3732" target="3630">
+            <data key="SUID">4959</data>
+            <data key="shared name">CA1 (interacts with) pRE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) pRE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55542</data>
+            <data key="source">CA1</data>
+            <data key="target">pRE</data>
+            <data key="weight">0.7541335</data>
+        </edge>
+        <edge source="3732" target="3628">
+            <data key="SUID">4957</data>
+            <data key="shared name">CA1 (interacts with) PVT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) PVT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55545</data>
+            <data key="source">CA1</data>
+            <data key="target">PVT</data>
+            <data key="weight">0.8564663</data>
+        </edge>
+        <edge source="3732" target="3610">
+            <data key="SUID">4955</data>
+            <data key="shared name">CA1 (interacts with) IGLLGC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA1 (interacts with) IGLLGC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55548</data>
+            <data key="source">CA1</data>
+            <data key="target">IGLLGC</data>
+            <data key="weight">0.8052747</data>
+        </edge>
+        <edge source="3730" target="3728">
+            <data key="SUID">4953</data>
+            <data key="shared name">CA2 (interacts with) CA3</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA2 (interacts with) CA3</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55551</data>
+            <data key="source">CA2</data>
+            <data key="target">CA3</data>
+            <data key="weight">0.8025907</data>
+        </edge>
+        <edge source="3730" target="3628">
+            <data key="SUID">4951</data>
+            <data key="shared name">CA2 (interacts with) PVT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA2 (interacts with) PVT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55554</data>
+            <data key="source">CA2</data>
+            <data key="target">PVT</data>
+            <data key="weight">0.8422976</data>
+        </edge>
+        <edge source="3728" target="3714">
+            <data key="SUID">4949</data>
+            <data key="shared name">CA3 (interacts with) LAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA3 (interacts with) LAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55557</data>
+            <data key="source">CA3</data>
+            <data key="target">LAn</data>
+            <data key="weight">0.7863412</data>
+        </edge>
+        <edge source="3728" target="3630">
+            <data key="SUID">4947</data>
+            <data key="shared name">CA3 (interacts with) pRE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA3 (interacts with) pRE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55560</data>
+            <data key="source">CA3</data>
+            <data key="target">pRE</data>
+            <data key="weight">0.7837754</data>
+        </edge>
+        <edge source="3728" target="3628">
+            <data key="SUID">4945</data>
+            <data key="shared name">CA3 (interacts with) PVT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA3 (interacts with) PVT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55563</data>
+            <data key="source">CA3</data>
+            <data key="target">PVT</data>
+            <data key="weight">0.9568421</data>
+        </edge>
+        <edge source="3728" target="3604">
+            <data key="SUID">4943</data>
+            <data key="shared name">CA3 (interacts with) MHb</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA3 (interacts with) MHb</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55566</data>
+            <data key="source">CA3</data>
+            <data key="target">MHb</data>
+            <data key="weight">0.8015959</data>
+        </edge>
+        <edge source="3728" target="3584">
+            <data key="SUID">4941</data>
+            <data key="shared name">CA3 (interacts with) MePO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA3 (interacts with) MePO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55569</data>
+            <data key="source">CA3</data>
+            <data key="target">MePO</data>
+            <data key="weight">0.7857447</data>
+        </edge>
+        <edge source="3728" target="3540">
+            <data key="SUID">4939</data>
+            <data key="shared name">CA3 (interacts with) PreCN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA3 (interacts with) PreCN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55572</data>
+            <data key="source">CA3</data>
+            <data key="target">PreCN</data>
+            <data key="weight">0.791023</data>
+        </edge>
+        <edge source="3726" target="3586">
+            <data key="SUID">4937</data>
+            <data key="shared name">DG (interacts with) DMH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">DG (interacts with) DMH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55575</data>
+            <data key="source">DG</data>
+            <data key="target">DMH</data>
+            <data key="weight">0.8226746</data>
+        </edge>
+        <edge source="3724" target="3722">
+            <data key="SUID">4935</data>
+            <data key="shared name">proSub (interacts with) Sub</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">proSub (interacts with) Sub</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55578</data>
+            <data key="source">proSub</data>
+            <data key="target">Sub</data>
+            <data key="weight">0.9343751</data>
+        </edge>
+        <edge source="3724" target="3714">
+            <data key="SUID">4933</data>
+            <data key="shared name">proSub (interacts with) LAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">proSub (interacts with) LAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55581</data>
+            <data key="source">proSub</data>
+            <data key="target">LAn</data>
+            <data key="weight">0.8209455</data>
+        </edge>
+        <edge source="3724" target="3712">
+            <data key="SUID">4931</data>
+            <data key="shared name">proSub (interacts with) BLA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">proSub (interacts with) BLA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55584</data>
+            <data key="source">proSub</data>
+            <data key="target">BLA</data>
+            <data key="weight">0.791464</data>
+        </edge>
+        <edge source="3724" target="3544">
+            <data key="SUID">4929</data>
+            <data key="shared name">proSub (interacts with) PAG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">proSub (interacts with) PAG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55587</data>
+            <data key="source">proSub</data>
+            <data key="target">PAG</data>
+            <data key="weight">0.7858506</data>
+        </edge>
+        <edge source="3722" target="3714">
+            <data key="SUID">4927</data>
+            <data key="shared name">Sub (interacts with) LAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sub (interacts with) LAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55590</data>
+            <data key="source">Sub</data>
+            <data key="target">LAn</data>
+            <data key="weight">0.8017861</data>
+        </edge>
+        <edge source="3722" target="3712">
+            <data key="SUID">4925</data>
+            <data key="shared name">Sub (interacts with) BLA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sub (interacts with) BLA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55593</data>
+            <data key="source">Sub</data>
+            <data key="target">BLA</data>
+            <data key="weight">0.8470161</data>
+        </edge>
+        <edge source="3722" target="3566">
+            <data key="SUID">4923</data>
+            <data key="shared name">Sub (interacts with) PHn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sub (interacts with) PHn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55596</data>
+            <data key="source">Sub</data>
+            <data key="target">PHn</data>
+            <data key="weight">0.8301458</data>
+        </edge>
+        <edge source="3722" target="3544">
+            <data key="SUID">4921</data>
+            <data key="shared name">Sub (interacts with) PAG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sub (interacts with) PAG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55599</data>
+            <data key="source">Sub</data>
+            <data key="target">PAG</data>
+            <data key="weight">0.8475149</data>
+        </edge>
+        <edge source="3720" target="3692">
+            <data key="SUID">4919</data>
+            <data key="shared name">Clst (interacts with) DLS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Clst (interacts with) DLS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55602</data>
+            <data key="source">Clst</data>
+            <data key="target">DLS</data>
+            <data key="weight">0.7832087</data>
+        </edge>
+        <edge source="3720" target="3668">
+            <data key="SUID">4917</data>
+            <data key="shared name">Clst (interacts with) TnS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Clst (interacts with) TnS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55605</data>
+            <data key="source">Clst</data>
+            <data key="target">TnS</data>
+            <data key="weight">0.8408334</data>
+        </edge>
+        <edge source="3716" target="3712">
+            <data key="SUID">4915</data>
+            <data key="shared name">vEPn (interacts with) BLA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">vEPn (interacts with) BLA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55608</data>
+            <data key="source">vEPn</data>
+            <data key="target">BLA</data>
+            <data key="weight">0.9632928</data>
+        </edge>
+        <edge source="3716" target="3710">
+            <data key="SUID">4913</data>
+            <data key="shared name">vEPn (interacts with) BMe</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">vEPn (interacts with) BMe</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55611</data>
+            <data key="source">vEPn</data>
+            <data key="target">BMe</data>
+            <data key="weight">0.9843559</data>
+        </edge>
+        <edge source="3716" target="3708">
+            <data key="SUID">4911</data>
+            <data key="shared name">vEPn (interacts with) CCA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">vEPn (interacts with) CCA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55614</data>
+            <data key="source">vEPn</data>
+            <data key="target">CCA</data>
+            <data key="weight">0.7754837</data>
+        </edge>
+        <edge source="3716" target="3700">
+            <data key="SUID">4909</data>
+            <data key="shared name">vEPn (interacts with) IAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">vEPn (interacts with) IAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55617</data>
+            <data key="source">vEPn</data>
+            <data key="target">IAn</data>
+            <data key="weight">0.7608087</data>
+        </edge>
+        <edge source="3716" target="3624">
+            <data key="SUID">4907</data>
+            <data key="shared name">vEPn (interacts with) RE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">vEPn (interacts with) RE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55620</data>
+            <data key="source">vEPn</data>
+            <data key="target">RE</data>
+            <data key="weight">0.7485026</data>
+        </edge>
+        <edge source="3716" target="3606">
+            <data key="SUID">4905</data>
+            <data key="shared name">vEPn (interacts with) subGn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">vEPn (interacts with) subGn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55623</data>
+            <data key="source">vEPn</data>
+            <data key="target">subGn</data>
+            <data key="weight">0.8131939</data>
+        </edge>
+        <edge source="3714" target="3700">
+            <data key="SUID">4903</data>
+            <data key="shared name">LAn (interacts with) IAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LAn (interacts with) IAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55626</data>
+            <data key="source">LAn</data>
+            <data key="target">IAn</data>
+            <data key="weight">0.802217</data>
+        </edge>
+        <edge source="3714" target="3628">
+            <data key="SUID">4901</data>
+            <data key="shared name">LAn (interacts with) PVT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LAn (interacts with) PVT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55629</data>
+            <data key="source">LAn</data>
+            <data key="target">PVT</data>
+            <data key="weight">0.7695395</data>
+        </edge>
+        <edge source="3714" target="3596">
+            <data key="SUID">4899</data>
+            <data key="shared name">LAn (interacts with) IPVH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LAn (interacts with) IPVH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55632</data>
+            <data key="source">LAn</data>
+            <data key="target">IPVH</data>
+            <data key="weight">0.8050688</data>
+        </edge>
+        <edge source="3714" target="3586">
+            <data key="SUID">4897</data>
+            <data key="shared name">LAn (interacts with) DMH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LAn (interacts with) DMH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55635</data>
+            <data key="source">LAn</data>
+            <data key="target">DMH</data>
+            <data key="weight">0.812299</data>
+        </edge>
+        <edge source="3714" target="3540">
+            <data key="SUID">4895</data>
+            <data key="shared name">LAn (interacts with) PreCN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LAn (interacts with) PreCN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55638</data>
+            <data key="source">LAn</data>
+            <data key="target">PreCN</data>
+            <data key="weight">0.7862325</data>
+        </edge>
+        <edge source="3712" target="3710">
+            <data key="SUID">4893</data>
+            <data key="shared name">BLA (interacts with) BMe</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BLA (interacts with) BMe</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55641</data>
+            <data key="source">BLA</data>
+            <data key="target">BMe</data>
+            <data key="weight">0.9631806</data>
+        </edge>
+        <edge source="3712" target="3700">
+            <data key="SUID">4891</data>
+            <data key="shared name">BLA (interacts with) IAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BLA (interacts with) IAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55644</data>
+            <data key="source">BLA</data>
+            <data key="target">IAn</data>
+            <data key="weight">0.8140027</data>
+        </edge>
+        <edge source="3712" target="3624">
+            <data key="SUID">4889</data>
+            <data key="shared name">BLA (interacts with) RE</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BLA (interacts with) RE</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55647</data>
+            <data key="source">BLA</data>
+            <data key="target">RE</data>
+            <data key="weight">0.752106</data>
+        </edge>
+        <edge source="3712" target="3606">
+            <data key="SUID">4887</data>
+            <data key="shared name">BLA (interacts with) subGn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BLA (interacts with) subGn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55650</data>
+            <data key="source">BLA</data>
+            <data key="target">subGn</data>
+            <data key="weight">0.8674664</data>
+        </edge>
+        <edge source="3710" target="3708">
+            <data key="SUID">4885</data>
+            <data key="shared name">BMe (interacts with) CCA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BMe (interacts with) CCA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55653</data>
+            <data key="source">BMe</data>
+            <data key="target">CCA</data>
+            <data key="weight">0.7739976</data>
+        </edge>
+        <edge source="3710" target="3700">
+            <data key="SUID">4883</data>
+            <data key="shared name">BMe (interacts with) IAn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BMe (interacts with) IAn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55656</data>
+            <data key="source">BMe</data>
+            <data key="target">IAn</data>
+            <data key="weight">0.7518753</data>
+        </edge>
+        <edge source="3710" target="3606">
+            <data key="SUID">4881</data>
+            <data key="shared name">BMe (interacts with) subGn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BMe (interacts with) subGn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55659</data>
+            <data key="source">BMe</data>
+            <data key="target">subGn</data>
+            <data key="weight">0.8927488</data>
+        </edge>
+        <edge source="3706" target="3636">
+            <data key="SUID">4879</data>
+            <data key="shared name">PAn (interacts with) IMDT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PAn (interacts with) IMDT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55662</data>
+            <data key="source">PAn</data>
+            <data key="target">IMDT</data>
+            <data key="weight">0.8221306</data>
+        </edge>
+        <edge source="3706" target="3632">
+            <data key="SUID">4877</data>
+            <data key="shared name">PAn (interacts with) SMT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PAn (interacts with) SMT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55665</data>
+            <data key="source">PAn</data>
+            <data key="target">SMT</data>
+            <data key="weight">0.793748</data>
+        </edge>
+        <edge source="3704" target="3674">
+            <data key="SUID">4875</data>
+            <data key="shared name">aAA (interacts with) SubInn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">aAA (interacts with) SubInn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55668</data>
+            <data key="source">aAA</data>
+            <data key="target">SubInn</data>
+            <data key="weight">0.8290725</data>
+        </edge>
+        <edge source="3702" target="3596">
+            <data key="SUID">4873</data>
+            <data key="shared name">CA (interacts with) IPVH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA (interacts with) IPVH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55671</data>
+            <data key="source">CA</data>
+            <data key="target">IPVH</data>
+            <data key="weight">0.8457553</data>
+        </edge>
+        <edge source="3702" target="3578">
+            <data key="SUID">4871</data>
+            <data key="shared name">CA (interacts with) SPZ</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA (interacts with) SPZ</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55674</data>
+            <data key="source">CA</data>
+            <data key="target">SPZ</data>
+            <data key="weight">0.7970777</data>
+        </edge>
+        <edge source="3702" target="3574">
+            <data key="SUID">4869</data>
+            <data key="shared name">CA (interacts with) AHN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA (interacts with) AHN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55677</data>
+            <data key="source">CA</data>
+            <data key="target">AHN</data>
+            <data key="weight">0.7980989</data>
+        </edge>
+        <edge source="3702" target="3570">
+            <data key="SUID">4867</data>
+            <data key="shared name">CA (interacts with) MPO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CA (interacts with) MPO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55680</data>
+            <data key="source">CA</data>
+            <data key="target">MPO</data>
+            <data key="weight">0.7896963</data>
+        </edge>
+        <edge source="3700" target="3656">
+            <data key="SUID">4865</data>
+            <data key="shared name">IAn (interacts with) PTTn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IAn (interacts with) PTTn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55683</data>
+            <data key="source">IAn</data>
+            <data key="target">PTTn</data>
+            <data key="weight">0.8023982</data>
+        </edge>
+        <edge source="3700" target="3596">
+            <data key="SUID">4863</data>
+            <data key="shared name">IAn (interacts with) IPVH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IAn (interacts with) IPVH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55686</data>
+            <data key="source">IAn</data>
+            <data key="target">IPVH</data>
+            <data key="weight">0.8853641</data>
+        </edge>
+        <edge source="3700" target="3578">
+            <data key="SUID">4861</data>
+            <data key="shared name">IAn (interacts with) SPZ</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IAn (interacts with) SPZ</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55689</data>
+            <data key="source">IAn</data>
+            <data key="target">SPZ</data>
+            <data key="weight">0.7952723</data>
+        </edge>
+        <edge source="3700" target="3574">
+            <data key="SUID">4859</data>
+            <data key="shared name">IAn (interacts with) AHN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IAn (interacts with) AHN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55692</data>
+            <data key="source">IAn</data>
+            <data key="target">AHN</data>
+            <data key="weight">0.8264775</data>
+        </edge>
+        <edge source="3696" target="3676">
+            <data key="SUID">4857</data>
+            <data key="shared name">LSN (interacts with) Gpi</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LSN (interacts with) Gpi</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55695</data>
+            <data key="source">LSN</data>
+            <data key="target">Gpi</data>
+            <data key="weight">0.7929022</data>
+        </edge>
+        <edge source="3694" target="3690">
+            <data key="SUID">4855</data>
+            <data key="shared name">SFn (interacts with) DMS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SFn (interacts with) DMS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55698</data>
+            <data key="source">SFn</data>
+            <data key="target">DMS</data>
+            <data key="weight">0.8975253</data>
+        </edge>
+        <edge source="3690" target="3668">
+            <data key="SUID">4853</data>
+            <data key="shared name">DMS (interacts with) TnS</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">DMS (interacts with) TnS</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55701</data>
+            <data key="source">DMS</data>
+            <data key="target">TnS</data>
+            <data key="weight">0.7502822</data>
+        </edge>
+        <edge source="3688" target="3638">
+            <data key="SUID">4851</data>
+            <data key="shared name">NACC.SHELL (interacts with) IADT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NACC.SHELL (interacts with) IADT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55704</data>
+            <data key="source">NACC.SHELL</data>
+            <data key="target">IADT</data>
+            <data key="weight">0.7863047</data>
+        </edge>
+        <edge source="3686" target="3582">
+            <data key="SUID">4849</data>
+            <data key="shared name">NACC.CORE (interacts with) MPA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NACC.CORE (interacts with) MPA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55707</data>
+            <data key="source">NACC.CORE</data>
+            <data key="target">MPA</data>
+            <data key="weight">0.8340675</data>
+        </edge>
+        <edge source="3686" target="3580">
+            <data key="SUID">4847</data>
+            <data key="shared name">NACC.CORE (interacts with) PSN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NACC.CORE (interacts with) PSN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55710</data>
+            <data key="source">NACC.CORE</data>
+            <data key="target">PSN</data>
+            <data key="weight">0.8951533</data>
+        </edge>
+        <edge source="3686" target="3562">
+            <data key="SUID">4845</data>
+            <data key="shared name">NACC.CORE (interacts with) LPO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">NACC.CORE (interacts with) LPO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55713</data>
+            <data key="source">NACC.CORE</data>
+            <data key="target">LPO</data>
+            <data key="weight">0.7419656</data>
+        </edge>
+        <edge source="3684" target="3658">
+            <data key="SUID">4843</data>
+            <data key="shared name">FStr (interacts with) VPMT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FStr (interacts with) VPMT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55716</data>
+            <data key="source">FStr</data>
+            <data key="target">VPMT</data>
+            <data key="weight">0.823314</data>
+        </edge>
+        <edge source="3684" target="3648">
+            <data key="SUID">4841</data>
+            <data key="shared name">FStr (interacts with) PCT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FStr (interacts with) PCT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55719</data>
+            <data key="source">FStr</data>
+            <data key="target">PCT</data>
+            <data key="weight">0.7321144</data>
+        </edge>
+        <edge source="3684" target="3614">
+            <data key="SUID">4839</data>
+            <data key="shared name">FStr (interacts with) CLT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FStr (interacts with) CLT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55722</data>
+            <data key="source">FStr</data>
+            <data key="target">CLT</data>
+            <data key="weight">0.7379254</data>
+        </edge>
+        <edge source="3682" target="3680">
+            <data key="SUID">4837</data>
+            <data key="shared name">OT (interacts with) MGCn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OT (interacts with) MGCn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55725</data>
+            <data key="source">OT</data>
+            <data key="target">MGCn</data>
+            <data key="weight">0.8788323</data>
+        </edge>
+        <edge source="3682" target="3672">
+            <data key="SUID">4835</data>
+            <data key="shared name">OT (interacts with) MSn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OT (interacts with) MSn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55728</data>
+            <data key="source">OT</data>
+            <data key="target">MSn</data>
+            <data key="weight">0.7638441</data>
+        </edge>
+        <edge source="3682" target="3670">
+            <data key="SUID">4833</data>
+            <data key="shared name">OT (interacts with) DBn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OT (interacts with) DBn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55731</data>
+            <data key="source">OT</data>
+            <data key="target">DBn</data>
+            <data key="weight">0.8055798</data>
+        </edge>
+        <edge source="3682" target="3600">
+            <data key="SUID">4831</data>
+            <data key="shared name">OT (interacts with) SON</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OT (interacts with) SON</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55734</data>
+            <data key="source">OT</data>
+            <data key="target">SON</data>
+            <data key="weight">0.8063083</data>
+        </edge>
+        <edge source="3682" target="3594">
+            <data key="SUID">4829</data>
+            <data key="shared name">OT (interacts with) ArH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">OT (interacts with) ArH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55737</data>
+            <data key="source">OT</data>
+            <data key="target">ArH</data>
+            <data key="weight">0.8813547</data>
+        </edge>
+        <edge source="3680" target="3672">
+            <data key="SUID">4827</data>
+            <data key="shared name">MGCn (interacts with) MSn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MGCn (interacts with) MSn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55740</data>
+            <data key="source">MGCn</data>
+            <data key="target">MSn</data>
+            <data key="weight">0.8039025</data>
+        </edge>
+        <edge source="3680" target="3670">
+            <data key="SUID">4825</data>
+            <data key="shared name">MGCn (interacts with) DBn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MGCn (interacts with) DBn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55743</data>
+            <data key="source">MGCn</data>
+            <data key="target">DBn</data>
+            <data key="weight">0.7970357</data>
+        </edge>
+        <edge source="3678" target="3676">
+            <data key="SUID">4823</data>
+            <data key="shared name">Gpe (interacts with) Gpi</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gpe (interacts with) Gpi</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55746</data>
+            <data key="source">Gpe</data>
+            <data key="target">Gpi</data>
+            <data key="weight">0.9308337</data>
+        </edge>
+        <edge source="3678" target="3660">
+            <data key="SUID">4821</data>
+            <data key="shared name">Gpe (interacts with) VPLT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gpe (interacts with) VPLT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55749</data>
+            <data key="source">Gpe</data>
+            <data key="target">VPLT</data>
+            <data key="weight">0.7990706</data>
+        </edge>
+        <edge source="3678" target="3658">
+            <data key="SUID">4819</data>
+            <data key="shared name">Gpe (interacts with) VPMT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gpe (interacts with) VPMT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55752</data>
+            <data key="source">Gpe</data>
+            <data key="target">VPMT</data>
+            <data key="weight">0.7473719</data>
+        </edge>
+        <edge source="3678" target="3554">
+            <data key="SUID">4817</data>
+            <data key="shared name">Gpe (interacts with) FF</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gpe (interacts with) FF</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55755</data>
+            <data key="source">Gpe</data>
+            <data key="target">FF</data>
+            <data key="weight">0.7918093</data>
+        </edge>
+        <edge source="3678" target="3538">
+            <data key="SUID">4815</data>
+            <data key="shared name">Gpe (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gpe (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55758</data>
+            <data key="source">Gpe</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.8214714</data>
+        </edge>
+        <edge source="3676" target="3660">
+            <data key="SUID">4813</data>
+            <data key="shared name">Gpi (interacts with) VPLT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gpi (interacts with) VPLT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55761</data>
+            <data key="source">Gpi</data>
+            <data key="target">VPLT</data>
+            <data key="weight">0.8067264</data>
+        </edge>
+        <edge source="3676" target="3538">
+            <data key="SUID">4811</data>
+            <data key="shared name">Gpi (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gpi (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55764</data>
+            <data key="source">Gpi</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.8201412</data>
+        </edge>
+        <edge source="3672" target="3670">
+            <data key="SUID">4809</data>
+            <data key="shared name">MSn (interacts with) DBn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MSn (interacts with) DBn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55767</data>
+            <data key="source">MSn</data>
+            <data key="target">DBn</data>
+            <data key="weight">0.9371194</data>
+        </edge>
+        <edge source="3672" target="3588">
+            <data key="SUID">4807</data>
+            <data key="shared name">MSn (interacts with) AVPV</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MSn (interacts with) AVPV</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55770</data>
+            <data key="source">MSn</data>
+            <data key="target">AVPV</data>
+            <data key="weight">0.8151565</data>
+        </edge>
+        <edge source="3670" target="3600">
+            <data key="SUID">4805</data>
+            <data key="shared name">DBn (interacts with) SON</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">DBn (interacts with) SON</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55773</data>
+            <data key="source">DBn</data>
+            <data key="target">SON</data>
+            <data key="weight">0.7958471</data>
+        </edge>
+        <edge source="3670" target="3594">
+            <data key="SUID">4803</data>
+            <data key="shared name">DBn (interacts with) ArH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">DBn (interacts with) ArH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55776</data>
+            <data key="source">DBn</data>
+            <data key="target">ArH</data>
+            <data key="weight">0.8061642</data>
+        </edge>
+        <edge source="3670" target="3588">
+            <data key="SUID">4801</data>
+            <data key="shared name">DBn (interacts with) AVPV</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">DBn (interacts with) AVPV</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55779</data>
+            <data key="source">DBn</data>
+            <data key="target">AVPV</data>
+            <data key="weight">0.7908362</data>
+        </edge>
+        <edge source="3668" target="3666">
+            <data key="SUID">4799</data>
+            <data key="shared name">TnS (interacts with) BNST</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">TnS (interacts with) BNST</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55782</data>
+            <data key="source">TnS</data>
+            <data key="target">BNST</data>
+            <data key="weight">0.884811</data>
+        </edge>
+        <edge source="3666" target="3548">
+            <data key="SUID">4797</data>
+            <data key="shared name">BNST (interacts with) cSN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">BNST (interacts with) cSN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55785</data>
+            <data key="source">BNST</data>
+            <data key="target">cSN</data>
+            <data key="weight">0.8520148</data>
+        </edge>
+        <edge source="3664" target="3602">
+            <data key="SUID">4795</data>
+            <data key="shared name">VALCT (interacts with) LHb</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VALCT (interacts with) LHb</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55788</data>
+            <data key="source">VALCT</data>
+            <data key="target">LHb</data>
+            <data key="weight">0.8437054</data>
+        </edge>
+        <edge source="3662" target="3592">
+            <data key="SUID">4793</data>
+            <data key="shared name">VMT (interacts with) ADPO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VMT (interacts with) ADPO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55791</data>
+            <data key="source">VMT</data>
+            <data key="target">ADPO</data>
+            <data key="weight">0.9113028</data>
+        </edge>
+        <edge source="3660" target="3556">
+            <data key="SUID">4791</data>
+            <data key="shared name">VPLT (interacts with) ZI</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VPLT (interacts with) ZI</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55794</data>
+            <data key="source">VPLT</data>
+            <data key="target">ZI</data>
+            <data key="weight">0.7495456</data>
+        </edge>
+        <edge source="3660" target="3538">
+            <data key="SUID">4789</data>
+            <data key="shared name">VPLT (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VPLT (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55797</data>
+            <data key="source">VPLT</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.8204474</data>
+        </edge>
+        <edge source="3658" target="3648">
+            <data key="SUID">4787</data>
+            <data key="shared name">VPMT (interacts with) PCT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VPMT (interacts with) PCT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55800</data>
+            <data key="source">VPMT</data>
+            <data key="target">PCT</data>
+            <data key="weight">0.9340521</data>
+        </edge>
+        <edge source="3658" target="3564">
+            <data key="SUID">4785</data>
+            <data key="shared name">VPMT (interacts with) LHA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VPMT (interacts with) LHA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55803</data>
+            <data key="source">VPMT</data>
+            <data key="target">LHA</data>
+            <data key="weight">0.7349633</data>
+        </edge>
+        <edge source="3658" target="3560">
+            <data key="SUID">4783</data>
+            <data key="shared name">VPMT (interacts with) PSTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VPMT (interacts with) PSTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55806</data>
+            <data key="source">VPMT</data>
+            <data key="target">PSTN</data>
+            <data key="weight">0.8027888</data>
+        </edge>
+        <edge source="3658" target="3538">
+            <data key="SUID">4781</data>
+            <data key="shared name">VPMT (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">VPMT (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55809</data>
+            <data key="source">VPMT</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.8898242</data>
+        </edge>
+        <edge source="3656" target="3646">
+            <data key="SUID">4779</data>
+            <data key="shared name">PTTn (interacts with) PlnT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PTTn (interacts with) PlnT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55812</data>
+            <data key="source">PTTn</data>
+            <data key="target">PlnT</data>
+            <data key="weight">0.8168858</data>
+        </edge>
+        <edge source="3656" target="3644">
+            <data key="SUID">4777</data>
+            <data key="shared name">PTTn (interacts with) EnT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PTTn (interacts with) EnT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55815</data>
+            <data key="source">PTTn</data>
+            <data key="target">EnT</data>
+            <data key="weight">0.980059</data>
+        </edge>
+        <edge source="3654" target="3636">
+            <data key="SUID">4775</data>
+            <data key="shared name">MGC (interacts with) IMDT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MGC (interacts with) IMDT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55818</data>
+            <data key="source">MGC</data>
+            <data key="target">IMDT</data>
+            <data key="weight">0.8068378</data>
+        </edge>
+        <edge source="3654" target="3632">
+            <data key="SUID">4773</data>
+            <data key="shared name">MGC (interacts with) SMT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MGC (interacts with) SMT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55821</data>
+            <data key="source">MGC</data>
+            <data key="target">SMT</data>
+            <data key="weight">0.8943145</data>
+        </edge>
+        <edge source="3654" target="3570">
+            <data key="SUID">4771</data>
+            <data key="shared name">MGC (interacts with) MPO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MGC (interacts with) MPO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55824</data>
+            <data key="source">MGC</data>
+            <data key="target">MPO</data>
+            <data key="weight">0.7781213</data>
+        </edge>
+        <edge source="3652" target="3602">
+            <data key="SUID">4769</data>
+            <data key="shared name">dLGC (interacts with) LHb</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">dLGC (interacts with) LHb</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55827</data>
+            <data key="source">dLGC</data>
+            <data key="target">LHb</data>
+            <data key="weight">0.7744498</data>
+        </edge>
+        <edge source="3652" target="3542">
+            <data key="SUID">4767</data>
+            <data key="shared name">dLGC (interacts with) SCO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">dLGC (interacts with) SCO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55830</data>
+            <data key="source">dLGC</data>
+            <data key="target">SCO</data>
+            <data key="weight">0.851192</data>
+        </edge>
+        <edge source="3648" target="3646">
+            <data key="SUID">4765</data>
+            <data key="shared name">PCT (interacts with) PlnT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PCT (interacts with) PlnT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55833</data>
+            <data key="source">PCT</data>
+            <data key="target">PlnT</data>
+            <data key="weight">0.8338379</data>
+        </edge>
+        <edge source="3648" target="3564">
+            <data key="SUID">4763</data>
+            <data key="shared name">PCT (interacts with) LHA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PCT (interacts with) LHA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55836</data>
+            <data key="source">PCT</data>
+            <data key="target">LHA</data>
+            <data key="weight">0.7455426</data>
+        </edge>
+        <edge source="3648" target="3560">
+            <data key="SUID">4761</data>
+            <data key="shared name">PCT (interacts with) PSTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PCT (interacts with) PSTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55839</data>
+            <data key="source">PCT</data>
+            <data key="target">PSTN</data>
+            <data key="weight">0.8008095</data>
+        </edge>
+        <edge source="3648" target="3538">
+            <data key="SUID">4759</data>
+            <data key="shared name">PCT (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PCT (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55842</data>
+            <data key="source">PCT</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.807669</data>
+        </edge>
+        <edge source="3646" target="3644">
+            <data key="SUID">4757</data>
+            <data key="shared name">PlnT (interacts with) EnT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PlnT (interacts with) EnT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55845</data>
+            <data key="source">PlnT</data>
+            <data key="target">EnT</data>
+            <data key="weight">0.8336782</data>
+        </edge>
+        <edge source="3646" target="3564">
+            <data key="SUID">4755</data>
+            <data key="shared name">PlnT (interacts with) LHA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PlnT (interacts with) LHA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55848</data>
+            <data key="source">PlnT</data>
+            <data key="target">LHA</data>
+            <data key="weight">0.8512248</data>
+        </edge>
+        <edge source="3642" target="3640">
+            <data key="SUID">4753</data>
+            <data key="shared name">AVT (interacts with) AMn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AVT (interacts with) AMn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55851</data>
+            <data key="source">AVT</data>
+            <data key="target">AMn</data>
+            <data key="weight">0.7843427</data>
+        </edge>
+        <edge source="3640" target="3612">
+            <data key="SUID">4751</data>
+            <data key="shared name">AMn (interacts with) RT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AMn (interacts with) RT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55854</data>
+            <data key="source">AMn</data>
+            <data key="target">RT</data>
+            <data key="weight">0.7439833</data>
+        </edge>
+        <edge source="3636" target="3634">
+            <data key="SUID">4749</data>
+            <data key="shared name">IMDT (interacts with) MDT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IMDT (interacts with) MDT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55857</data>
+            <data key="source">IMDT</data>
+            <data key="target">MDT</data>
+            <data key="weight">0.7730397</data>
+        </edge>
+        <edge source="3636" target="3632">
+            <data key="SUID">4747</data>
+            <data key="shared name">IMDT (interacts with) SMT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IMDT (interacts with) SMT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55860</data>
+            <data key="source">IMDT</data>
+            <data key="target">SMT</data>
+            <data key="weight">0.7763291</data>
+        </edge>
+        <edge source="3636" target="3618">
+            <data key="SUID">4745</data>
+            <data key="shared name">IMDT (interacts with) CMT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IMDT (interacts with) CMT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55863</data>
+            <data key="source">IMDT</data>
+            <data key="target">CMT</data>
+            <data key="weight">0.869839</data>
+        </edge>
+        <edge source="3630" target="3604">
+            <data key="SUID">4743</data>
+            <data key="shared name">pRE (interacts with) MHb</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">pRE (interacts with) MHb</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55866</data>
+            <data key="source">pRE</data>
+            <data key="target">MHb</data>
+            <data key="weight">0.7324535</data>
+        </edge>
+        <edge source="3630" target="3584">
+            <data key="SUID">4741</data>
+            <data key="shared name">pRE (interacts with) MePO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">pRE (interacts with) MePO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55869</data>
+            <data key="source">pRE</data>
+            <data key="target">MePO</data>
+            <data key="weight">0.7842374</data>
+        </edge>
+        <edge source="3630" target="3540">
+            <data key="SUID">4739</data>
+            <data key="shared name">pRE (interacts with) PreCN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">pRE (interacts with) PreCN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55872</data>
+            <data key="source">pRE</data>
+            <data key="target">PreCN</data>
+            <data key="weight">0.8713838</data>
+        </edge>
+        <edge source="3628" target="3604">
+            <data key="SUID">4737</data>
+            <data key="shared name">PVT (interacts with) MHb</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PVT (interacts with) MHb</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55875</data>
+            <data key="source">PVT</data>
+            <data key="target">MHb</data>
+            <data key="weight">0.7920902</data>
+        </edge>
+        <edge source="3622" target="3618">
+            <data key="SUID">4735</data>
+            <data key="shared name">XiT (interacts with) CMT</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">XiT (interacts with) CMT</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55878</data>
+            <data key="source">XiT</data>
+            <data key="target">CMT</data>
+            <data key="weight">0.8922152</data>
+        </edge>
+        <edge source="3614" target="3564">
+            <data key="SUID">4733</data>
+            <data key="shared name">CLT (interacts with) LHA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CLT (interacts with) LHA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55881</data>
+            <data key="source">CLT</data>
+            <data key="target">LHA</data>
+            <data key="weight">0.8448562</data>
+        </edge>
+        <edge source="3614" target="3562">
+            <data key="SUID">4731</data>
+            <data key="shared name">CLT (interacts with) LPO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">CLT (interacts with) LPO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55884</data>
+            <data key="source">CLT</data>
+            <data key="target">LPO</data>
+            <data key="weight">0.7591376</data>
+        </edge>
+        <edge source="3610" target="3608">
+            <data key="SUID">4729</data>
+            <data key="shared name">IGLLGC (interacts with) vlLGC</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IGLLGC (interacts with) vlLGC</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55887</data>
+            <data key="source">IGLLGC</data>
+            <data key="target">vlLGC</data>
+            <data key="weight">0.799748</data>
+        </edge>
+        <edge source="3610" target="3598">
+            <data key="SUID">4727</data>
+            <data key="shared name">IGLLGC (interacts with) PVH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IGLLGC (interacts with) PVH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55890</data>
+            <data key="source">IGLLGC</data>
+            <data key="target">PVH</data>
+            <data key="weight">0.7400833</data>
+        </edge>
+        <edge source="3608" target="3598">
+            <data key="SUID">4725</data>
+            <data key="shared name">vlLGC (interacts with) PVH</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">vlLGC (interacts with) PVH</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55893</data>
+            <data key="source">vlLGC</data>
+            <data key="target">PVH</data>
+            <data key="weight">0.7802829</data>
+        </edge>
+        <edge source="3606" target="3556">
+            <data key="SUID">4723</data>
+            <data key="shared name">subGn (interacts with) ZI</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">subGn (interacts with) ZI</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55896</data>
+            <data key="source">subGn</data>
+            <data key="target">ZI</data>
+            <data key="weight">0.8300088</data>
+        </edge>
+        <edge source="3604" target="3584">
+            <data key="SUID">4721</data>
+            <data key="shared name">MHb (interacts with) MePO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MHb (interacts with) MePO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55899</data>
+            <data key="source">MHb</data>
+            <data key="target">MePO</data>
+            <data key="weight">0.815214</data>
+        </edge>
+        <edge source="3604" target="3542">
+            <data key="SUID">4719</data>
+            <data key="shared name">MHb (interacts with) SCO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">MHb (interacts with) SCO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55902</data>
+            <data key="source">MHb</data>
+            <data key="target">SCO</data>
+            <data key="weight">0.8350249</data>
+        </edge>
+        <edge source="3602" target="3590">
+            <data key="SUID">4717</data>
+            <data key="shared name">LHb (interacts with) AVPO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LHb (interacts with) AVPO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55905</data>
+            <data key="source">LHb</data>
+            <data key="target">AVPO</data>
+            <data key="weight">0.876049</data>
+        </edge>
+        <edge source="3602" target="3542">
+            <data key="SUID">4715</data>
+            <data key="shared name">LHb (interacts with) SCO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LHb (interacts with) SCO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55908</data>
+            <data key="source">LHb</data>
+            <data key="target">SCO</data>
+            <data key="weight">0.8897532</data>
+        </edge>
+        <edge source="3596" target="3578">
+            <data key="SUID">4713</data>
+            <data key="shared name">IPVH (interacts with) SPZ</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IPVH (interacts with) SPZ</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55911</data>
+            <data key="source">IPVH</data>
+            <data key="target">SPZ</data>
+            <data key="weight">0.9535977</data>
+        </edge>
+        <edge source="3596" target="3574">
+            <data key="SUID">4711</data>
+            <data key="shared name">IPVH (interacts with) AHN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IPVH (interacts with) AHN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55914</data>
+            <data key="source">IPVH</data>
+            <data key="target">AHN</data>
+            <data key="weight">0.9048906</data>
+        </edge>
+        <edge source="3596" target="3566">
+            <data key="SUID">4709</data>
+            <data key="shared name">IPVH (interacts with) PHn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">IPVH (interacts with) PHn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55917</data>
+            <data key="source">IPVH</data>
+            <data key="target">PHn</data>
+            <data key="weight">0.8984418</data>
+        </edge>
+        <edge source="3592" target="3584">
+            <data key="SUID">4707</data>
+            <data key="shared name">ADPO (interacts with) MePO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ADPO (interacts with) MePO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55920</data>
+            <data key="source">ADPO</data>
+            <data key="target">MePO</data>
+            <data key="weight">0.8749997</data>
+        </edge>
+        <edge source="3590" target="3588">
+            <data key="SUID">4705</data>
+            <data key="shared name">AVPO (interacts with) AVPV</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AVPO (interacts with) AVPV</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55923</data>
+            <data key="source">AVPO</data>
+            <data key="target">AVPV</data>
+            <data key="weight">0.8851319</data>
+        </edge>
+        <edge source="3590" target="3582">
+            <data key="SUID">4703</data>
+            <data key="shared name">AVPO (interacts with) MPA</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AVPO (interacts with) MPA</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55926</data>
+            <data key="source">AVPO</data>
+            <data key="target">MPA</data>
+            <data key="weight">0.8559163</data>
+        </edge>
+        <edge source="3588" target="3568">
+            <data key="SUID">4701</data>
+            <data key="shared name">AVPV (interacts with) VMHn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AVPV (interacts with) VMHn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55929</data>
+            <data key="source">AVPV</data>
+            <data key="target">VMHn</data>
+            <data key="weight">0.840832</data>
+        </edge>
+        <edge source="3586" target="3566">
+            <data key="SUID">4699</data>
+            <data key="shared name">DMH (interacts with) PHn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">DMH (interacts with) PHn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55932</data>
+            <data key="source">DMH</data>
+            <data key="target">PHn</data>
+            <data key="weight">0.9082763</data>
+        </edge>
+        <edge source="3578" target="3574">
+            <data key="SUID">4697</data>
+            <data key="shared name">SPZ (interacts with) AHN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SPZ (interacts with) AHN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55935</data>
+            <data key="source">SPZ</data>
+            <data key="target">AHN</data>
+            <data key="weight">0.9153111</data>
+        </edge>
+        <edge source="3578" target="3566">
+            <data key="SUID">4695</data>
+            <data key="shared name">SPZ (interacts with) PHn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SPZ (interacts with) PHn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55938</data>
+            <data key="source">SPZ</data>
+            <data key="target">PHn</data>
+            <data key="weight">0.8293797</data>
+        </edge>
+        <edge source="3576" target="3558">
+            <data key="SUID">4693</data>
+            <data key="shared name">SCN (interacts with) STN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SCN (interacts with) STN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55941</data>
+            <data key="source">SCN</data>
+            <data key="target">STN</data>
+            <data key="weight">0.8641543</data>
+        </edge>
+        <edge source="3576" target="3552">
+            <data key="SUID">4691</data>
+            <data key="shared name">SCN (interacts with) TN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SCN (interacts with) TN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55944</data>
+            <data key="source">SCN</data>
+            <data key="target">TN</data>
+            <data key="weight">0.8712479</data>
+        </edge>
+        <edge source="3574" target="3566">
+            <data key="SUID">4689</data>
+            <data key="shared name">AHN (interacts with) PHn</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">AHN (interacts with) PHn</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55947</data>
+            <data key="source">AHN</data>
+            <data key="target">PHn</data>
+            <data key="weight">0.8366112</data>
+        </edge>
+        <edge source="3572" target="3544">
+            <data key="SUID">4687</data>
+            <data key="shared name">SMN (interacts with) PAG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">SMN (interacts with) PAG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55950</data>
+            <data key="source">SMN</data>
+            <data key="target">PAG</data>
+            <data key="weight">0.8690001</data>
+        </edge>
+        <edge source="3566" target="3544">
+            <data key="SUID">4685</data>
+            <data key="shared name">PHn (interacts with) PAG</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PHn (interacts with) PAG</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55953</data>
+            <data key="source">PHn</data>
+            <data key="target">PAG</data>
+            <data key="weight">0.8301312</data>
+        </edge>
+        <edge source="3564" target="3562">
+            <data key="SUID">4683</data>
+            <data key="shared name">LHA (interacts with) LPO</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LHA (interacts with) LPO</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55956</data>
+            <data key="source">LHA</data>
+            <data key="target">LPO</data>
+            <data key="weight">0.7876067</data>
+        </edge>
+        <edge source="3564" target="3560">
+            <data key="SUID">4681</data>
+            <data key="shared name">LHA (interacts with) PSTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">LHA (interacts with) PSTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55959</data>
+            <data key="source">LHA</data>
+            <data key="target">PSTN</data>
+            <data key="weight">0.8085927</data>
+        </edge>
+        <edge source="3560" target="3554">
+            <data key="SUID">4679</data>
+            <data key="shared name">PSTN (interacts with) FF</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PSTN (interacts with) FF</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55962</data>
+            <data key="source">PSTN</data>
+            <data key="target">FF</data>
+            <data key="weight">0.8983632</data>
+        </edge>
+        <edge source="3560" target="3538">
+            <data key="SUID">4677</data>
+            <data key="shared name">PSTN (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">PSTN (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55965</data>
+            <data key="source">PSTN</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.8766649</data>
+        </edge>
+        <edge source="3556" target="3554">
+            <data key="SUID">4675</data>
+            <data key="shared name">ZI (interacts with) FF</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ZI (interacts with) FF</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55968</data>
+            <data key="source">ZI</data>
+            <data key="target">FF</data>
+            <data key="weight">0.87733</data>
+        </edge>
+        <edge source="3556" target="3538">
+            <data key="SUID">4673</data>
+            <data key="shared name">ZI (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">ZI (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55971</data>
+            <data key="source">ZI</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.8957112</data>
+        </edge>
+        <edge source="3554" target="3538">
+            <data key="SUID">4671</data>
+            <data key="shared name">FF (interacts with) APTN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">FF (interacts with) APTN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55974</data>
+            <data key="source">FF</data>
+            <data key="target">APTN</data>
+            <data key="weight">0.9317367</data>
+        </edge>
+        <edge source="3550" target="3548">
+            <data key="SUID">4669</data>
+            <data key="shared name">reSN (interacts with) cSN</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">reSN (interacts with) cSN</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+            <data key="data.key.column">55977</data>
+            <data key="source">reSN</data>
+            <data key="target">cSN</data>
+            <data key="weight">0.7382538</data>
+        </edge>
+    </graph>
+</graphml>
