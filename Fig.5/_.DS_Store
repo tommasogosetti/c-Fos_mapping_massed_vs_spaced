@@ -1,0 +1,105 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
+import pandas as pd
+
+
+cysfiles=[
+"input_hcnet 0.65 0.04 default edge.csv",
+"input_mcnet 0.65 default edge.csv",
+"input_msnet 0.65 default edge.csv",
+"input_scnet 0.65 default edge.csv",
+"input_ssnet 0.65 0.04 default edge.csv"
+]
+
+
+def edgelist_from_cytoscape_file(file):
+    edgelist=[]
+    table=pd.read_csv(file)
+    for row in table.loc[:,'name']:
+        edge=((row.split(' ')[0]), (row.split(' ')[-1]))
+        edgelist.append(edge)
+    return edgelist
+
+
+def coarse_from_network(edgelist, cluster_dict, threshold):
+    lista_clusters=list(cluster_dict.keys())
+    listone_coarse_edges_weighted=['node1, node2, weight\n']
+    for cluster1 in lista_clusters:
+        for cluster2 in lista_clusters:
+            if lista_clusters.index(cluster1)<lista_clusters.index(cluster2):
+                connections = 0
+                weight = 0
+                for edge in edgelist:
+                    if edge[0] in cluster_dict[cluster1] and edge[1] in cluster_dict[cluster2] or edge[1] in cluster_dict[cluster1] and edge[0] in cluster_dict[cluster2]:
+                        print('dajeROMA')
+                        print(edge)
+                        connections += 1
+                print('connections='+str(connections))
+                if connections > threshold:
+                    weight = float(connections)/float(len(cluster_dict[cluster1])+len(cluster_dict[cluster2]))
+                    coarse_edge_weighted=cluster1+','+cluster2+','+str(weight)+'\n'
+                    listone_coarse_edges_weighted.append(coarse_edge_weighted)
+    return listone_coarse_edges_weighted
+    
+    
+    
+    
+    
+    
+
+cluster_dict={}
+cluster_dict['olfactory peduncle']=['aOn','TT','DPA']
+cluster_dict['prefrontal&other cortexes']=['FP','PL','IL','dACC','vACC','RS','OA','AU','GA','VA']
+cluster_dict['occipital cortex']=['AA','ViA']
+cluster_dict['sensory-motor cortex']=['M2','M1','S1','SS']
+cluster_dict['temporal cortex']=['TeAA','AuA','Prh','lpEC','Ech']
+cluster_dict['HPC']=['FC','IG','CA1','CA2','CA3','DG','proSub','Sub']
+cluster_dict['claustro-endopiriform complex']=['Clst','dEPn','vEPn','PC','PAA']
+cluster_dict['amygdala']=['LAn','BLA','BMe','PAn','CCA','aAA','CA','IAn','MAn']
+cluster_dict['septum']=['BNST', 'DBn', 'LSN','SFn','MSn','TnS']
+cluster_dict['basal ganglia']=['DLS','DMS','NACC.SHELL','NACC.CORE','FStr','OT','MGCn','Gpe','Gpi','SubInn','STN']
+cluster_dict['anterolateral thalamus']=['AMn','IADT','AVT']
+cluster_dict['medial thalamus']=['LPT','PlnT','IMDT','MDT','pRE','PT','RE','CMT','PCn','CLT','Rh','PVT','XiT','EnT','PCT','PTTn']
+cluster_dict['motory thalamus']=['VALCT','VMT']
+cluster_dict['ventral thalamus and habenula']=['VPLT','VPMT','MGC','dLGC','IGLLGC','vlLGC', 'SMT','subGn','MHb','LHb']
+cluster_dict['reticular nucleus']=['RT']
+cluster_dict['hypothalamic neurosecretory']=['SON','PVH','IPVH','ArH','SPZ']
+cluster_dict['preoptic and hypothalamic nuclei']=['ADPO','AVPO','AVPV','DMH','MePO','MPA','PSN','SCN','AHN','SMN','MPO','VMHn', 'PHn']
+cluster_dict['lateral hypothalamic complex']=['LHA','LPO','PSTN','FF','TN','ZI']
+cluster_dict['nigra-VTA']=['reSN','cSN','VTA']
+cluster_dict['midbrain']=['PAG','SCO','PreCN','APTN']
+
+
+lista_aree_completa=['aOn','TT','DPA','FP','PL','IL','dACC','vACC','RS','OA','AU','GA','VA','AA','ViA','M2','M1','S1','SS','TeAA','AuA','Prh','lpEC','Ech','FC','IG','CA1','CA2','CA3','DG','proSub','Sub','Clst','dEPn','vEPn','PC','PAA','LAn','BLA','BMe','PAn','CCA','aAA','CA','IAn','MAn','LSN','SFn','MSn','DBn','TnS','BNST','DLS','DMS','NACC.SHELL','NACC.CORE','FStr','OT','MGCn','Gpe','Gpi','SubInn','STN','AMn','IADT','AVT','LPT','PlnT','IMDT','MDT','pRE','PT','RE','CMT','PCn','CLT','Rh','PVT','XiT','EnT','PCT','PTTn','VALCT','VMT','VPLT','VPMT','MGC','dLGC','IGLLGC','vlLGC','SMT','subGn','MHb','LHb','RT','SON','PVH','IPVH','ArH','SPZ','ADPO','AVPO','AVPV','DMH','MePO','MPA','PSN','SCN','AHN','SMN','MPO','VMHn','PHn','LHA','LPO','PSTN','FF','TN','ZI','reSN','cSN','VTA','PAG','SCO','PreCN','APTN']
+
+
+lista_aree_nei_cluster=sum(cluster_dict.values(), [])
+
+
+
+
+threshold = 2    #here it is possible to set the threshold for the number of connections between two clusters that define an edge. A threshold of 2 means that only clusters that have at least 3 connections between them will be considered connected.
+for cysfile in cysfiles:
+    edgelist = edgelist_from_cytoscape_file(cysfile)
+    listone_coarse_edges_weighted=coarse_from_network(edgelist, cluster_dict, threshold)
+    filename='output'+cysfile[5:]
+    with open(filename, 'w') as f:
+        f.writelines(listone_coarse_edges_weighted)
+   
+    
+print(lista_aree_completa)
+print(len(lista_aree_completa))
+print(lista_aree_nei_cluster)
+print(len(lista_aree_nei_cluster))
+print(len(set(lista_aree_nei_cluster)))
+
+print(set(lista_aree_completa)-set(lista_aree_nei_cluster))
+print(set(lista_aree_nei_cluster)-set(lista_aree_completa))
+
+for i in lista_aree_nei_cluster:
+    if lista_aree_nei_cluster.count(i)>1:
+        print(i)   
+    
+    

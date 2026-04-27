@@ -1,0 +1,23 @@
+The script "coarse_generation.py" in this folder takes the experimental groups' networks in input and gives coarse networks as output. An edge is traced between clusters when there are at least three edges between their areas.
+The clusters are defined as follows:
+
+olfactory peduncle=aOn,TT,DPA
+prefrontal&other cortexes=FP,PL,IL,dACC,vACC,RS,OA,AU,GA,VA
+occipital cortex=AA,ViA
+sensory-motor cortex=M2,M1,S1,SS
+temporal cortex=TeAA,AuA,Prh,lpEC,Ech
+HPC=FC,IG,CA1,CA2,CA3,DG,proSub,Sub
+claustro-endopiriform complex=Clst,dEPn,vEPn,PC,PAA
+amygdala=LAn,BLA,BMe,PAn,CCA,aAA,CA,IAn,MAn
+septum=BNST, DBn, LSN,SFn,MSn,TnS
+basal ganglia=DLS,DMS,NACC.SHELL,NACC.CORE,FStr,OT,MGCn,Gpe,Gpi,SubInn,STN
+anterolateral thalamus=AMn,IADT,AVT
+medial thalamus=LPT,PlnT,IMDT,MDT,pRE,PT,RE,CMT,PCn,CLT,Rh,PVT,XiT,EnT,PCT,PTTn
+motory thalamus=VALCT,VMT
+ventral thalamus and habenula=VPLT,VPMT,MGC,dLGC,IGLLGC,vlLGC, SMT,subGn,MHb,LHb
+reticular nucleus=RT
+hypothalamic neurosecretory=SON,PVH,IPVH,ArH,SPZ
+preoptic and hypothalamic nuclei=ADPO,AVPO,AVPV,DMH,MePO,MPA,PSN,SCN,AHN,SMN,MPO,VMHn, PHn
+lateral hypothalamic complex=LHA,LPO,PSTN,FF,TN,ZI
+nigra-VTA=reSN,cSN,VTA
+midbrain=PAG,SCO,PreCN,APTN

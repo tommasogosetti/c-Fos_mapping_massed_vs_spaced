@@ -1,0 +1,43 @@
+node1, node2, weight
+olfactory peduncle,prefrontal&other cortexes,0.6923076923076923
+olfactory peduncle,claustro-endopiriform complex,0.625
+prefrontal&other cortexes,occipital cortex,0.6666666666666666
+prefrontal&other cortexes,sensory-motor cortex,1.2142857142857142
+prefrontal&other cortexes,temporal cortex,0.2
+prefrontal&other cortexes,HPC,0.16666666666666666
+prefrontal&other cortexes,claustro-endopiriform complex,0.4666666666666667
+prefrontal&other cortexes,basal ganglia,0.2857142857142857
+occipital cortex,sensory-motor cortex,1.3333333333333333
+occipital cortex,basal ganglia,0.3076923076923077
+sensory-motor cortex,basal ganglia,0.5333333333333333
+HPC,septum,0.5714285714285714
+HPC,basal ganglia,0.3157894736842105
+HPC,ventral thalamus and habenula,0.2777777777777778
+HPC,hypothalamic neurosecretory,0.3076923076923077
+HPC,preoptic and hypothalamic nuclei,0.3333333333333333
+HPC,lateral hypothalamic complex,0.2857142857142857
+HPC,midbrain,0.3333333333333333
+amygdala,septum,0.26666666666666666
+amygdala,basal ganglia,0.25
+amygdala,medial thalamus,0.52
+amygdala,ventral thalamus and habenula,0.15789473684210525
+septum,basal ganglia,0.5882352941176471
+septum,medial thalamus,0.5909090909090909
+septum,ventral thalamus and habenula,0.75
+septum,hypothalamic neurosecretory,0.36363636363636365
+septum,preoptic and hypothalamic nuclei,0.2631578947368421
+septum,midbrain,0.7
+basal ganglia,medial thalamus,0.2222222222222222
+basal ganglia,ventral thalamus and habenula,0.2857142857142857
+basal ganglia,preoptic and hypothalamic nuclei,0.16666666666666666
+basal ganglia,lateral hypothalamic complex,0.17647058823529413
+basal ganglia,midbrain,0.4
+medial thalamus,motory thalamus,0.2777777777777778
+medial thalamus,ventral thalamus and habenula,0.7692307692307693
+medial thalamus,preoptic and hypothalamic nuclei,0.13793103448275862
+medial thalamus,lateral hypothalamic complex,0.18181818181818182
+motory thalamus,ventral thalamus and habenula,0.3333333333333333
+ventral thalamus and habenula,preoptic and hypothalamic nuclei,0.30434782608695654
+ventral thalamus and habenula,midbrain,0.35714285714285715
+preoptic and hypothalamic nuclei,lateral hypothalamic complex,0.42105263157894735
+preoptic and hypothalamic nuclei,midbrain,0.4117647058823529
