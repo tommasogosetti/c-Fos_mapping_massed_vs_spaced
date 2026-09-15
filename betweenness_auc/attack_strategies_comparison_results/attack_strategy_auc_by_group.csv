@@ -1,0 +1,21 @@
+group,strategy,auc,auc_lower_95,auc_upper_95,note
+SS,random,0.8288706153203306,0.6743000687603306,0.8943523418181818,mean of random-attack AUC distribution
+SS,degree,0.847648132231405,,,deterministic adaptive targeted attack
+SS,katz,0.8988388231404959,,,deterministic adaptive targeted attack
+SS,betweenness,0.2937012099173553,,,deterministic adaptive targeted attack
+SS,collective_influence,0.6239040793388431,,,deterministic adaptive targeted attack
+MS,random,0.8729457944926317,0.8087999726315789,0.8983456280701754,mean of random-attack AUC distribution
+MS,degree,0.7497058807017544,,,deterministic adaptive targeted attack
+MS,katz,0.7585179789473684,,,deterministic adaptive targeted attack
+MS,betweenness,0.4143607578947368,,,deterministic adaptive targeted attack
+MS,collective_influence,0.6086033403508772,,,deterministic adaptive targeted attack
+SC,random,0.8357230951986777,0.7249774862809918,0.8904040231404958,mean of random-attack AUC distribution
+SC,degree,0.820607656198347,,,deterministic adaptive targeted attack
+SC,katz,0.8247615471074379,,,deterministic adaptive targeted attack
+SC,betweenness,0.3325787239669421,,,deterministic adaptive targeted attack
+SC,collective_influence,0.48838066776859496,,,deterministic adaptive targeted attack
+MC,random,0.8900453229026549,0.8668336948672566,0.9,mean of random-attack AUC distribution
+MC,degree,0.8987861805309735,,,deterministic adaptive targeted attack
+MC,katz,0.8976114690265486,,,deterministic adaptive targeted attack
+MC,betweenness,0.5563161203539823,,,deterministic adaptive targeted attack
+MC,collective_influence,0.8404985486725663,,,deterministic adaptive targeted attack

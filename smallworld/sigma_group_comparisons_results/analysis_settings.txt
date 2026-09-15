@@ -1,0 +1,15 @@
+SIGMA PLANNED COMPARISONS ANALYSIS
+==================================
+RUN_MODE = FINAL
+N permutations per comparison = 5000
+Nulls per permuted network = 20
+Nulls per observed network = 1000
+Nulls per jackknife network = 50
+Seed = 20260913
+Network rule = positive Pearson r > 0.65 AND two-sided p < 0.04
+Topology = unweighted giant component
+Sigma = (C/C_rand)/(L/L_rand)
+Pairwise test = subject-label permutation without replacement
+P values = two-sided Monte Carlo with +1 correction
+Multiple comparison correction = Holm across planned sigma comparisons
+Planned comparisons = SS vs MS, SC vs MC, SS vs SC, MS vs MC

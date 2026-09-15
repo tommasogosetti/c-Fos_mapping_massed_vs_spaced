@@ -1,0 +1,18 @@
+{
+  "run_mode": "FINAL",
+  "r_threshold": 0.65,
+  "p_threshold": 0.04,
+  "p_sidedness": "two-sided",
+  "network_metrics_component": "giant component",
+  "small_world_formula": "(C/C_rand)/(L/L_rand)",
+  "random_reference": "connected degree-preserving double-edge-swap random networks",
+  "permutations_requested": 5000,
+  "permutations_valid": 5000,
+  "permutations_failed": 0,
+  "random_networks_per_graph": 20,
+  "swap_multiplier": 10,
+  "seed": 20260904,
+  "elapsed_seconds": 20384.485959529877,
+  "checkpoint_every": 50,
+  "resume_from_checkpoint": true
+}

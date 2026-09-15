@@ -1,0 +1,5 @@
+reference_nodes,reference_edges,reconstructed_nodes,reconstructed_edges,common_edges,reference_only_edges,reconstructed_only_edges,edge_union,edge_jaccard,exact_edge_match,group
+126,374,126,374,374,0,0,374,1.0,True,SS
+126,237,126,237,237,0,0,237,1.0,True,MS
+126,253,126,253,253,0,0,253,1.0,True,SC
+126,430,126,430,430,0,0,430,1.0,True,MC

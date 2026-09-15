@@ -1,0 +1,18 @@
+{
+  "test": "stratified_omnibus_betweenness_AUC",
+  "statistic": "mean[(AUC_SS-AUC_MS),(AUC_SC-AUC_MC)]",
+  "auc_SS": 0.2937012099173553,
+  "auc_MS": 0.4143607578947368,
+  "auc_SC": 0.3325787239669421,
+  "auc_MC": 0.5563161203539823,
+  "delta_spatial_SS_minus_MS": -0.12065954797738149,
+  "delta_cue_SC_minus_MC": -0.22373739638704015,
+  "observed_mean_delta_AUC": -0.17219847218221082,
+  "permutations_requested": 5000,
+  "permutations_valid": 5000,
+  "permutations_failed": 0,
+  "p_two_sided_primary": 0.014997000599880024,
+  "p_one_sided_spaced_more_vulnerable_secondary": 0.006998600279944011,
+  "interpretation": "Negative mean delta AUC indicates lower AUC and therefore greater vulnerability in spaced versus massed networks, averaged across spatial and cue tasks.",
+  "first_failures": []
+}

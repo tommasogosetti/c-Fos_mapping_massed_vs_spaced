@@ -1,0 +1,18 @@
+{
+  "metric": "collective_influence",
+  "comparison": "SPACED (SS+SC) vs MASSED (MS+MC)",
+  "auc_SS": 0.6239040793388431,
+  "auc_SC": 0.48838066776859496,
+  "auc_MS": 0.6086033403508772,
+  "auc_MC": 0.8404985486725663,
+  "mean_auc_spaced_SS_SC": 0.556142373553719,
+  "mean_auc_massed_MS_MC": 0.7245509445117218,
+  "observed_delta_auc_spaced_minus_massed": -0.16840857095800277,
+  "permutations_requested": 5000,
+  "permutations_valid": 5000,
+  "permutations_failed": 0,
+  "p_two_sided_primary": 0.08738252349530094,
+  "p_one_sided_spaced_more_vulnerable_secondary": 0.04259148170365927,
+  "interpretation": "Lower AUC = greater vulnerability. A negative Delta AUC means the average SPACED network robustness is lower than the average MASSED network robustness.",
+  "first_failures": []
+}

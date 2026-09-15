@@ -1,0 +1,12 @@
+{
+  "comparison": "SC_vs_MC",
+  "observed_auc_SC": 0.3325787239669421,
+  "observed_auc_MC": 0.5563161203539823,
+  "observed_delta_auc_A_minus_B": -0.22373739638704015,
+  "permutations_requested": 5000,
+  "permutations_valid": 5000,
+  "permutations_failed": 0,
+  "p_two_sided": 0.033193361327734455,
+  "interpretation": "Smaller AUC = greater network vulnerability; negative Delta AUC means group A is more vulnerable than group B.",
+  "first_failures": []
+}

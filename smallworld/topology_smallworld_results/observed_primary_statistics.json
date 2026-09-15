@@ -1,0 +1,37 @@
+{
+  "global_efficiency": {
+    "SS_minus_MS": -0.003960541637075904,
+    "SC_minus_MC": -0.0907578594045759,
+    "mean_spaced": 0.22685477098411208,
+    "mean_massed": 0.274213971504938,
+    "mean_spaced_minus_massed": -0.0473592005208259
+  },
+  "characteristic_path_length": {
+    "SS_minus_MS": 0.6913164759334895,
+    "SC_minus_MC": 2.2106118070719836,
+    "mean_spaced": 6.345936639118458,
+    "mean_massed": 4.89497249761572,
+    "mean_spaced_minus_massed": 1.4509641415027366
+  },
+  "clustering_coefficient": {
+    "SS_minus_MS": 0.2095548270298162,
+    "SC_minus_MC": -0.10229890622635451,
+    "mean_spaced": 0.46199161261144733,
+    "mean_massed": 0.4083636522097165,
+    "mean_spaced_minus_massed": 0.053627960401730845
+  },
+  "transitivity": {
+    "SS_minus_MS": 0.2976856460641736,
+    "SC_minus_MC": -0.13621432171164155,
+    "mean_spaced": 0.5471656830864347,
+    "mean_massed": 0.4664300209101686,
+    "mean_spaced_minus_massed": 0.08073566217626602
+  },
+  "small_world_sigma": {
+    "SS_minus_MS": -2.2259373785707823,
+    "SC_minus_MC": 2.073290257979144,
+    "mean_spaced": 3.8494399397522354,
+    "mean_massed": 3.9257635000480544,
+    "mean_spaced_minus_massed": -0.07632356029581921
+  }
+}

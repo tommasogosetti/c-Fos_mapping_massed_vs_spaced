@@ -1,0 +1,28 @@
+{
+  "analysis": "descriptive attack-strategy comparison",
+  "groups": [
+    "SS",
+    "MS",
+    "SC",
+    "MC"
+  ],
+  "strategies": [
+    "random",
+    "degree",
+    "katz",
+    "betweenness",
+    "collective_influence"
+  ],
+  "network_threshold": {
+    "r": 0.65,
+    "p_two_sided": 0.04
+  },
+  "minimum_component_size": 5,
+  "attack_measurements": 30,
+  "auc_qmax": 0.2,
+  "katz_alpha": 0.06,
+  "ci_radius": 4,
+  "random_attacks_per_group": 5000,
+  "interpretation": "lower AUC = lower resilience / more destructive attack",
+  "important_note": "Means across SS/MS/SC/MC are descriptive summaries of four group-level networks, not an inferential n=4 test. A subject-level paired bootstrap is required for formal uncertainty on differences between targeted strategies."
+}
